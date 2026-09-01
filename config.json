@@ -3,6 +3,8 @@
   "minMonthlyVisits": 3000,
   "minSearchShare": 0.2,
   "minDirectShare": 0.2,
+  "minVotes": 5,
+  "maxPosts": 500,
   "cacheTtlDays": 30,
   "platformDomains": [
     "vercel.app",

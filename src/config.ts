@@ -5,7 +5,7 @@ const REQUIRED: (keyof Config)[] = [
   'maxDomainAgeDays',
   'minMonthlyVisits',
   'minSearchShare',
-  'minDirectShare',
+  'minDirectShare', 'minVotes', 'maxPosts',
   'cacheTtlDays',
   'platformDomains',
   'detailUrlTemplate',

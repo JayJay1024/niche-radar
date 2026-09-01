@@ -30,7 +30,7 @@ import { runDaily } from '../src/run-daily.js';
 
 const cfg: Config = {
   maxDomainAgeDays: 365, minMonthlyVisits: 3000, minSearchShare: 0.2, minDirectShare: 0.2,
-  cacheTtlDays: 30, platformDomains: [], detailUrlTemplate: 'https://www.similarweb.com/website/{domain}/',
+  minVotes: 0, maxPosts: 500, cacheTtlDays: 30, platformDomains: [], detailUrlTemplate: 'https://www.similarweb.com/website/{domain}/',
 };
 const provider = {
   lookup: vi.fn(async () => ({

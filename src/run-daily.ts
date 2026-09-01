@@ -21,7 +21,7 @@ export interface RunOpts {
 export async function runDaily(opts: RunOpts): Promise<DailyReport> {
   const { date, phToken, provider, cfg, dataDir } = opts;
   const cacheDir = join(dataDir, 'cache');
-  const posts = await fetchPosts(date, phToken);
+  const posts = await fetchPosts(date, phToken, { minVotes: cfg.minVotes, maxPosts: cfg.maxPosts });
 
   const products: ProductResult[] = [];
   for (const post of posts) {

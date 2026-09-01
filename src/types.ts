@@ -3,6 +3,10 @@ export interface Config {
   minMonthlyVisits: number;
   minSearchShare: number;
   minDirectShare: number;
+  /** PH 拉取:票数低于此值停止翻页(0=不限);全量拉取会耗尽 API 复杂度配额 */
+  minVotes: number;
+  /** PH 拉取:单日产品数上限 */
+  maxPosts: number;
   cacheTtlDays: number;
   platformDomains: string[];
   /** 达标站点"流量详情"外链模板,{domain} 占位 */

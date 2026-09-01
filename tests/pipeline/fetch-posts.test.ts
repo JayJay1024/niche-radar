@@ -37,6 +37,27 @@ describe('fetchPosts', () => {
     expect(body2.variables.after).toBe('CUR1');
   });
 
+  it('minVotes:票数低于阈值即停止翻页(VOTES 降序)', async () => {
+    const page1 = structuredClone(page);
+    page1.data.posts.pageInfo = { hasNextPage: true, endCursor: 'CUR1' };
+    // fixture: CoolApp 321 票, NoSite 5 票;minVotes=10 应在 NoSite 处停止且不再翻页
+    const mock = vi.fn().mockResolvedValue(new Response(JSON.stringify(page1), { status: 200 }));
+    vi.stubGlobal('fetch', mock);
+    const posts = await fetchPosts('2026-08-31', 'tok', { minVotes: 10 });
+    expect(posts.map((p) => p.name)).toEqual(['CoolApp']);
+    expect(mock).toHaveBeenCalledTimes(1); // 未继续翻页
+  });
+
+  it('maxPosts:达到上限即停止', async () => {
+    const page1 = structuredClone(page);
+    page1.data.posts.pageInfo = { hasNextPage: true, endCursor: 'CUR1' };
+    const mock = vi.fn().mockResolvedValue(new Response(JSON.stringify(page1), { status: 200 }));
+    vi.stubGlobal('fetch', mock);
+    const posts = await fetchPosts('2026-08-31', 'tok', { maxPosts: 1 });
+    expect(posts).toHaveLength(1);
+    expect(mock).toHaveBeenCalledTimes(1);
+  });
+
   it('GraphQL errors 字段非空时抛出', async () => {
     vi.stubGlobal('fetch', vi.fn().mockResolvedValue(
       new Response(JSON.stringify({ errors: [{ message: 'rate limited' }] }), { status: 200 }),
