@@ -10,18 +10,17 @@ export async function getRegisteredAt(
 ): Promise<string | null> {
   const cached = readCache<{ registeredAt: string | null }>(cacheDir, domain, 'rdap', ttlDays);
   if (cached !== null) return cached.registeredAt;
-  let registeredAt: string | null = null;
   try {
     const res = await fetchWithRetry(`https://rdap.org/domain/${domain}`, {
       headers: { accept: 'application/rdap+json' },
     });
     const body = (await res.json()) as { events?: RdapEvent[] };
-    registeredAt = body.events?.find((e) => e.eventAction === 'registration')?.eventDate ?? null;
+    const registeredAt = body.events?.find((e) => e.eventAction === 'registration')?.eventDate ?? null;
+    writeCache(cacheDir, domain, 'rdap', { registeredAt });
+    return registeredAt;
   } catch {
-    registeredAt = null;
+    return null; // 请求失败不缓存,下次重试(与 tabapi 语义一致)
   }
-  writeCache(cacheDir, domain, 'rdap', { registeredAt });
-  return registeredAt;
 }
 
 export function ageInDays(registeredAt: string, now: Date = new Date()): number {

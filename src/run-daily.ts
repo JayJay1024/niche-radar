@@ -90,7 +90,13 @@ if (isMain) {
   try {
     const report = await runDaily({ date, phToken, provider, cfg, dataDir: 'data' });
     console.log(`[niche-radar] ${date}: ${report.funnel.qualified}/${report.funnel.total} qualified`);
-    if (webhook) await postToSlack(webhook, buildDailyMessage(report));
+    if (webhook) {
+      try {
+        await postToSlack(webhook, buildDailyMessage(report));
+      } catch (slackErr) {
+        console.error(`[niche-radar] Slack digest failed: ${String(slackErr)}`);
+      }
+    }
   } catch (err) {
     if (webhook) {
       try {

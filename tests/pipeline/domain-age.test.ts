@@ -26,9 +26,27 @@ describe('getRegisteredAt', () => {
     expect(mock).toHaveBeenCalledTimes(1); // 第二次命中缓存,不出网
   });
 
-  it('RDAP 查询失败返回 null', async () => {
+  it('RDAP 查询失败返回 null 且不缓存失败结果', async () => {
     vi.stubGlobal('fetch', vi.fn().mockRejectedValue(new Error('404')));
-    expect(await getRegisteredAt('unknown.tld', tmp(), 30)).toBeNull();
+    const dir = tmp();
+    expect(await getRegisteredAt('unknown.tld', dir, 30)).toBeNull();
+    // 失败不写缓存:换一个成功的 fetch 再查,应出网
+    const ok = vi.fn().mockResolvedValue(new Response(JSON.stringify(rdapFixture), { status: 200 }));
+    vi.stubGlobal('fetch', ok);
+    await getRegisteredAt('unknown.tld', dir, 30);
+    expect(ok).toHaveBeenCalledTimes(1);
+  });
+
+  it('成功响应但无 registration 事件时缓存 null 避免重复请求', async () => {
+    const dir = tmp();
+    const noRegEvent = { events: [{ eventAction: 'expiration', eventDate: '2027-01-01T00:00:00Z' }] };
+    const mock = vi.fn().mockResolvedValue(new Response(JSON.stringify(noRegEvent), { status: 200 }));
+    vi.stubGlobal('fetch', mock);
+    const result1 = await getRegisteredAt('noreg.tld', dir, 30);
+    const result2 = await getRegisteredAt('noreg.tld', dir, 30);
+    expect(result1).toBeNull();
+    expect(result2).toBeNull();
+    expect(mock).toHaveBeenCalledTimes(1); // 第二次命中缓存,未出网
   });
 });
 

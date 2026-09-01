@@ -3,15 +3,19 @@ import { fetchWithRetry } from './http.js';
 
 const pct = (n: number) => `${Math.round(n * 100)}%`;
 const num = (n: number) => n.toLocaleString('en-US');
+const mrkdwnEsc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
 function productBlock(p: ProductResult): object {
   const t = p.traffic!;
+  const name = mrkdwnEsc(p.name);
+  const tagline = mrkdwnEsc(p.tagline);
+  const domain = mrkdwnEsc(p.domain ?? '');
   return {
     type: 'section',
     text: {
       type: 'mrkdwn',
       text: [
-        `*<${p.url}|${p.domain}>* — ${p.name}: ${p.tagline}`,
+        `*<${p.url}|${domain}>* — ${name}: ${tagline}`,
         `注册 ${p.registeredAt?.slice(0, 10)} · 月访 ${num(t.monthlyVisits)} · 搜索 ${pct(t.sources.search)} · 直访 ${pct(t.sources.direct)}`,
         `<${p.phUrl}|PH 页面> · <${p.aitdkUrl}|AITDK 关键词>`,
       ].join('\n'),

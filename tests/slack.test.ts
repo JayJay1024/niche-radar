@@ -29,6 +29,20 @@ describe('buildDailyMessage', () => {
     const empty = { ...report, funnel: { ...report.funnel, qualified: 0 }, products: [] };
     expect(JSON.stringify(buildDailyMessage(empty))).toContain('0');
   });
+  it('产品名/标语/域名中的尖括号在 mrkdwn 中被转义', () => {
+    const evil: DailyReport = {
+      ...report,
+      products: [{
+        ...report.products[0],
+        name: 'Evil <x>', tagline: 'a & b <script>',
+      }],
+    };
+    const text = JSON.stringify(buildDailyMessage(evil));
+    expect(text).not.toContain('<x>');
+    expect(text).not.toContain('<script>');
+    expect(text).toContain('&lt;x&gt;');
+    expect(text).toContain('a &amp; b &lt;script&gt;');
+  });
 });
 
 describe('buildFailureMessage', () => {

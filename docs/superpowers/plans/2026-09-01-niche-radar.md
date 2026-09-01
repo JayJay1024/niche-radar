@@ -1759,8 +1759,9 @@ on:
   workflow_dispatch:
 
 permissions:
+  contents: read
   pages: write
-  id-token: read
+  id-token: write
 
 jobs:
   deploy:
