@@ -2,101 +2,51 @@
   "date": "2026-08-31",
   "funnel": {
     "total": 36,
-    "resolved": 33,
-    "newDomains": 26,
-    "hasTraffic": 26,
+    "resolved": 0,
+    "newDomains": 0,
+    "hasTraffic": 0,
     "qualified": 0
   },
   "products": [
     {
       "name": "Video Agent by Fotor",
       "tagline": "Create and edit precision motion graphics & video with chat",
-      "votes": 363,
+      "votes": 365,
       "phUrl": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://www.fotor.com/video/",
-      "domain": "fotor.com",
-      "registeredAt": "2004-03-29T19:27:28Z",
-      "eliminatedBy": "domain-age"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "BrandJet",
       "tagline": "Turn public buying signals into sales pipeline",
-      "votes": 269,
+      "votes": 271,
       "phUrl": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://www.brandjet.ai/",
-      "domain": "brandjet.ai",
-      "registeredAt": "2025-06-04T16:08:16.907Z",
-      "eliminatedBy": "domain-age"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Interactive Sessions",
       "tagline": "Drive the full SDLC with AI agents, step by step",
-      "votes": 259,
+      "votes": 261,
       "phUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://revolte.ai/",
-      "domain": "revolte.ai",
-      "registeredAt": "2024-12-27T18:44:37Z",
-      "eliminatedBy": "domain-age"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Tether",
       "tagline": "A ball for boring meetings to keep you busy",
-      "votes": 219,
+      "votes": 221,
       "phUrl": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://www.playtether.app/",
-      "domain": "playtether.app",
-      "registeredAt": "2026-07-26T09:25:15.936Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Ask My Wardrobe",
       "tagline": "The complete digital wardrobe experience",
-      "votes": 216,
+      "votes": 217,
       "phUrl": "https://www.producthunt.com/products/ask-my-wardrobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://askmywardrobe.com/",
-      "domain": "askmywardrobe.com",
-      "registeredAt": "2026-03-15T13:17:49Z",
-      "traffic": {
-        "monthlyVisits": 1054,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": [
-          {
-            "name": "is there a app that can make me a outfit",
-            "volume": 120
-          },
-          {
-            "name": "i shop my wardrobe",
-            "volume": 30
-          },
-          {
-            "name": "sasz wardrobe wonderland and wireless workshop 1401 nw 22nd st miami, florida, 33142-7767",
-            "volume": 0
-          }
-        ]
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "EP–2350 FX–MIC",
@@ -104,10 +54,7 @@
       "votes": 209,
       "phUrl": "https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://teenage.engineering/store/ep-2350",
-      "domain": "teenage.engineering",
-      "registeredAt": "2014-10-04T09:17:17.393Z",
-      "eliminatedBy": "domain-age"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "BrandMyLaptop",
@@ -115,21 +62,7 @@
       "votes": 175,
       "phUrl": "https://www.producthunt.com/products/brandmylaptop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://brandmylaptop.com/",
-      "domain": "brandmylaptop.com",
-      "registeredAt": "2026-08-26T14:30:32Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Orato",
@@ -137,15 +70,12 @@
       "votes": 142,
       "phUrl": "https://www.producthunt.com/products/orato-speech-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://orato.tepoyan.com/",
-      "domain": "tepoyan.com",
-      "registeredAt": "2022-09-08T05:54:26Z",
-      "eliminatedBy": "domain-age"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Radar by Particle",
       "tagline": "The Podcast Search Engine",
-      "votes": 138,
+      "votes": 140,
       "phUrl": "https://www.producthunt.com/products/particle-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
       "eliminatedBy": "resolve-failed"
@@ -156,26 +86,7 @@
       "votes": 135,
       "phUrl": "https://www.producthunt.com/products/frameos-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://tryframeos.com/",
-      "domain": "tryframeos.com",
-      "registeredAt": "2026-05-29T09:57:45Z",
-      "traffic": {
-        "monthlyVisits": 1167,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": [
-          {
-            "name": "frameos",
-            "volume": 430
-          }
-        ]
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "WebTerm Learn",
@@ -183,69 +94,15 @@
       "votes": 133,
       "phUrl": "https://www.producthunt.com/products/webterm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://learn.webterm.app/en",
-      "domain": "webterm.app",
-      "registeredAt": "2026-01-09T13:17:08.595Z",
-      "traffic": {
-        "monthlyVisits": 4404,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": [
-          {
-            "name": "try linux online",
-            "volume": 510
-          },
-          {
-            "name": "online terminal",
-            "volume": 900
-          },
-          {
-            "name": "terminal web",
-            "volume": 1050
-          },
-          {
-            "name": "linux コマンド 練習サイト",
-            "volume": 0
-          },
-          {
-            "name": "kali linux online terminal free",
-            "volume": 0
-          }
-        ]
-      },
-      "eliminatedBy": "search-share"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "StackScope",
       "tagline": "See what new sites are built with, the week they launch",
-      "votes": 115,
+      "votes": 117,
       "phUrl": "https://www.producthunt.com/products/stackscope-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://stackscope.dev/",
-      "domain": "stackscope.dev",
-      "registeredAt": "2026-04-03T09:25:57.571Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": [
-          {
-            "name": "stackscope",
-            "volume": 290
-          }
-        ]
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Houndly",
@@ -253,21 +110,7 @@
       "votes": 29,
       "phUrl": "https://www.producthunt.com/products/houndly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://houndly.io/",
-      "domain": "houndly.io",
-      "registeredAt": "2026-01-26T13:34:27.000Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "LeaseBase",
@@ -275,42 +118,7 @@
       "votes": 25,
       "phUrl": "https://www.producthunt.com/products/leasebase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://leasebase.ai/",
-      "domain": "leasebase.ai",
-      "registeredAt": "2026-03-07T03:27:08.244Z",
-      "traffic": {
-        "monthlyVisits": 3678,
-        "sources": {
-          "direct": 0.8707,
-          "search": 0,
-          "referral": 0.0647,
-          "social": 0,
-          "mail": 0.0647
-        },
-        "topKeywords": [
-          {
-            "name": "sf rent board",
-            "volume": 670
-          },
-          {
-            "name": "are tamarac & buildium similar",
-            "volume": 420
-          },
-          {
-            "name": "turbotenant vs rentec",
-            "volume": 400
-          },
-          {
-            "name": "can an owner pass alogn 1/2 of the rap fee to tenans in oakalnd",
-            "volume": 380
-          },
-          {
-            "name": "oakland rent adjustment ordinance",
-            "volume": 380
-          }
-        ]
-      },
-      "eliminatedBy": "search-share"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Mascofast",
@@ -318,21 +126,7 @@
       "votes": 16,
       "phUrl": "https://www.producthunt.com/products/mascofast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://mascofast.com/",
-      "domain": "mascofast.com",
-      "registeredAt": "2026-07-14T05:16:24Z",
-      "traffic": {
-        "monthlyVisits": 2631,
-        "sources": {
-          "direct": 0.7678,
-          "search": 0,
-          "referral": 0.0035,
-          "social": 0.2287,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "ConscioussAI",
@@ -340,42 +134,7 @@
       "votes": 14,
       "phUrl": "https://www.producthunt.com/products/conscioussai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://www.conscioussai.com/",
-      "domain": "conscioussai.com",
-      "registeredAt": "2025-10-15T21:31:27Z",
-      "traffic": {
-        "monthlyVisits": 3343,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": [
-          {
-            "name": "tasklet",
-            "volume": 17360
-          },
-          {
-            "name": "tasklet ai",
-            "volume": 9230
-          },
-          {
-            "name": "victor ai slack",
-            "volume": 400
-          },
-          {
-            "name": "viktor, your ai coworker | lives in your slack | ai agent, not a chatbotviktor.com",
-            "volume": 210
-          },
-          {
-            "name": "conscious app",
-            "volume": 170
-          }
-        ]
-      },
-      "eliminatedBy": "search-share"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "GitFig",
@@ -383,42 +142,7 @@
       "votes": 13,
       "phUrl": "https://www.producthunt.com/products/gitfig?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://gitfig.com/",
-      "domain": "gitfig.com",
-      "registeredAt": "2025-12-17T20:29:02Z",
-      "traffic": {
-        "monthlyVisits": 2089,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": [
-          {
-            "name": "figma github",
-            "volume": 1280
-          },
-          {
-            "name": "figma and github",
-            "volume": 250
-          },
-          {
-            "name": "github figma pro",
-            "volume": 250
-          },
-          {
-            "name": "figma to github bridge.",
-            "volume": 240
-          },
-          {
-            "name": "can i add figma file to git to automate design?",
-            "volume": 200
-          }
-        ]
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Fraime",
@@ -426,21 +150,7 @@
       "votes": 12,
       "phUrl": "https://www.producthunt.com/products/fraime-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://fraimesmm.art/",
-      "domain": "fraimesmm.art",
-      "registeredAt": "2026-08-30T00:00:32.0Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Remivu",
@@ -448,21 +158,7 @@
       "votes": 10,
       "phUrl": "https://www.producthunt.com/products/remivu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://remivu.com/",
-      "domain": "remivu.com",
-      "registeredAt": "2026-08-21T15:22:13Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Claimads.land",
@@ -470,21 +166,7 @@
       "votes": 10,
       "phUrl": "https://www.producthunt.com/products/claimads-land?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://claimads.land/",
-      "domain": "claimads.land",
-      "registeredAt": "2026-08-29T16:44:21.208Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Claimads.land",
@@ -492,21 +174,7 @@
       "votes": 10,
       "phUrl": "https://www.producthunt.com/products/claimads-land?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://claimads.land/",
-      "domain": "claimads.land",
-      "registeredAt": "2026-08-29T16:44:21.208Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "CreditFX",
@@ -514,10 +182,7 @@
       "votes": 9,
       "phUrl": "https://www.producthunt.com/products/creditfx-the-exchange-rate-for-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://creditfx.mogabr.com/",
-      "domain": "mogabr.com",
-      "registeredAt": "2020-04-13T12:49:48Z",
-      "eliminatedBy": "domain-age"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "WaterMe",
@@ -525,34 +190,7 @@
       "votes": 9,
       "phUrl": "https://www.producthunt.com/products/waterme?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://www.waterme.app/",
-      "domain": "waterme.app",
-      "registeredAt": "2026-03-13T09:02:18.702Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": [
-          {
-            "name": "zz pflanze von erde auf wasser umpflanzen",
-            "volume": 630
-          },
-          {
-            "name": "how long can a pachypodium lamerei stay out of soil",
-            "volume": 390
-          },
-          {
-            "name": "ficus benghalensis audrey y gatos",
-            "volume": 80
-          }
-        ]
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Faurus",
@@ -560,21 +198,7 @@
       "votes": 8,
       "phUrl": "https://www.producthunt.com/products/faurus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://faurus.app/",
-      "domain": "faurus.app",
-      "registeredAt": "2026-04-03T22:14:04.369Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Rival Radar",
@@ -582,21 +206,7 @@
       "votes": 8,
       "phUrl": "https://www.producthunt.com/products/rival-radar-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://rivalradar.me/",
-      "domain": "rivalradar.me",
-      "registeredAt": "2026-08-25T13:02:58.000Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "MapWars",
@@ -604,43 +214,7 @@
       "votes": 8,
       "phUrl": "https://www.producthunt.com/products/mapwars?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://mapwars.wtf/",
-      "domain": "mapwars.wtf",
-      "registeredAt": "2026-08-24T01:31:30.758Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
-    },
-    {
-      "name": "SHODH — Autonomous Research Intelligence",
-      "tagline": "Investigate deeply. Decide confidently. Act on evidence.",
-      "votes": 7,
-      "phUrl": "https://www.producthunt.com/products/shodh-autonomous-research-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
-      "status": "eliminated",
-      "url": "https://www.shodh.xyz/",
-      "domain": "shodh.xyz",
-      "registeredAt": "2026-08-15T04:18:39.0Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Influencer Finder",
@@ -648,10 +222,23 @@
       "votes": 7,
       "phUrl": "https://www.producthunt.com/products/oriane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://www.oriane.xyz/free-tools/influencer-finder",
-      "domain": "oriane.xyz",
-      "registeredAt": "2024-06-17T11:54:43.0Z",
-      "eliminatedBy": "domain-age"
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "SHODH — Autonomous Research Intelligence",
+      "tagline": "Investigate deeply. Decide confidently. Act on evidence.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/shodh-autonomous-research-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Out Hood",
+      "tagline": "Bid your way out of the hood to Hollywood",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/out-hood?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Warpforge",
@@ -659,43 +246,7 @@
       "votes": 6,
       "phUrl": "https://www.producthunt.com/products/warpforge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://warpforge.app/",
-      "domain": "warpforge.app",
-      "registeredAt": "2026-08-25T18:06:25.352Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
-    },
-    {
-      "name": "Montage",
-      "tagline": "Search and share media!",
-      "votes": 6,
-      "phUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
-      "status": "eliminated",
-      "url": "https://www.montages.co/",
-      "domain": "montages.co",
-      "registeredAt": "2026-06-29T19:55:38.000Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Valentina Studio 18",
@@ -706,48 +257,20 @@
       "eliminatedBy": "resolve-failed"
     },
     {
-      "name": "Out Hood",
-      "tagline": "Bid your way out of the hood to Hollywood",
-      "votes": 6,
-      "phUrl": "https://www.producthunt.com/products/out-hood?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
-      "status": "eliminated",
-      "url": "https://outhood.lol/",
-      "domain": "outhood.lol",
-      "registeredAt": "2026-08-31T05:20:06.0Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
-    },
-    {
       "name": "ShowGame",
       "tagline": "Discover standout indie games, follow weekly launches, and h",
       "votes": 6,
       "phUrl": "https://www.producthunt.com/products/showgame?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://showgame.lol/",
-      "domain": "showgame.lol",
-      "registeredAt": "2026-08-27T05:29:10.0Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Montage",
+      "tagline": "Search and share media!",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Collab",
@@ -755,29 +278,7 @@
       "votes": 5,
       "phUrl": "https://www.producthunt.com/products/collab-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "eliminatedBy": "platform-domain"
-    },
-    {
-      "name": "Free AI image generator",
-      "tagline": "Free AI image generator + stock photo search, no login",
-      "votes": 5,
-      "phUrl": "https://www.producthunt.com/products/free-ai-image-generator-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
-      "status": "eliminated",
-      "url": "https://www.image-generator.xyz/",
-      "domain": "image-generator.xyz",
-      "registeredAt": "2026-08-28T22:28:21.0Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
     },
     {
       "name": "Alien Task",
@@ -785,21 +286,15 @@
       "votes": 5,
       "phUrl": "https://www.producthunt.com/products/alien-task?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
       "status": "eliminated",
-      "url": "https://alientask.io/",
-      "domain": "alientask.io",
-      "registeredAt": "2026-07-20T19:49:54.000Z",
-      "traffic": {
-        "monthlyVisits": 0,
-        "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
-        },
-        "topKeywords": []
-      },
-      "eliminatedBy": "monthly-visits"
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Free AI image generator",
+      "tagline": "Free AI image generator + stock photo search, no login",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/free-ai-image-generator-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
     }
   ]
 }
