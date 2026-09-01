@@ -5,12 +5,18 @@ const ELIMINATED_LABEL = {
 };
 const pct = (n) => `${Math.round(n * 100)}%`;
 const num = (n) => n.toLocaleString('en-US');
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const safeUrl = (u) => /^https?:\/\//.test(u ?? '') ? esc(u) : '#';
 
 async function loadIndex() {
-  return (await fetch('./data/index.json')).json();
+  const res = await fetch('./data/index.json');
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
 }
 async function loadDay(date) {
-  return (await fetch(`./data/daily/${date}.json`)).json();
+  const res = await fetch(`./data/daily/${date}.json`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
 }
 
 function renderFunnel(f) {
@@ -29,8 +35,8 @@ function renderQualified(products) {
     ? '<p class="empty">今日无达标站点</p>'
     : list.map((p) => `
       <article class="card">
-        <h3><a href="${p.url}" target="_blank" rel="noopener">${p.domain}</a></h3>
-        <p>${p.name} — ${p.tagline}</p>
+        <h3><a href="${safeUrl(p.url)}" target="_blank" rel="noopener">${esc(p.domain)}</a></h3>
+        <p>${esc(p.name)} — ${esc(p.tagline)}</p>
         <dl>
           <div><dt>注册</dt><dd>${p.registeredAt.slice(0, 10)}</dd></div>
           <div><dt>月访</dt><dd>${num(p.traffic.monthlyVisits)}</dd></div>
@@ -38,8 +44,8 @@ function renderQualified(products) {
           <div><dt>直访</dt><dd>${pct(p.traffic.sources.direct)}</dd></div>
         </dl>
         <p class="links">
-          <a href="${p.phUrl}" target="_blank" rel="noopener">PH 页面</a>
-          <a href="${p.aitdkUrl}" target="_blank" rel="noopener">AITDK 关键词</a>
+          <a href="${safeUrl(p.phUrl)}" target="_blank" rel="noopener">PH 页面</a>
+          <a href="${safeUrl(p.aitdkUrl)}" target="_blank" rel="noopener">AITDK 关键词</a>
         </p>
       </article>`).join('');
 }
@@ -49,24 +55,42 @@ function renderEliminated(products) {
   document.getElementById('eliminated-list').innerHTML = `
     <table><thead><tr><th>产品</th><th>域名</th><th>原因</th></tr></thead><tbody>
     ${rest.map((p) => `<tr>
-      <td><a href="${p.phUrl}" target="_blank" rel="noopener">${p.name}</a></td>
-      <td>${p.domain ?? '—'}</td>
-      <td>${p.status === 'error' ? `错误:${p.error ?? ''}` : ELIMINATED_LABEL[p.eliminatedBy] ?? p.eliminatedBy}</td>
+      <td><a href="${safeUrl(p.phUrl)}" target="_blank" rel="noopener">${esc(p.name)}</a></td>
+      <td>${esc(p.domain ?? '—')}</td>
+      <td>${p.status === 'error' ? `错误:${esc(p.error ?? '')}` : ELIMINATED_LABEL[p.eliminatedBy] ?? p.eliminatedBy}</td>
     </tr>`).join('')}
     </tbody></table>`;
 }
 
-async function show(date) {
-  const day = await loadDay(date);
-  renderFunnel(day.funnel);
-  renderQualified(day.products);
-  renderEliminated(day.products);
+function showError(msg) {
+  document.getElementById('funnel').innerHTML = `<p class="empty">${msg}</p>`;
+  document.getElementById('qualified-list').innerHTML = '';
+  document.getElementById('eliminated-list').innerHTML = '';
 }
 
-const index = await loadIndex();
+async function show(date) {
+  try {
+    const day = await loadDay(date);
+    renderFunnel(day.funnel);
+    renderQualified(day.products);
+    renderEliminated(day.products);
+  } catch (e) {
+    showError('数据加载失败,请稍后重试');
+  }
+}
+
 const picker = document.getElementById('date-picker');
-picker.innerHTML = [...index].reverse()
-  .map((r) => `<option value="${r.date}">${r.date}(${r.qualified} 达标)</option>`)
-  .join('');
-picker.addEventListener('change', () => show(picker.value));
-if (index.length > 0) await show(index[index.length - 1].date);
+try {
+  const index = await loadIndex();
+  if (index.length === 0) {
+    showError('暂无数据');
+  } else {
+    picker.innerHTML = [...index].reverse()
+      .map((r) => `<option value="${r.date}">${r.date}(${r.qualified} 达标)</option>`)
+      .join('');
+    picker.addEventListener('change', () => show(picker.value));
+    await show(index[index.length - 1].date);
+  }
+} catch (e) {
+  showError('数据加载失败,请稍后重试');
+}
