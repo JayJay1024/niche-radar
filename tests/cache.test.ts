@@ -28,4 +28,18 @@ describe('cache', () => {
     const dir = mkdtempSync(join(tmpdir(), 'nr-cache-'));
     expect(readCache(dir, 'nope.com', 'rdap', 30)).toBeNull();
   });
+
+  it('损坏的缓存文件作为缓存未中处理', () => {
+    const dir = mkdtempSync(join(tmpdir(), 'nr-cache-'));
+    const p = join(dir, 'corrupt.com.json');
+    // 写入损坏的 JSON
+    writeFileSync(p, '{corrupt');
+    // readCache 应该返回 null
+    expect(readCache(dir, 'corrupt.com', 'rdap', 30)).toBeNull();
+    // writeCache 应该成功修复
+    writeCache(dir, 'corrupt.com', 'rdap', { fixed: true });
+    // 后续 readCache 应该返回新值
+    const hit = readCache<{ fixed: boolean }>(dir, 'corrupt.com', 'rdap', 30);
+    expect(hit?.fixed).toBe(true);
+  });
 });
