@@ -18,6 +18,10 @@ describe('parseTabApiResponse', () => {
   it('缺流量字段返回 null', () => {
     expect(parseTabApiResponse({ domain: 'x.com' })).toBeNull();
   });
+  it('非对象输入返回 null', () => {
+    expect(parseTabApiResponse(null)).toBeNull();
+    expect(parseTabApiResponse('oops')).toBeNull();
+  });
 });
 
 describe('createTabApiProvider', () => {
@@ -51,5 +55,18 @@ describe('createTabApiProvider', () => {
     vi.stubGlobal('fetch', ok);
     await provider.lookup('down.com');
     expect(ok).toHaveBeenCalledTimes(1);
+  });
+
+  it('成功响应但无流量数据时缓存 null 避免重复请求', async () => {
+    const dir = tmp();
+    const noDataResponse = { domain: 'x.com' }; // 无流量数据
+    const mock = vi.fn().mockResolvedValue(new Response(JSON.stringify(noDataResponse), { status: 200 }));
+    vi.stubGlobal('fetch', mock);
+    const provider = createTabApiProvider('key123', dir, 30);
+    const result1 = await provider.lookup('x.com');
+    const result2 = await provider.lookup('x.com');
+    expect(result1).toBeNull();
+    expect(result2).toBeNull();
+    expect(mock).toHaveBeenCalledTimes(1); // 第二次命中缓存,未出网
   });
 });

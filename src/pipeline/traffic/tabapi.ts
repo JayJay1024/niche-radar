@@ -6,6 +6,7 @@ import { readCache, writeCache } from '../../cache.js';
 const BASE = 'https://tabapi.com/api/traffic'; // probe 后按真实文档修正
 
 export function parseTabApiResponse(raw: unknown): Traffic | null {
+  if (typeof raw !== 'object' || raw === null) return null;
   const r = raw as { visits?: number; sources?: Record<string, number> };
   if (typeof r.visits !== 'number' || !r.sources) return null;
   return {
