@@ -1,0 +1,23 @@
+{
+  "data": {
+    "posts": {
+      "pageInfo": { "hasNextPage": false, "endCursor": "Mg==" },
+      "nodes": [
+        {
+          "name": "CoolApp",
+          "tagline": "Do cool things",
+          "votesCount": 321,
+          "url": "https://www.producthunt.com/posts/coolapp",
+          "website": "https://www.producthunt.com/r/ABC123"
+        },
+        {
+          "name": "NoSite",
+          "tagline": "No website product",
+          "votesCount": 5,
+          "url": "https://www.producthunt.com/posts/nosite",
+          "website": null
+        }
+      ]
+    }
+  }
+}
