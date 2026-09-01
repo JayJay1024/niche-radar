@@ -1,0 +1,27 @@
+{
+  "maxDomainAgeDays": 365,
+  "minMonthlyVisits": 3000,
+  "minSearchShare": 0.2,
+  "minDirectShare": 0.2,
+  "cacheTtlDays": 30,
+  "platformDomains": [
+    "vercel.app",
+    "github.io",
+    "netlify.app",
+    "pages.dev",
+    "web.app",
+    "notion.site",
+    "framer.website",
+    "framer.app",
+    "carrd.co",
+    "webflow.io",
+    "apps.apple.com",
+    "play.google.com",
+    "chromewebstore.google.com",
+    "producthunt.com",
+    "github.com",
+    "x.com",
+    "twitter.com"
+  ],
+  "aitdkUrlTemplate": "https://aitdk.com/website/{domain}"
+}
