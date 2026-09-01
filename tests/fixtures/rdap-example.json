@@ -1,0 +1,9 @@
+{
+  "objectClassName": "domain",
+  "ldhName": "example.com",
+  "events": [
+    { "eventAction": "registration", "eventDate": "2026-03-15T08:30:00Z" },
+    { "eventAction": "expiration", "eventDate": "2027-03-15T08:30:00Z" },
+    { "eventAction": "last changed", "eventDate": "2026-03-15T08:30:00Z" }
+  ]
+}
