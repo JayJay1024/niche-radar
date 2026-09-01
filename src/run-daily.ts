@@ -92,7 +92,13 @@ if (isMain) {
     console.log(`[niche-radar] ${date}: ${report.funnel.qualified}/${report.funnel.total} qualified`);
     if (webhook) await postToSlack(webhook, buildDailyMessage(report));
   } catch (err) {
-    if (webhook) await postToSlack(webhook, buildFailureMessage(date, String(err)));
+    if (webhook) {
+      try {
+        await postToSlack(webhook, buildFailureMessage(date, String(err)));
+      } catch (slackErr) {
+        console.error(`[niche-radar] Slack alert failed: ${String(slackErr)}`);
+      }
+    }
     throw err;
   }
 }
