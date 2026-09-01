@@ -1,6 +1,6 @@
 import { describe, it, expect, vi, afterEach } from 'vitest';
 import { createTabApiProvider, parseTabApiResponse } from '../../src/pipeline/traffic/tabapi.js';
-import fixture from '../fixtures/tabapi-traffic.json';
+import fixture from '../fixtures/tabapi-traffic.json' with { type: 'json' };
 import { mkdtempSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';

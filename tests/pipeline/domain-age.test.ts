@@ -1,6 +1,6 @@
 import { describe, it, expect, vi, afterEach } from 'vitest';
 import { getRegisteredAt, ageInDays } from '../../src/pipeline/domain-age.js';
-import rdapFixture from '../fixtures/rdap-example.json';
+import rdapFixture from '../fixtures/rdap-example.json' with { type: 'json' };
 import { mkdtempSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';

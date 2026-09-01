@@ -1,6 +1,6 @@
 import { describe, it, expect, vi, afterEach } from 'vitest';
 import { fetchPosts } from '../../src/pipeline/fetch-posts.js';
-import page from '../fixtures/ph-posts-page.json';
+import page from '../fixtures/ph-posts-page.json' with { type: 'json' };
 
 afterEach(() => vi.unstubAllGlobals());
 
