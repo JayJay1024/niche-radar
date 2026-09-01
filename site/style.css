@@ -16,3 +16,6 @@ header { display: flex; justify-content: space-between; align-items: center; }
 table { width: 100%; border-collapse: collapse; font-size: .85rem; }
 th, td { text-align: left; padding: .35rem .5rem; border-bottom: 1px solid color-mix(in srgb, currentColor 15%, transparent); }
 details { margin-top: 1.5rem; }
+.keywords { display: flex; flex-wrap: wrap; gap: .4rem; margin: .5rem 0 0; }
+.kw { font-size: .75rem; padding: .15rem .5rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: 1rem; }
+.kw b { opacity: .6; font-weight: 600; }

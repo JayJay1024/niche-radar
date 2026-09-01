@@ -43,9 +43,12 @@ function renderQualified(products) {
           <div><dt>搜索</dt><dd>${pct(p.traffic.sources.search)}</dd></div>
           <div><dt>直访</dt><dd>${pct(p.traffic.sources.direct)}</dd></div>
         </dl>
+        ${p.traffic.topKeywords?.length ? `<p class="keywords">${p.traffic.topKeywords
+          .map((k) => `<span class="kw">${esc(k.name)} <b>${num(k.volume)}</b></span>`)
+          .join('')}</p>` : ''}
         <p class="links">
           <a href="${safeUrl(p.phUrl)}" target="_blank" rel="noopener">PH 页面</a>
-          <a href="${safeUrl(p.aitdkUrl)}" target="_blank" rel="noopener">AITDK 关键词</a>
+          <a href="${safeUrl(p.detailUrl)}" target="_blank" rel="noopener">流量详情</a>
         </p>
       </article>`).join('');
 }

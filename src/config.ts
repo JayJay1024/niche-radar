@@ -8,7 +8,7 @@ const REQUIRED: (keyof Config)[] = [
   'minDirectShare',
   'cacheTtlDays',
   'platformDomains',
-  'aitdkUrlTemplate',
+  'detailUrlTemplate',
 ];
 
 export function loadConfig(path = 'config.json'): Config {

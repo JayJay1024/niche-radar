@@ -5,13 +5,16 @@ export interface Config {
   minDirectShare: number;
   cacheTtlDays: number;
   platformDomains: string[];
-  aitdkUrlTemplate: string;
+  /** 达标站点"流量详情"外链模板,{domain} 占位 */
+  detailUrlTemplate: string;
 }
 
 export interface Traffic {
   monthlyVisits: number;
   /** 各来源占比,0–1 小数 */
   sources: { direct: number; search: number; referral: number; social: number; mail: number };
+  /** TabAPI 同一响应附带的头部自然搜索词(免费),供人工判断非品牌词 */
+  topKeywords?: { name: string; volume: number }[];
 }
 
 export type EliminatedBy =
@@ -36,7 +39,7 @@ export interface ProductResult {
   status: 'qualified' | 'eliminated' | 'error';
   eliminatedBy?: EliminatedBy;
   error?: string;
-  aitdkUrl?: string; // 仅 qualified 填
+  detailUrl?: string; // 流量详情外链,仅 qualified 填
 }
 
 export interface Funnel {

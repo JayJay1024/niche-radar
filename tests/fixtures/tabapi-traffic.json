@@ -1,11 +1,39 @@
 {
   "domain": "coolapp.io",
-  "visits": 12500,
-  "sources": {
+  "title": "CoolApp",
+  "description": "Do cool things",
+  "overview": {
+    "global_rank": 184201,
+    "country_rank": { "country": "US", "rank": 90211 },
+    "visits": 12500,
+    "bounce_rate": 0.41,
+    "pages_per_visit": 2.3,
+    "time_on_site_seconds": 95.2,
+    "month": "2026-08"
+  },
+  "monthly_visits": [
+    { "month": "2026-06", "visits": 8100 },
+    { "month": "2026-07", "visits": 10400 },
+    { "month": "2026-08", "visits": 12500 }
+  ],
+  "traffic_sources": {
     "direct": 0.35,
     "search": 0.42,
-    "referral": 0.1,
+    "search_organic": 0.4,
+    "search_paid": 0.02,
     "social": 0.11,
-    "mail": 0.02
-  }
+    "social_organic": 0.11,
+    "social_paid": 0,
+    "referrals": 0.08,
+    "paid_referrals": 0.02,
+    "mail": 0.02,
+    "gen_ai": 0,
+    "affiliate": 0,
+    "other": 0
+  },
+  "top_keywords": [
+    { "name": "cool app", "volume": 5400, "cpc": 0.8, "estimated_value": 1200 }
+  ],
+  "top_regions": [{ "country": "US", "name": "United States", "share": 0.5 }],
+  "ai_traffic": null
 }

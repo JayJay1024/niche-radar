@@ -53,7 +53,7 @@ export async function runDaily(opts: RunOpts): Promise<DailyReport> {
 
       products.push({
         ...base, status: 'qualified',
-        aitdkUrl: cfg.aitdkUrlTemplate.replace('{domain}', resolved.domain),
+        detailUrl: cfg.detailUrlTemplate.replace('{domain}', resolved.domain),
       });
     } catch (err) {
       products.push({ ...base, status: 'error', error: String(err) });

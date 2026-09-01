@@ -11,8 +11,12 @@ const report: DailyReport = {
     name: 'Winner', tagline: 'wins', votes: 100, phUrl: 'https://ph/p/w',
     url: 'https://winner.io/', domain: 'winner.io',
     registeredAt: '2026-05-01T00:00:00Z',
-    traffic: { monthlyVisits: 8000, sources: { direct: 0.3, search: 0.5, referral: 0.1, social: 0.1, mail: 0 } },
-    status: 'qualified', aitdkUrl: 'https://aitdk.com/website/winner.io',
+    traffic: {
+      monthlyVisits: 8000,
+      sources: { direct: 0.3, search: 0.5, referral: 0.1, social: 0.1, mail: 0 },
+      topKeywords: [{ name: 'win tool', volume: 5400 }, { name: 'winner app', volume: 900 }],
+    },
+    status: 'qualified', detailUrl: 'https://www.similarweb.com/website/winner.io/',
   }],
 };
 
@@ -23,7 +27,9 @@ describe('buildDailyMessage', () => {
     expect(text).toContain('8,000');           // 月访格式化
     expect(text).toContain('50%');             // 搜索占比
     expect(text).toContain('40');              // 漏斗 total
-    expect(text).toContain('aitdk.com/website/winner.io');
+    expect(text).toContain('similarweb.com/website/winner.io');
+    expect(text).toContain('win tool');        // 关键词行
+    expect(text).toContain('5,400');
   });
   it('零达标时明确说明(系统存活证明)', () => {
     const empty = { ...report, funnel: { ...report.funnel, qualified: 0 }, products: [] };

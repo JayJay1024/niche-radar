@@ -13,6 +13,7 @@ describe('parseTabApiResponse', () => {
     expect(parseTabApiResponse(fixture)).toEqual({
       monthlyVisits: 12500,
       sources: { direct: 0.35, search: 0.42, referral: 0.1, social: 0.11, mail: 0.02 },
+      topKeywords: [{ name: 'cool app', volume: 5400 }],
     });
   });
   it('缺流量字段返回 null', () => {
@@ -31,6 +32,7 @@ describe('createTabApiProvider', () => {
     const provider = createTabApiProvider('key123', tmp(), 30);
     const t = await provider.lookup('coolapp.io');
     expect(t?.monthlyVisits).toBe(12500);
+    expect(mock.mock.calls[0][0]).toBe('https://tabapi.com/api/v1/domains/coolapp.io/traffic?months=3');
     const headers = (mock.mock.calls[0][1] as RequestInit).headers as Record<string, string>;
     expect(headers['Authorization']).toBe('Bearer key123');
   });
@@ -54,6 +56,29 @@ describe('createTabApiProvider', () => {
     const ok = vi.fn().mockResolvedValue(new Response(JSON.stringify(fixture), { status: 200 }));
     vi.stubGlobal('fetch', ok);
     await provider.lookup('down.com');
+    expect(ok).toHaveBeenCalledTimes(1);
+  });
+
+  it('422(新站历史不足)按确定性无数据缓存,不重复请求', async () => {
+    const dir = tmp();
+    const mock = vi.fn().mockResolvedValue(new Response(JSON.stringify({ error: 'unprocessable' }), { status: 422 }));
+    vi.stubGlobal('fetch', mock);
+    const provider = createTabApiProvider('key123', dir, 30);
+    expect(await provider.lookup('newsite.io')).toBeNull();
+    expect(await provider.lookup('newsite.io')).toBeNull();
+    expect(mock).toHaveBeenCalledTimes(1); // 第二次命中缓存
+  });
+
+  it('5xx 视为瞬时失败:重试一次且不缓存', async () => {
+    const dir = tmp();
+    const bad = vi.fn().mockResolvedValue(new Response('', { status: 503 }));
+    vi.stubGlobal('fetch', bad);
+    const provider = createTabApiProvider('key123', dir, 30);
+    expect(await provider.lookup('flaky.com')).toBeNull();
+    expect(bad).toHaveBeenCalledTimes(2); // 一次重试
+    const ok = vi.fn().mockResolvedValue(new Response(JSON.stringify(fixture), { status: 200 }));
+    vi.stubGlobal('fetch', ok);
+    await provider.lookup('flaky.com'); // 未缓存,应再次出网
     expect(ok).toHaveBeenCalledTimes(1);
   });
 

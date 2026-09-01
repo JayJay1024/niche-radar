@@ -4,7 +4,7 @@ import type { Config, ProductResult, Traffic } from '../../src/types.js';
 
 const cfg = {
   minMonthlyVisits: 3000, minSearchShare: 0.2, minDirectShare: 0.2,
-  maxDomainAgeDays: 365, cacheTtlDays: 30, platformDomains: [], aitdkUrlTemplate: '',
+  maxDomainAgeDays: 365, cacheTtlDays: 30, platformDomains: [], detailUrlTemplate: '',
 } as Config;
 
 const good: Traffic = { monthlyVisits: 5000, sources: { direct: 0.3, search: 0.4, referral: 0.2, social: 0.1, mail: 0 } };

@@ -30,7 +30,7 @@ import { runDaily } from '../src/run-daily.js';
 
 const cfg: Config = {
   maxDomainAgeDays: 365, minMonthlyVisits: 3000, minSearchShare: 0.2, minDirectShare: 0.2,
-  cacheTtlDays: 30, platformDomains: [], aitdkUrlTemplate: 'https://aitdk.com/website/{domain}',
+  cacheTtlDays: 30, platformDomains: [], detailUrlTemplate: 'https://www.similarweb.com/website/{domain}/',
 };
 const provider = {
   lookup: vi.fn(async () => ({
@@ -49,7 +49,7 @@ describe('runDaily', () => {
     expect(report.funnel).toEqual({ total: 4, resolved: 2, newDomains: 1, hasTraffic: 1, qualified: 1 });
     const byName = Object.fromEntries(report.products.map((p) => [p.name, p]));
     expect(byName['Winner'].status).toBe('qualified');
-    expect(byName['Winner'].aitdkUrl).toBe('https://aitdk.com/website/winner.io');
+    expect(byName['Winner'].detailUrl).toBe('https://www.similarweb.com/website/winner.io/');
     expect(byName['OldSite'].eliminatedBy).toBe('domain-age');
     expect(byName['NoWeb'].eliminatedBy).toBe('no-website');
     expect(byName['Broken'].status).toBe('error');

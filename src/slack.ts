@@ -10,16 +10,20 @@ function productBlock(p: ProductResult): object {
   const name = mrkdwnEsc(p.name);
   const tagline = mrkdwnEsc(p.tagline);
   const domain = mrkdwnEsc(p.domain ?? '');
+  const lines = [
+    `*<${p.url}|${domain}>* — ${name}: ${tagline}`,
+    `注册 ${p.registeredAt?.slice(0, 10)} · 月访 ${num(t.monthlyVisits)} · 搜索 ${pct(t.sources.search)} · 直访 ${pct(t.sources.direct)}`,
+  ];
+  if (t.topKeywords?.length) {
+    const kw = t.topKeywords.slice(0, 3)
+      .map((k) => `${mrkdwnEsc(k.name)}(${num(k.volume)})`)
+      .join(' · ');
+    lines.push(`关键词:${kw}`);
+  }
+  lines.push(`<${p.phUrl}|PH 页面> · <${p.detailUrl}|流量详情>`);
   return {
     type: 'section',
-    text: {
-      type: 'mrkdwn',
-      text: [
-        `*<${p.url}|${domain}>* — ${name}: ${tagline}`,
-        `注册 ${p.registeredAt?.slice(0, 10)} · 月访 ${num(t.monthlyVisits)} · 搜索 ${pct(t.sources.search)} · 直访 ${pct(t.sources.direct)}`,
-        `<${p.phUrl}|PH 页面> · <${p.aitdkUrl}|AITDK 关键词>`,
-      ].join('\n'),
-    },
+    text: { type: 'mrkdwn', text: lines.join('\n') },
   };
 }
 

@@ -23,5 +23,5 @@
     "x.com",
     "twitter.com"
   ],
-  "aitdkUrlTemplate": "https://aitdk.com/website/{domain}"
+  "detailUrlTemplate": "https://www.similarweb.com/website/{domain}/"
 }
