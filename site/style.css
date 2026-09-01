@@ -1,0 +1,18 @@
+:root { color-scheme: light dark; font-family: system-ui, sans-serif; }
+body { margin: 0 auto; max-width: 860px; padding: 1rem; }
+header { display: flex; justify-content: space-between; align-items: center; }
+#funnel { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; margin: 1rem 0; }
+.funnel-step { text-align: center; padding: .5rem .9rem; border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: .5rem; }
+.funnel-step b { display: block; font-size: 1.3rem; }
+.funnel-step span { font-size: .75rem; opacity: .7; }
+.funnel-arrow { opacity: .5; }
+.card { border: 1px solid color-mix(in srgb, currentColor 25%, transparent); border-radius: .6rem; padding: 1rem; margin-bottom: .8rem; }
+.card h3 { margin: 0 0 .3rem; }
+.card dl { display: flex; gap: 1.2rem; margin: .5rem 0; }
+.card dt { font-size: .7rem; opacity: .7; }
+.card dd { margin: 0; font-weight: 600; }
+.links a { margin-right: 1rem; }
+.empty { opacity: .6; }
+table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+th, td { text-align: left; padding: .35rem .5rem; border-bottom: 1px solid color-mix(in srgb, currentColor 15%, transparent); }
+details { margin-top: 1.5rem; }
