@@ -26,9 +26,10 @@ jobs:
           PH_API_TOKEN: ${{ secrets.PH_API_TOKEN }}
           TABAPI_KEY: ${{ secrets.TABAPI_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          RUN_DATE: ${{ inputs.date }}
         run: |
-          if [ -n "${{ inputs.date }}" ]; then
-            npm run once -- --date=${{ inputs.date }}
+          if [ -n "$RUN_DATE" ]; then
+            npm run once -- --date="$RUN_DATE"
           else
             npm run daily
           fi

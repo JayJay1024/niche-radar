@@ -10,10 +10,10 @@ GitHub Actions (cron, 每天 UTC 01:00)
        ├─ npm run daily          # 采集管线,产出 data/daily/<date>.json
        ├─ git commit & push      # 数据回写仓库
        ├─ Slack 推送             # 发送发现的网站列表
-       └─ 触发 pages.yml         # 数据更新后重新发布可视化
+       └─ 完成后触发 pages.yml    # workflow_run 机制确保数据同步
 
 GitHub Pages
-  └─ pages.yml:构建 site/ 静态页并发布
+  └─ pages.yml:daily 成功后、数据/site 更新时、或手动触发时部署
 ```
 
 无数据库、无服务器,状态全部在 git 里。
@@ -41,7 +41,7 @@ npm test
 1. 在仓库 Settings → Pages
 2. Source 选择: **GitHub Actions**
 
-Pages 会自动在每次 `data/` 或 `site/` 目录更新时重新部署。
+pages.yml 会在每次 daily.yml 成功完成后自动部署(通过 workflow_run),也可手动触发或在 `data/` / `site/` 目录更新时部署。
 
 ## 阈值调整
 

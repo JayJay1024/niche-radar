@@ -3,6 +3,9 @@ on:
   push:
     branches: [main]
     paths: ['data/**', 'site/**']
+  workflow_run:
+    workflows: [daily]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -11,12 +14,14 @@ permissions:
 
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }
       - name: Assemble site
         run: |
           mkdir -p _site
