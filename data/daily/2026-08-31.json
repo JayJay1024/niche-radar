@@ -1,0 +1,366 @@
+{
+  "date": "2026-08-31",
+  "funnel": {
+    "total": 36,
+    "resolved": 33,
+    "newDomains": 0,
+    "hasTraffic": 0,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "Video Agent by Fotor",
+      "tagline": "Create and edit precision motion graphics & video with chat",
+      "votes": 362,
+      "phUrl": "https://www.producthunt.com/products/fotor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.fotor.com/video/",
+      "domain": "fotor.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "BrandJet",
+      "tagline": "Turn public buying signals into sales pipeline",
+      "votes": 268,
+      "phUrl": "https://www.producthunt.com/products/brandjet-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.brandjet.ai/",
+      "domain": "brandjet.ai",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Interactive Sessions",
+      "tagline": "Drive the full SDLC with AI agents, step by step",
+      "votes": 257,
+      "phUrl": "https://www.producthunt.com/products/revolte?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://revolte.ai/",
+      "domain": "revolte.ai",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Tether",
+      "tagline": "A ball for boring meetings to keep you busy",
+      "votes": 217,
+      "phUrl": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.playtether.app/",
+      "domain": "playtether.app",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Ask My Wardrobe",
+      "tagline": "The complete digital wardrobe experience",
+      "votes": 213,
+      "phUrl": "https://www.producthunt.com/products/ask-my-wardrobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://askmywardrobe.com/",
+      "domain": "askmywardrobe.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "EP–2350 FX–MIC",
+      "tagline": "The programmable mic you can squeeze, shake & play",
+      "votes": 209,
+      "phUrl": "https://www.producthunt.com/products/teenage-engineering?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://teenage.engineering/store/ep-2350",
+      "domain": "teenage.engineering",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "BrandMyLaptop",
+      "tagline": "Sell ad space on your laptop",
+      "votes": 175,
+      "phUrl": "https://www.producthunt.com/products/brandmylaptop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://brandmylaptop.com/",
+      "domain": "brandmylaptop.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Orato",
+      "tagline": "Practice speaking with AI.",
+      "votes": 142,
+      "phUrl": "https://www.producthunt.com/products/orato-speech-coach?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://orato.tepoyan.com/",
+      "domain": "tepoyan.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Radar by Particle",
+      "tagline": "The Podcast Search Engine",
+      "votes": 138,
+      "phUrl": "https://www.producthunt.com/products/particle-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "FrameOS",
+      "tagline": "Record your iOS & Android screen from your Mac.",
+      "votes": 135,
+      "phUrl": "https://www.producthunt.com/products/frameos-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://tryframeos.com/",
+      "domain": "tryframeos.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "WebTerm Learn",
+      "tagline": "Learn the terminal like a game — in a browser sandbox",
+      "votes": 133,
+      "phUrl": "https://www.producthunt.com/products/webterm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://learn.webterm.app/en",
+      "domain": "webterm.app",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "StackScope",
+      "tagline": "See what new sites are built with, the week they launch",
+      "votes": 115,
+      "phUrl": "https://www.producthunt.com/products/stackscope-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://stackscope.dev/",
+      "domain": "stackscope.dev",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Houndly",
+      "tagline": "Self-learning GTM copilot. Give a brain to your sales stack",
+      "votes": 29,
+      "phUrl": "https://www.producthunt.com/products/houndly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://houndly.io/",
+      "domain": "houndly.io",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "LeaseBase",
+      "tagline": "AI that tells landlords what to do, not just what happened",
+      "votes": 25,
+      "phUrl": "https://www.producthunt.com/products/leasebase?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://leasebase.ai/",
+      "domain": "leasebase.ai",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Mascofast",
+      "tagline": "text to animated mascot in minutes",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/mascofast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://mascofast.com/",
+      "domain": "mascofast.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ConscioussAI",
+      "tagline": "AI that runs your phone and computer",
+      "votes": 14,
+      "phUrl": "https://www.producthunt.com/products/conscioussai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.conscioussai.com/",
+      "domain": "conscioussai.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "GitFig",
+      "tagline": "Sync Figma with GitHub",
+      "votes": 13,
+      "phUrl": "https://www.producthunt.com/products/gitfig?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://gitfig.com/",
+      "domain": "gitfig.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Fraime",
+      "tagline": "Open source AI media generation platform",
+      "votes": 12,
+      "phUrl": "https://www.producthunt.com/products/fraime-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://fraimesmm.art/",
+      "domain": "fraimesmm.art",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Remivu",
+      "tagline": "Save why it mattered. Find it when it matters.",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/remivu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://remivu.com/",
+      "domain": "remivu.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Sunday Club",
+      "tagline": "One hand-picked product launch, every Monday",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/sunday-club?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://sundayclub.so/",
+      "domain": "sundayclub.so",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Claimads.land",
+      "tagline": "The live map where startups battle for advertising territory",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/claimads-land?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://claimads.land/",
+      "domain": "claimads.land",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "CreditFX",
+      "tagline": "Stop counting credits. Start understanding them.",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/creditfx-the-exchange-rate-for-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://creditfx.mogabr.com/",
+      "domain": "mogabr.com",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "WaterMe",
+      "tagline": "The all-in-one plant care hub",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/waterme?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.waterme.app/",
+      "domain": "waterme.app",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Faurus",
+      "tagline": "One proctored pipeline for coding, viva & hiring exams",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/faurus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://faurus.app/",
+      "domain": "faurus.app",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Rival Radar",
+      "tagline": "AI-powered competitor pricing & feature tracking",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/rival-radar-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://rivalradar.me/",
+      "domain": "rivalradar.me",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "MapWars",
+      "tagline": "Own a San Francisco neighborhood - Bidding starts at $10",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/mapwars?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://mapwars.wtf/",
+      "domain": "mapwars.wtf",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Influencer Finder",
+      "tagline": "Find 10 influencers for free and no signup",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/oriane?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.oriane.xyz/free-tools/influencer-finder",
+      "domain": "oriane.xyz",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "SHODH — Autonomous Research Intelligence",
+      "tagline": "Investigate deeply. Decide confidently. Act on evidence.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/shodh-autonomous-research-intelligence?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.shodh.xyz/",
+      "domain": "shodh.xyz",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Warpforge",
+      "tagline": "Warpforge is a cross-harness Agent IDE",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/warpforge?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://warpforge.app/",
+      "domain": "warpforge.app",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Valentina Studio 18",
+      "tagline": "Database Workflow Tools, AI Forms & Reports",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/valentina-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Montage",
+      "tagline": "Search and share media!",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/montage-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.montages.co/",
+      "domain": "montages.co",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ShowGame",
+      "tagline": "Discover standout indie games, follow weekly launches, and h",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/showgame?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://showgame.lol/",
+      "domain": "showgame.lol",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Out Hood",
+      "tagline": "Bid your way out of the hood to Hollywood",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/out-hood?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://outhood.lol/",
+      "domain": "outhood.lol",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Free AI image generator",
+      "tagline": "Free AI image generator + stock photo search, no login",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/free-ai-image-generator-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.image-generator.xyz/",
+      "domain": "image-generator.xyz",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Collab",
+      "tagline": "An hub that lets coding agents on different machines talk",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/collab-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Alien Task",
+      "tagline": "Project Management, From Another Dimension",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/alien-task?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://alientask.io/",
+      "domain": "alientask.io",
+      "eliminatedBy": "domain-age"
+    }
+  ]
+}

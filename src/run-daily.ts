@@ -16,10 +16,12 @@ export interface RunOpts {
   provider: TrafficProvider;
   cfg: Config;
   dataDir: string;
+  /** TabAPI key,用于无标准 RDAP 的 TLD(.io/.co 等)的注册日期兜底查询(1 credit/次) */
+  tabApiKey?: string;
 }
 
 export async function runDaily(opts: RunOpts): Promise<DailyReport> {
-  const { date, phToken, provider, cfg, dataDir } = opts;
+  const { date, phToken, provider, cfg, dataDir, tabApiKey } = opts;
   const cacheDir = join(dataDir, 'cache');
   const posts = await fetchPosts(date, phToken, { minVotes: cfg.minVotes, maxPosts: cfg.maxPosts });
 
@@ -37,7 +39,7 @@ export async function runDaily(opts: RunOpts): Promise<DailyReport> {
       base.url = resolved.url;
       base.domain = resolved.domain;
 
-      const registeredAt = await getRegisteredAt(resolved.domain, cacheDir, cfg.cacheTtlDays);
+      const registeredAt = await getRegisteredAt(resolved.domain, cacheDir, cfg.cacheTtlDays, tabApiKey);
       if (!registeredAt) { products.push({ ...base, eliminatedBy: 'domain-age' }); continue; }
       base.registeredAt = registeredAt;
       if (ageInDays(registeredAt) > cfg.maxDomainAgeDays) {
@@ -88,7 +90,7 @@ if (isMain) {
   const provider = createTabApiProvider(tabKey, join('data', 'cache'), cfg.cacheTtlDays);
   const webhook = process.env.SLACK_WEBHOOK_URL;
   try {
-    const report = await runDaily({ date, phToken, provider, cfg, dataDir: 'data' });
+    const report = await runDaily({ date, phToken, provider, cfg, dataDir: 'data', tabApiKey: tabKey });
     console.log(`[niche-radar] ${date}: ${report.funnel.qualified}/${report.funnel.total} qualified`);
     if (webhook) {
       try {
