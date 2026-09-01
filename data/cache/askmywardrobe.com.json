@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-15T13:17:49Z"
+    },
+    "fetchedAt": "2026-09-01T06:42:14.562Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1054,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "is there a app that can make me a outfit",
+            "volume": 120
+          },
+          {
+            "name": "i shop my wardrobe",
+            "volume": 30
+          },
+          {
+            "name": "sasz wardrobe wonderland and wireless workshop 1401 nw 22nd st miami, florida, 33142-7767",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-01T06:42:17.694Z"
+  }
+}

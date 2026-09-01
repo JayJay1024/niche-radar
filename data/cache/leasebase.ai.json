@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-07T03:27:08.244Z"
+    },
+    "fetchedAt": "2026-09-01T06:42:48.220Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3678,
+        "sources": {
+          "direct": 0.8707,
+          "search": 0,
+          "referral": 0.0647,
+          "social": 0,
+          "mail": 0.0647
+        },
+        "topKeywords": [
+          {
+            "name": "sf rent board",
+            "volume": 670
+          },
+          {
+            "name": "are tamarac & buildium similar",
+            "volume": 420
+          },
+          {
+            "name": "turbotenant vs rentec",
+            "volume": 400
+          },
+          {
+            "name": "can an owner pass alogn 1/2 of the rap fee to tenans in oakalnd",
+            "volume": 380
+          },
+          {
+            "name": "oakland rent adjustment ordinance",
+            "volume": 380
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-01T06:42:51.195Z"
+  }
+}

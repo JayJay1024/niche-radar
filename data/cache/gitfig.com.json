@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-17T20:29:02Z"
+    },
+    "fetchedAt": "2026-09-01T06:43:01.716Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2089,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "figma github",
+            "volume": 1280
+          },
+          {
+            "name": "figma and github",
+            "volume": 250
+          },
+          {
+            "name": "github figma pro",
+            "volume": 250
+          },
+          {
+            "name": "figma to github bridge.",
+            "volume": 240
+          },
+          {
+            "name": "can i add figma file to git to automate design?",
+            "volume": 200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-01T06:43:04.729Z"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-03T09:25:57.571Z"
+    },
+    "fetchedAt": "2026-09-01T06:42:35.428Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "stackscope",
+            "volume": 290
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-01T06:42:38.248Z"
+  }
+}

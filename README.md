@@ -51,7 +51,10 @@ pages.yml 会在每次 daily.yml 成功完成后自动部署(通过 workflow_run
 - `minMonthlyVisits`: 最小月访问量
 - `minSearchShare`: 最小搜索流量占比
 - `minDirectShare`: 最小直接访问占比
+- `minVotes`: PH 拉取时低于此票数即停止翻页(全量拉取会耗尽 API 配额)
+- `maxPosts`: 单日拉取产品数上限
 - `platformDomains`: 排除的平台域名黑名单
+- `detailUrlTemplate`: 达标站点"流量详情"外链模板
 
 ## 文档
 

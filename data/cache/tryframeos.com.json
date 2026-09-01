@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-29T09:57:45Z"
+    },
+    "fetchedAt": "2026-09-01T06:42:28.207Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1167,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "frameos",
+            "volume": 430
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-01T06:42:29.721Z"
+  }
+}

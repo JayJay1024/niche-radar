@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-13T09:02:18.702Z"
+    },
+    "fetchedAt": "2026-09-01T06:43:30.729Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "zz pflanze von erde auf wasser umpflanzen",
+            "volume": 630
+          },
+          {
+            "name": "how long can a pachypodium lamerei stay out of soil",
+            "volume": 390
+          },
+          {
+            "name": "ficus benghalensis audrey y gatos",
+            "volume": 80
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-01T06:43:33.718Z"
+  }
+}

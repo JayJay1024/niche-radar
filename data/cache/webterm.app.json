@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-09T13:17:08.595Z"
+    },
+    "fetchedAt": "2026-09-01T06:42:30.957Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4404,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "try linux online",
+            "volume": 510
+          },
+          {
+            "name": "online terminal",
+            "volume": 900
+          },
+          {
+            "name": "terminal web",
+            "volume": 1050
+          },
+          {
+            "name": "linux コマンド 練習サイト",
+            "volume": 0
+          },
+          {
+            "name": "kali linux online terminal free",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-01T06:42:33.805Z"
+  }
+}
