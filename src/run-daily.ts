@@ -8,6 +8,7 @@ import { getRegisteredAt, ageInDays } from './pipeline/domain-age.js';
 import { applyTrafficRules, rankQualified, computeFunnel } from './pipeline/filter-rank.js';
 import type { TrafficProvider } from './pipeline/traffic/provider.js';
 import { createTabApiProvider } from './pipeline/traffic/tabapi.js';
+import { buildDailyMessage, buildFailureMessage, postToSlack } from './slack.js';
 
 export interface RunOpts {
   date: string;
@@ -85,6 +86,13 @@ if (isMain) {
   if (!phToken || !tabKey) { console.error('PH_API_TOKEN and TABAPI_KEY env required'); process.exit(1); }
   const cfg = loadConfig();
   const provider = createTabApiProvider(tabKey, join('data', 'cache'), cfg.cacheTtlDays);
-  const report = await runDaily({ date, phToken, provider, cfg, dataDir: 'data' });
-  console.log(`[niche-radar] ${date}: ${report.funnel.qualified}/${report.funnel.total} qualified`);
+  const webhook = process.env.SLACK_WEBHOOK_URL;
+  try {
+    const report = await runDaily({ date, phToken, provider, cfg, dataDir: 'data' });
+    console.log(`[niche-radar] ${date}: ${report.funnel.qualified}/${report.funnel.total} qualified`);
+    if (webhook) await postToSlack(webhook, buildDailyMessage(report));
+  } catch (err) {
+    if (webhook) await postToSlack(webhook, buildFailureMessage(date, String(err)));
+    throw err;
+  }
 }
