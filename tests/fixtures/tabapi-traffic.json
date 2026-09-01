@@ -1,0 +1,11 @@
+{
+  "domain": "coolapp.io",
+  "visits": 12500,
+  "sources": {
+    "direct": 0.35,
+    "search": 0.42,
+    "referral": 0.1,
+    "social": 0.11,
+    "mail": 0.02
+  }
+}
