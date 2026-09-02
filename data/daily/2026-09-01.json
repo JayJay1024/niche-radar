@@ -1,0 +1,404 @@
+{
+  "date": "2026-09-01",
+  "funnel": {
+    "total": 49,
+    "resolved": 0,
+    "newDomains": 0,
+    "hasTraffic": 0,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "Kilo Code for JetBrains",
+      "tagline": "Fully native, open-source coding agent built for JetBrains",
+      "votes": 444,
+      "phUrl": "https://www.producthunt.com/products/kilocode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Computable GPU Index (CGI)",
+      "tagline": "The first open-source price index for GPU compute",
+      "votes": 357,
+      "phUrl": "https://www.producthunt.com/products/computable-gpu-index-cgi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Creatium Coach",
+      "tagline": "Your multimedia mentor that takes you from mid to great",
+      "votes": 279,
+      "phUrl": "https://www.producthunt.com/products/creatium?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Gauth AI Course",
+      "tagline": "AI courses you can watch, quiz through, and create",
+      "votes": 216,
+      "phUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Sider Code",
+      "tagline": "Reshape any website with plain words via Sider extension",
+      "votes": 198,
+      "phUrl": "https://www.producthunt.com/products/sider-code-customize-any-website?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "TrustedRouter",
+      "tagline": "Every model with a unified interface. Privacy with proof. ",
+      "votes": 139,
+      "phUrl": "https://www.producthunt.com/products/trustedrouter?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "EAS Observe",
+      "tagline": "Performance monitoring built for Expo and React Native",
+      "votes": 131,
+      "phUrl": "https://www.producthunt.com/products/expo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Notchling",
+      "tagline": "A little creature that lives in your MacBook notch",
+      "votes": 116,
+      "phUrl": "https://www.producthunt.com/products/notchling-lives-in-your-notch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Murmell",
+      "tagline": "Google docs for AI agents, and you can close your laptop",
+      "votes": 103,
+      "phUrl": "https://www.producthunt.com/products/murmell?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "HONOR Robot Phone",
+      "tagline": "The phone that literally has a gimbal built in",
+      "votes": 98,
+      "phUrl": "https://www.producthunt.com/products/honor-robot-phone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Sourclip 2.0",
+      "tagline": "The research workspace built around Gemini Notebook",
+      "votes": 97,
+      "phUrl": "https://www.producthunt.com/products/sourclip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ChannelOS",
+      "tagline": "Turn your local media library into cable-style TV",
+      "votes": 96,
+      "phUrl": "https://www.producthunt.com/products/channelos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ThunderPhone",
+      "tagline": "Platform for building reliable AI phone agents (from 2c/min)",
+      "votes": 95,
+      "phUrl": "https://www.producthunt.com/products/thunderphone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Keiki",
+      "tagline": "Build one customer-facing AI agent and launch it everywhere",
+      "votes": 92,
+      "phUrl": "https://www.producthunt.com/products/keiki?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Folio",
+      "tagline": "A read-later app sending a typeset digest to your e-reader",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/folio-e0a9e0fb-8ef8-4fcf-a558-fa5fdd41a3ba?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Happy Shrimp",
+      "tagline": "Alibaba's AI music generator for turning ideas into songs",
+      "votes": 88,
+      "phUrl": "https://www.producthunt.com/products/happy-shrimp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Nodeterm",
+      "tagline": "A node-based free open source terminal manager",
+      "votes": 84,
+      "phUrl": "https://www.producthunt.com/products/nodeterm-terminal-manager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "WaseiGo",
+      "tagline": "Learn the 1,000+ Japanese words that only look like English",
+      "votes": 84,
+      "phUrl": "https://www.producthunt.com/products/waseigo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Cosmic Agent Plugins",
+      "tagline": "Connect Cosmic agents to any service with an MCP server",
+      "votes": 81,
+      "phUrl": "https://www.producthunt.com/products/cosmic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Tovel AI",
+      "tagline": "From conversation to action, in three steps",
+      "votes": 77,
+      "phUrl": "https://www.producthunt.com/products/tovel-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Naseem",
+      "tagline": "A native AI agent that does real work on your Mac",
+      "votes": 75,
+      "phUrl": "https://www.producthunt.com/products/naseem-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ARC-24 Multitrack Groovebox for iOS",
+      "tagline": "Multitrack synth, sampler, drum machine, and looper for iOS.",
+      "votes": 74,
+      "phUrl": "https://www.producthunt.com/products/arc-24-multitrack-groovebox-fro-ios?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "nOS4",
+      "tagline": "A complete IOS4 experience in your browser!",
+      "votes": 74,
+      "phUrl": "https://www.producthunt.com/products/nos4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "BobVault for BobCLI",
+      "tagline": "CLI based Zero-Knowledge Architecture for code repositories",
+      "votes": 73,
+      "phUrl": "https://www.producthunt.com/products/bob-s-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Corlen",
+      "tagline": "AI virtual try-on for online fashion stores",
+      "votes": 27,
+      "phUrl": "https://www.producthunt.com/products/corlen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Matrix OS",
+      "tagline": "A cloud computer for you and your agents",
+      "votes": 25,
+      "phUrl": "https://www.producthunt.com/products/matrix-os?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "HackrBio",
+      "tagline": "Everything you’ve shipped on one link.",
+      "votes": 19,
+      "phUrl": "https://www.producthunt.com/products/hackrbio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Peanut Split",
+      "tagline": "Split a bill with a link. No account for anyone.",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/peanut-split?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Atelier",
+      "tagline": "The AI workspace for interior designers",
+      "votes": 14,
+      "phUrl": "https://www.producthunt.com/products/atelier-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "PicVore",
+      "tagline": "Swipe through photos. On-device AI finds the best shots.",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/picvore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "UseAgent",
+      "tagline": "UseAgent is an open source AI coworker. Gets your work done.",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/useagent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Hey-Traders Live Trading",
+      "tagline": "Describe, backtest, and automate your trading strategy",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/heytraders?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Make me a Gift",
+      "tagline": "Create your wishlist, and share it with friends and family.",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/make-me-a-gift?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Highlander",
+      "tagline": "Cheapest Realtime Video Generation with Minimax FastH3",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/highlander?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "PixoMonitor",
+      "tagline": "Uptime monitoring that knows before your users do",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/pixomonitor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "PexarBolt Ultra TBT5 Dock",
+      "tagline": "The First Thunderbolt5 Control Dock that Shows Your Workflow",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/pexarbolt-ultra-tbt5-dock?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Skrivla Editor",
+      "tagline": "Write together with anyone and bring your own AI",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/skrivla-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Periscope",
+      "tagline": "Turn your Apple TV into your own private internet tunnel",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/periscope-by-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "INKROOST",
+      "tagline": "Draw your story or bring it life with AI",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/inkroost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "AskAiRank",
+      "tagline": "Track how ChatGPT, Claude & Gemini talk about your brand",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/askrank?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Periscope",
+      "tagline": "Turn your Apple TV into your own private internet tunnel",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/periscope-by-duet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ArcProof",
+      "tagline": "Verify your job-ready skills with AI in 60 seconds",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/arcproof?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "LibreDB Studio",
+      "tagline": "SelfHosted OpenSource SQL IDE that deploys next to your data",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/libredb-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Banavo",
+      "tagline": "Get your products recommended by ChatGPT, Gemini & Claude",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/banavo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Clypy",
+      "tagline": "The universal clipboard for you and your AI agents",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/clypy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Lovspark",
+      "tagline": "From floor plan to client-ready render — one AI canvas",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/lovspark-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Doberman",
+      "tagline": "The guard dog to stop your AI when it goes rogue. ",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/doberman?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Fyrbolt",
+      "tagline": "Weather",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/fyrbolt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "inboxes.net",
+      "tagline": "Open-source, multi-domain inbox and agent MCP for Resend",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/inboxes-net-gmail-discord-resend-inbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    }
+  ]
+}
