@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-15T04:23:05Z"
+    },
+    "fetchedAt": "2026-09-02T05:39:05.933Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8524,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "notebooklm public notebooks list",
+            "volume": 500
+          },
+          {
+            "name": "where can i find free public gemini notebooks?",
+            "volume": 270
+          },
+          {
+            "name": "sourclip",
+            "volume": 180
+          },
+          {
+            "name": "obsidian vs notebooklm",
+            "volume": 730
+          },
+          {
+            "name": "videosnap ai affiliate program",
+            "volume": 40
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-02T05:39:08.601Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-26T23:45:46.000Z"
+    },
+    "fetchedAt": "2026-09-02T05:39:56.527Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2766,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "lenny product pass",
+            "volume": 1260
+          },
+          {
+            "name": "lenny rachitsky no paid",
+            "volume": 40
+          },
+          {
+            "name": "lenny's product pass review",
+            "volume": 40
+          },
+          {
+            "name": "lenny's newsletter",
+            "volume": 13220
+          },
+          {
+            "name": "paper pure vs paper pro",
+            "volume": 1310
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-02T05:39:59.349Z"
+  }
+}

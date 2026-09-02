@@ -4,5 +4,42 @@
       "registeredAt": "2026-03-30T15:03:15Z"
     },
     "fetchedAt": "2026-09-02T05:22:44.039Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2078,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "trustedrouter.ai",
+            "volume": 140
+          },
+          {
+            "name": "openrouter",
+            "volume": 1500410
+          },
+          {
+            "name": "trustedrouter",
+            "volume": 200
+          },
+          {
+            "name": "openrouter api",
+            "volume": 67300
+          },
+          {
+            "name": "open router",
+            "volume": 333210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-02T05:38:04.428Z"
   }
 }

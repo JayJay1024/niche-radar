@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-27T21:14:57.966Z"
+    },
+    "fetchedAt": "2026-09-02T05:41:46.555Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 248,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "arc24",
+            "volume": 210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-02T05:41:49.220Z"
+  }
+}

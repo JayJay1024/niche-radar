@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-23T14:08:20.358Z"
+    },
+    "fetchedAt": "2026-09-02T05:47:38.628Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "libredb/libredb-studio",
+            "volume": 210
+          },
+          {
+            "name": "libredb studio",
+            "volume": 120
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-02T05:47:41.450Z"
+  }
+}

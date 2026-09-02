@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-25T22:42:01.782Z"
+    },
+    "fetchedAt": "2026-09-02T05:45:06.451Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "dropiq",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-02T05:45:09.213Z"
+  }
+}
