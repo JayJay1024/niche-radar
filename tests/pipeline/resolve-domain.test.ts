@@ -1,7 +1,11 @@
-import { describe, it, expect, vi, afterEach } from 'vitest';
+import { describe, it, expect, vi, afterEach, beforeEach } from 'vitest';
 import { cleanUrl, extractDomain, resolveDomain } from '../../src/pipeline/resolve-domain.js';
 
-afterEach(() => vi.unstubAllGlobals());
+beforeEach(() => vi.spyOn(console, 'error').mockImplementation(() => {}));
+afterEach(() => {
+  vi.unstubAllGlobals();
+  vi.restoreAllMocks();
+});
 
 describe('cleanUrl', () => {
   it('剥离 query 与 hash', () => {
@@ -46,9 +50,48 @@ describe('resolveDomain', () => {
     expect(r).toEqual({ eliminatedBy: 'platform-domain' });
   });
 
-  it('请求失败返回 resolve-failed', async () => {
+  it('请求失败且无 fallback key 返回 resolve-failed', async () => {
     vi.stubGlobal('fetch', vi.fn().mockRejectedValue(new Error('timeout')));
     const r = await resolveDomain('https://www.producthunt.com/r/z', platforms);
+    expect(r).toEqual({ eliminatedBy: 'resolve-failed' });
+  });
+
+  // 直连被封(如 GitHub Actions IP 段被 PH 的 Cloudflare 403)时走 TabAPI Web Reader 兜底
+  it('直连失败时走 Web Reader 兜底解析(带 Bearer 头与 url body)', async () => {
+    const mock = vi.fn(async (url: string, init?: RequestInit) => {
+      if (url === 'https://tabapi.com/api/v1/markdown') {
+        const body = JSON.parse(init?.body as string);
+        expect(body).toEqual({ url: 'https://www.producthunt.com/r/blocked' });
+        const headers = init?.headers as Record<string, string>;
+        expect(headers['Authorization']).toBe('Bearer sk_test');
+        return new Response(JSON.stringify({
+          source: { requested_url: body.url, resolved_url: 'https://kilo.ai/jetbrains', http_status: 200 },
+        }), { status: 200 });
+      }
+      throw new Error('HTTP 403'); // 直连被封
+    });
+    vi.stubGlobal('fetch', mock);
+    const r = await resolveDomain('https://www.producthunt.com/r/blocked', platforms, 'sk_test');
+    expect(r).toEqual({ url: 'https://kilo.ai/jetbrains', domain: 'kilo.ai' });
+  });
+
+  it('Web Reader 兜底结果同样过平台黑名单', async () => {
+    const mock = vi.fn(async (url: string) => {
+      if (url === 'https://tabapi.com/api/v1/markdown') {
+        return new Response(JSON.stringify({
+          source: { resolved_url: 'https://myapp.vercel.app/home' },
+        }), { status: 200 });
+      }
+      throw new Error('HTTP 403');
+    });
+    vi.stubGlobal('fetch', mock);
+    const r = await resolveDomain('https://www.producthunt.com/r/p', platforms, 'sk_test');
+    expect(r).toEqual({ eliminatedBy: 'platform-domain' });
+  });
+
+  it('直连与 Web Reader 都失败返回 resolve-failed', async () => {
+    vi.stubGlobal('fetch', vi.fn().mockRejectedValue(new Error('down')));
+    const r = await resolveDomain('https://www.producthunt.com/r/q', platforms, 'sk_test');
     expect(r).toEqual({ eliminatedBy: 'resolve-failed' });
   });
 });

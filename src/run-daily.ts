@@ -34,7 +34,7 @@ export async function runDaily(opts: RunOpts): Promise<DailyReport> {
     try {
       if (!post.website) { products.push({ ...base, eliminatedBy: 'no-website' }); continue; }
 
-      const resolved = await resolveDomain(post.website, cfg.platformDomains);
+      const resolved = await resolveDomain(post.website, cfg.platformDomains, tabApiKey);
       if ('eliminatedBy' in resolved) { products.push({ ...base, eliminatedBy: resolved.eliminatedBy }); continue; }
       base.url = resolved.url;
       base.domain = resolved.domain;
