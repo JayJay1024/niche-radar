@@ -1,0 +1,22 @@
+name: debug-resolve
+on:
+  workflow_dispatch: {}
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe PH redirect from runner
+        run: |
+          URL='https://www.producthunt.com/r/Q57PO7OWZUJAZ5'
+          UA='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36'
+          echo "=== curl no UA ==="
+          curl -s -o /dev/null -w '%{http_code} %{url_effective}\n' -L --max-time 15 "$URL" || echo "curl failed"
+          echo "=== curl browser UA ==="
+          curl -s -o /dev/null -w '%{http_code} %{url_effective}\n' -L --max-time 15 -A "$UA" "$URL" || echo "curl failed"
+          echo "=== node fetch no UA (same as pipeline) ==="
+          node -e 'fetch(process.argv[1], { redirect: "follow", signal: AbortSignal.timeout(15000) }).then(r => console.log("status", r.status, "final", r.url)).catch(e => console.log("ERROR", String(e), "cause:", String(e.cause ?? "")));' "$URL"
+          sleep 20
+          echo "=== node fetch browser UA ==="
+          node -e 'fetch(process.argv[1], { redirect: "follow", headers: { "user-agent": process.argv[2], accept: "text/html,application/xhtml+xml" }, signal: AbortSignal.timeout(15000) }).then(r => console.log("status", r.status, "final", r.url)).catch(e => console.log("ERROR", String(e), "cause:", String(e.cause ?? "")));' "$URL" "$UA"
+          sleep 20
