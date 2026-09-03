@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-29T10:52:55.172Z"
+    },
+    "fetchedAt": "2026-09-03T05:20:25.473Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3378508,
+        "sources": {
+          "direct": 0.3465,
+          "search": 0.4942,
+          "referral": 0.10969999999999999,
+          "social": 0.0229,
+          "mail": 0.0074
+        },
+        "topKeywords": [
+          {
+            "name": "openclaw",
+            "volume": 829380
+          },
+          {
+            "name": "open claw",
+            "volume": 207600
+          },
+          {
+            "name": "openclaw ai",
+            "volume": 11880
+          },
+          {
+            "name": "discord",
+            "volume": 23476740
+          },
+          {
+            "name": "clawbot",
+            "volume": 23560
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-03T05:20:28.579Z"
+  }
+}

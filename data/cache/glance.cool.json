@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-25T10:44:30.67Z"
+    },
+    "fetchedAt": "2026-09-03T05:25:41.294Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 556,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "glance join session",
+            "volume": 200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-03T05:25:44.232Z"
+  }
+}

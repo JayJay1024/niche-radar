@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-14T02:45:26.280Z"
+    },
+    "fetchedAt": "2026-09-03T05:23:56.614Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3175,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "adarena",
+            "volume": 680
+          },
+          {
+            "name": "ad arena",
+            "volume": 180
+          },
+          {
+            "name": "adarena creatives",
+            "volume": 50
+          },
+          {
+            "name": "luma vs seedance",
+            "volume": 90
+          },
+          {
+            "name": "clipping net",
+            "volume": 1290
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-03T05:23:59.610Z"
+  }
+}

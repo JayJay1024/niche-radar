@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-13T05:23:08.867Z"
+    },
+    "fetchedAt": "2026-09-03T05:19:33.526Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 98122,
+        "sources": {
+          "direct": 0.4357,
+          "search": 0.0975,
+          "referral": 0.0164,
+          "social": 0.4311,
+          "mail": 0.0122
+        },
+        "topKeywords": [
+          {
+            "name": "monid",
+            "volume": 10320
+          },
+          {
+            "name": "monid ai",
+            "volume": 2510
+          },
+          {
+            "name": "monid io",
+            "volume": 170
+          },
+          {
+            "name": "monid api",
+            "volume": 130
+          },
+          {
+            "name": "gm",
+            "volume": 9510780
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-03T05:19:36.966Z"
+  }
+}

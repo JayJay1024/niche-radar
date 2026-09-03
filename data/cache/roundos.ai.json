@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-09T18:43:01.864Z"
+    },
+    "fetchedAt": "2026-09-03T05:20:49.969Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "follk raise",
+            "volume": 180
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-03T05:20:53.026Z"
+  }
+}

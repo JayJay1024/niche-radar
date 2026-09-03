@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-21T14:35:57.000Z"
+    },
+    "fetchedAt": "2026-09-03T05:30:02.985Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1377,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "replyt",
+            "volume": 440
+          },
+          {
+            "name": "community led growth tools",
+            "volume": 20
+          },
+          {
+            "name": "f5bot",
+            "volume": 15960
+          },
+          {
+            "name": "syften",
+            "volume": 3220
+          },
+          {
+            "name": "reddit seo",
+            "volume": 3210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-03T05:30:05.866Z"
+  }
+}

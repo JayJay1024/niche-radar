@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-24T14:15:24.471Z"
+    },
+    "fetchedAt": "2026-09-03T05:20:14.739Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1728,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "dial ai for claude",
+            "volume": 110
+          },
+          {
+            "name": "agent phone vs",
+            "volume": 100
+          },
+          {
+            "name": "dial sdk sms",
+            "volume": 100
+          },
+          {
+            "name": "saperly other countries",
+            "volume": 70
+          },
+          {
+            "name": "anonymous voip call integration",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-03T05:20:17.631Z"
+  }
+}
