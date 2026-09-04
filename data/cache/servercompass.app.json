@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-31T07:34:07.026Z"
+    },
+    "fetchedAt": "2026-09-04T05:23:10.104Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 18601,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "server compass",
+            "volume": 470
+          },
+          {
+            "name": "deploying next js application to a vps",
+            "volume": 0
+          },
+          {
+            "name": "spending limits on render",
+            "volume": 140
+          },
+          {
+            "name": "obsidian sync vps",
+            "volume": 100
+          },
+          {
+            "name": "railway pricing",
+            "volume": 9100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-04T05:23:14.916Z"
+  }
+}

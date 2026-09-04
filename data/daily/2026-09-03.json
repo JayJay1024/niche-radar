@@ -1,0 +1,772 @@
+{
+  "date": "2026-09-03",
+  "funnel": {
+    "total": 44,
+    "resolved": 35,
+    "newDomains": 22,
+    "hasTraffic": 22,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "Nex",
+      "tagline": "Claude Cowork for high-volume GTM workflows",
+      "votes": 294,
+      "phUrl": "https://www.producthunt.com/products/nex-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://nex.ai/",
+      "domain": "nex.ai",
+      "registeredAt": "2018-05-12T16:36:58Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Agent Builder by Airtop",
+      "tagline": "Build agents that heal themselves. ",
+      "votes": 290,
+      "phUrl": "https://www.producthunt.com/products/airtop?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.airtop.ai/agent-builder",
+      "domain": "airtop.ai",
+      "registeredAt": "2024-07-08T14:41:38Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "MagiCrew",
+      "tagline": "Give everyone their own AI workforce in one platform",
+      "votes": 252,
+      "phUrl": "https://www.producthunt.com/products/magicrew?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Omi",
+      "tagline": "Ask your computer anything you saw or heard",
+      "votes": 244,
+      "phUrl": "https://www.producthunt.com/products/open-source-ai-necklace-friend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://api.omi.me/v2/desktop/download/latest",
+      "domain": "omi.me",
+      "registeredAt": "2012-12-13T02:35:18.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Atlas by World Labs",
+      "tagline": "Turn text, pics, video, + 3D into camera-controlled HD video",
+      "votes": 210,
+      "phUrl": "https://www.producthunt.com/products/atlas-by-world-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "domain": "worldlabs.ai",
+      "registeredAt": "2023-11-22T01:21:11Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Tabbit AI ",
+      "tagline": "The best AI browser built both for you and your Agents.",
+      "votes": 142,
+      "phUrl": "https://www.producthunt.com/products/tabbitai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.tabbit.ai/",
+      "domain": "tabbit.ai",
+      "registeredAt": "2025-05-13T02:00:19.052Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Higgsfield Genjutsu",
+      "tagline": "Recast motion with your characters, locations & products",
+      "votes": 134,
+      "phUrl": "https://www.producthunt.com/products/higgsfield?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Tidy",
+      "tagline": "Fix grammar in any Mac app with free on-device AI",
+      "votes": 119,
+      "phUrl": "https://www.producthunt.com/products/tidy-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Thaw",
+      "tagline": "The only app that owns your whole menu bar, in and out",
+      "votes": 112,
+      "phUrl": "https://www.producthunt.com/products/thaw-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Readr",
+      "tagline": "A free reader that answers your questions and reads aloud",
+      "votes": 105,
+      "phUrl": "https://www.producthunt.com/products/readr-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Blume.codes",
+      "tagline": "Turns coding agent sessions into better rules and skills",
+      "votes": 103,
+      "phUrl": "https://www.producthunt.com/products/blume-codes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Causal",
+      "tagline": "AI Powered Canvas for planning visual projects",
+      "votes": 102,
+      "phUrl": "https://www.producthunt.com/products/causal-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://causal.so/",
+      "domain": "causal.so",
+      "registeredAt": "2026-04-11T21:23:15.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Grove",
+      "tagline": "One terminal for you and your AI agent",
+      "votes": 97,
+      "phUrl": "https://www.producthunt.com/products/grove-8?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://grove.publishstudio.one/",
+      "domain": "publishstudio.one",
+      "registeredAt": "2023-07-25T15:17:00Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ARBR",
+      "tagline": "Control Every AI Request",
+      "votes": 93,
+      "phUrl": "https://www.producthunt.com/products/arbr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://projectarbr.org/",
+      "domain": "projectarbr.org",
+      "registeredAt": "2026-06-15T03:47:08.522Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "CodeLook",
+      "tagline": "Quick Look code previews with 700+ editor themes",
+      "votes": 91,
+      "phUrl": "https://www.producthunt.com/products/codelook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://codelook.app/",
+      "domain": "codelook.app",
+      "registeredAt": "2026-08-25T04:31:13.380Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Fillo",
+      "tagline": "Build forms into your product with your coding agent",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/fillo-native-forms-without-the-backend?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://fillo.so/",
+      "domain": "fillo.so",
+      "registeredAt": "2026-06-15T13:26:51.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Organizational Memory 2.0",
+      "tagline": "Your enterprise just started thinking.",
+      "votes": 28,
+      "phUrl": "https://www.producthunt.com/products/coworker-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://coworker.ai/",
+      "domain": "coworker.ai",
+      "registeredAt": "2017-12-15T22:22:23Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ConvoData",
+      "tagline": "Ask your marketing data anything. Then act on it.",
+      "votes": 23,
+      "phUrl": "https://www.producthunt.com/products/convodata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://convodata.com/",
+      "domain": "convodata.com",
+      "registeredAt": "2026-01-02T19:52:43Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Format",
+      "tagline": "Customer analysis in minutes for decisions you can defend",
+      "votes": 21,
+      "phUrl": "https://www.producthunt.com/products/format-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://useformat.ai/",
+      "domain": "useformat.ai",
+      "registeredAt": "2024-10-03T09:25:02Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Agent Looker",
+      "tagline": "Scam-proof your AI agents",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/agent-looker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://agentlooker.ai/",
+      "domain": "agentlooker.ai",
+      "registeredAt": "2026-05-05T07:44:22.015Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Competitor Ads by Screpy",
+      "tagline": "Search competitor domains and review their public ad records",
+      "votes": 14,
+      "phUrl": "https://www.producthunt.com/products/screpy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://screpy.com/feature/competitor-ads/",
+      "domain": "screpy.com",
+      "registeredAt": "2019-12-07T16:44:45Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Qevra",
+      "tagline": "Free dofollow listings. Optional ads on rival pages.",
+      "votes": 12,
+      "phUrl": "https://www.producthunt.com/products/qevra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "VibeView",
+      "tagline": "Cloud simulator streaming platform in your browser",
+      "votes": 12,
+      "phUrl": "https://www.producthunt.com/products/vibeview?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://vibeview.io/",
+      "domain": "vibeview.io",
+      "registeredAt": "2025-10-21T20:08:15.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Webhub 1.0",
+      "tagline": "Build your production-ready website. Get found in AI search",
+      "votes": 11,
+      "phUrl": "https://www.producthunt.com/products/webhub-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Server Compass 1.42 - Vercel UX + AI MCP",
+      "tagline": "Vercel UX on your VPS. Ask AI to deploy via MCP ",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/server-compass?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://servercompass.app/",
+      "domain": "servercompass.app",
+      "registeredAt": "2025-10-31T07:34:07.026Z",
+      "traffic": {
+        "monthlyVisits": 18601,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "server compass",
+            "volume": 470
+          },
+          {
+            "name": "deploying next js application to a vps",
+            "volume": 0
+          },
+          {
+            "name": "spending limits on render",
+            "volume": 140
+          },
+          {
+            "name": "obsidian sync vps",
+            "volume": 100
+          },
+          {
+            "name": "railway pricing",
+            "volume": 9100
+          }
+        ]
+      },
+      "eliminatedBy": "search-share"
+    },
+    {
+      "name": "SumaqX",
+      "tagline": "The platform for foreign founders building in Europe",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/sumaqx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "PicSweep - Photo Cleaner",
+      "tagline": "Clean your Google & iCloud Photos library safely & locally.",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/picsweep-photo-cleaner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://picsweep.algorythmio.com/",
+      "domain": "algorythmio.com",
+      "registeredAt": "2026-02-09T10:48:47Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "spotify link into youtube link",
+            "volume": 70
+          },
+          {
+            "name": "youtunbr beğendiğim müzikleri spotify'a aktarma",
+            "volume": 60
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Wittverse",
+      "tagline": "The project manager that updates itself.",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/wittverse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.wittverse.com/",
+      "domain": "wittverse.com",
+      "registeredAt": "2024-03-19T11:10:24Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "FlowState Reasoning",
+      "tagline": "Guess the print, trace the state, write the code",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/flowstate-reasoning?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://reasoning.cinderwayinteractive.com/",
+      "domain": "cinderwayinteractive.com",
+      "registeredAt": "2026-06-12T13:48:07Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Parsely Studio",
+      "tagline": "No Code, No Deployments. Ship your OCR solution in minutes.",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/parsely-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://parsely.studio/",
+      "domain": "parsely.studio",
+      "registeredAt": "2026-06-26T05:37:00.167Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Songram",
+      "tagline": "Instagram, but for songs.",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/songram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.songram.app/",
+      "domain": "songram.app",
+      "registeredAt": "2025-04-10T02:12:59.709Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "CaskHub",
+      "tagline": "The Mac app store Homebrew never had",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/caskhub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://caskhub.app/",
+      "domain": "caskhub.app",
+      "registeredAt": "2026-07-19T15:42:08.977Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "caskhub",
+            "volume": 140
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Caspi",
+      "tagline": "Build apps IT actually approves.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/caspio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.caspio.com/",
+      "domain": "caspio.com",
+      "registeredAt": "1999-09-28T06:31:45Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Vector",
+      "tagline": "Turn career goals into a paced, daily learning routine.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/vector-42?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://vectorcareer.net/",
+      "domain": "vectorcareer.net",
+      "registeredAt": "2026-02-19T22:08:36Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Adchestra MCP",
+      "tagline": "Run Google Ads end to end from Claude or ChatGPT",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/adchestra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://adchestra.com/",
+      "domain": "adchestra.com",
+      "registeredAt": "2026-08-19T12:15:31Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Supercov",
+      "tagline": "Coverage so coding agents can work overnight",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/supercov?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://supercov.com/",
+      "domain": "supercov.com",
+      "registeredAt": "2026-08-23T15:53:32Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Sightglass",
+      "tagline": "See where your attention goes",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/sightglass-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://getsightglass.ai/",
+      "domain": "getsightglass.ai",
+      "registeredAt": "2026-08-27T06:25:59.1Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "CanDoYa",
+      "tagline": "Every small tool you google, minus the uploads and sign-ups",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/candoya?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://candoya.com/",
+      "domain": "candoya.com",
+      "registeredAt": "2026-06-29T10:48:23Z",
+      "traffic": {
+        "monthlyVisits": 282,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "pagina de detecte el dominante, subordinado de color",
+            "volume": 140
+          },
+          {
+            "name": "---",
+            "volume": 7650
+          },
+          {
+            "name": "count lines",
+            "volume": 4390
+          },
+          {
+            "name": "breadcrumblist",
+            "volume": 3140
+          },
+          {
+            "name": "2 metre kaç feet",
+            "volume": 590
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "VIA",
+      "tagline": "Your next B2B deal, found while you run the company",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/via-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.via.deal/en",
+      "domain": "via.deal",
+      "registeredAt": "2026-02-17T10:44:36.494Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "CV Cat",
+      "tagline": "Turn a pile of CVs into a searchable candidate database.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/cv-cat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://cvcat.hyperpersonal.co/",
+      "domain": "hyperpersonal.co",
+      "registeredAt": "2026-07-23T01:18:24.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "CV Cat",
+      "tagline": "Turn a pile of CVs into a searchable candidate database.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/cv-cat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://cvcat.hyperpersonal.co/",
+      "domain": "hyperpersonal.co",
+      "registeredAt": "2026-07-23T01:18:24.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "iOS Farm Automation - by Handler",
+      "tagline": "Free OSS iPhone farm: control real phones, automate TikTok",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/ios-farm-automation-by-handler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://gethandler.ai/ios-farm",
+      "domain": "gethandler.ai",
+      "registeredAt": "2026-07-01T17:14:30.387Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "gethandler ai",
+            "volume": 50
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Catadoc",
+      "tagline": "Reads your documents on your phone. Nothing gets uploaded.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/catadoc?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://catadoc.app/",
+      "domain": "catadoc.app",
+      "registeredAt": "2026-07-24T19:45:31.108Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "January AI",
+      "tagline": "Metabolic & nutrition infrastructure for developers",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/january-ai-for-developers?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://january.ai/",
+      "domain": "january.ai",
+      "registeredAt": "2017-12-16T03:50:19Z",
+      "eliminatedBy": "domain-age"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-01T17:14:30.387Z"
+    },
+    "fetchedAt": "2026-09-04T05:27:01.390Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "gethandler ai",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-04T05:27:04.580Z"
+  }
+}

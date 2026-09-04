@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-29T10:48:23Z"
+    },
+    "fetchedAt": "2026-09-04T05:26:13.257Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 282,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "pagina de detecte el dominante, subordinado de color",
+            "volume": 140
+          },
+          {
+            "name": "---",
+            "volume": 7650
+          },
+          {
+            "name": "count lines",
+            "volume": 4390
+          },
+          {
+            "name": "breadcrumblist",
+            "volume": 3140
+          },
+          {
+            "name": "2 metre kaç feet",
+            "volume": 590
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-04T05:26:16.548Z"
+  }
+}

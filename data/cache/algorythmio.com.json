@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-09T10:48:47Z"
+    },
+    "fetchedAt": "2026-09-04T05:23:44.700Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "spotify link into youtube link",
+            "volume": 70
+          },
+          {
+            "name": "youtunbr beğendiğim müzikleri spotify'a aktarma",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-04T05:23:47.903Z"
+  }
+}

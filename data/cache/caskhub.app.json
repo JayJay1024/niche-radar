@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-19T15:42:08.977Z"
+    },
+    "fetchedAt": "2026-09-04T05:24:44.203Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "caskhub",
+            "volume": 140
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-04T05:24:49.192Z"
+  }
+}
