@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-13T20:33:58.307Z"
+    },
+    "fetchedAt": "2026-09-05T05:07:59.003Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "agentbarn",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-05T05:08:05.187Z"
+  }
+}

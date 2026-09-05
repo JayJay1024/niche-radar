@@ -1,0 +1,365 @@
+{
+  "date": "2026-09-04",
+  "funnel": {
+    "total": 25,
+    "resolved": 20,
+    "newDomains": 8,
+    "hasTraffic": 8,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "GPT-6 Astra",
+      "tagline": "OpenAI's most capable model for end-to-end work",
+      "votes": 384,
+      "phUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "domain": "openai.com",
+      "registeredAt": "2007-01-19T19:28:24Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "myAIcademy",
+      "tagline": "Learn AI skills for your specific role and team",
+      "votes": 275,
+      "phUrl": "https://www.producthunt.com/products/myaicademy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.myaicademy.com/",
+      "domain": "myaicademy.com",
+      "registeredAt": "2024-04-14T13:43:14Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Compliance by TwelveLabs",
+      "tagline": "Video compliance review powered by rules you control",
+      "votes": 238,
+      "phUrl": "https://www.producthunt.com/products/twelvelabs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.twelvelabs.io/compliance",
+      "domain": "twelvelabs.io",
+      "registeredAt": "2021-01-21T09:17:31.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Google Gemini 3.8 Flash and Cyber",
+      "tagline": "Next-gen Gemini for agents, reasoning, and cyber security",
+      "votes": 222,
+      "phUrl": "https://www.producthunt.com/products/gemini-3-8-flash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "domain": "blog.google",
+      "registeredAt": "2016-08-12T19:53:55.549Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "cmmnts",
+      "tagline": "Add a powerful comment section to any website",
+      "votes": 154,
+      "phUrl": "https://www.producthunt.com/products/cmmnts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://cmmnts.in/",
+      "domain": "cmmnts.in",
+      "registeredAt": "2026-07-25T20:26:12.464Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Omarchy",
+      "tagline": "The malleable OS for the age of agents",
+      "votes": 124,
+      "phUrl": "https://www.producthunt.com/products/omarchy-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://omarchy.org/",
+      "domain": "omarchy.org",
+      "registeredAt": "2025-06-01T07:25:04.522Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "WeatherNext 3",
+      "tagline": "Our most advanced and accurate global weather AI model",
+      "votes": 123,
+      "phUrl": "https://www.producthunt.com/products/weathernext-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "domain": "blog.google",
+      "registeredAt": "2016-08-12T19:53:55.549Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Snitch",
+      "tagline": "Your Slack org chart, built by everyone in it.",
+      "votes": 109,
+      "phUrl": "https://www.producthunt.com/products/snitch-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://snitchforslack.com/",
+      "domain": "snitchforslack.com",
+      "registeredAt": "2026-08-26T19:39:53Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "TrackMCP",
+      "tagline": "Google Analytics for MCP Servers",
+      "votes": 100,
+      "phUrl": "https://www.producthunt.com/products/trackmcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.trackmcp.com/",
+      "domain": "trackmcp.com",
+      "registeredAt": "2025-04-09T14:38:34Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "sidebranch",
+      "tagline": "Easy git-based visual diffing",
+      "votes": 98,
+      "phUrl": "https://www.producthunt.com/products/sidebranch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://sidebranch.dev/",
+      "domain": "sidebranch.dev",
+      "registeredAt": "2026-09-01T20:41:05.513Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Inline",
+      "tagline": "Multiplayer work with AI, teammates, and friends",
+      "votes": 97,
+      "phUrl": "https://www.producthunt.com/products/inline-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://inline.chat/",
+      "domain": "inline.chat",
+      "registeredAt": "2024-09-06T13:16:16.476Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Offline JS Playground",
+      "tagline": "Write, run, and test JavaScript snippets & JSON offline",
+      "votes": 96,
+      "phUrl": "https://www.producthunt.com/products/offline-js-playground?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Clockwork",
+      "tagline": "The calendar where your AI agents show up for work",
+      "votes": 91,
+      "phUrl": "https://www.producthunt.com/products/clockwork-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Chalked for Mac",
+      "tagline": "Your replies ready with your work's full context",
+      "votes": 87,
+      "phUrl": "https://www.producthunt.com/products/chalked?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://usechalked.com/",
+      "domain": "usechalked.com",
+      "registeredAt": "2026-08-21T10:02:30Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "A2A Net",
+      "tagline": "Automatically optimize an AI agent from your B2B SaaS APIs",
+      "votes": 19,
+      "phUrl": "https://www.producthunt.com/products/a2a-net?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://a2anet.com/",
+      "domain": "a2anet.com",
+      "registeredAt": "2024-12-28T14:47:27Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Trends",
+      "tagline": "See what's driving the most popular topics on podcasts",
+      "votes": 14,
+      "phUrl": "https://www.producthunt.com/products/particle-5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://radar.particle.pro/trends",
+      "domain": "particle.pro",
+      "registeredAt": "2021-03-01T14:33:24.491Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Email Health Check by Truelist",
+      "tagline": "Grade your email list's health in 30 seconds, free",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/truelist-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://truelist.io/tools/email-health-check",
+      "domain": "truelist.io",
+      "registeredAt": "2024-02-03T13:16:44.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "SCRUB.",
+      "tagline": "Run creator campaigns across platforms, end to end",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/scrub?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://joinscrub.com/",
+      "domain": "joinscrub.com",
+      "registeredAt": "2026-06-10T10:01:27Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Trailmarks iOS",
+      "tagline": "Real World Travel Quiz & Trivia Adventure",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/trailmarks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "ALIA",
+      "tagline": "The data infrastructure for AI that speaks Africa",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/alia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.alia.africa/",
+      "domain": "alia.africa",
+      "registeredAt": "2026-08-28T15:43:46.559118+00:00",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Present: Clock + Weather + Calendar",
+      "tagline": "Everything you need at a glance. Nothing else. ",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/present-clock-weather-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Dnipro",
+      "tagline": "Suspicious Profile Checker for LinkedIn",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/dnipro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "InboxAlly",
+      "tagline": "9 free tools to fix your email deliverability",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/inboxally?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.inboxally.com/",
+      "domain": "inboxally.com",
+      "registeredAt": "2020-07-08T01:28:55Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "SuperQode",
+      "tagline": "The harness interoperability layer for coding agents",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/superqode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://superqode.dev/",
+      "domain": "superqode.dev",
+      "registeredAt": "2026-08-31T16:29:16.103Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Agent Barn",
+      "tagline": "Run a fleet of AI agents on your own Kubernetes",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/agent-barn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://agentbarn.dev/",
+      "domain": "agentbarn.dev",
+      "registeredAt": "2026-05-13T20:33:58.307Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "agentbarn",
+            "volume": 20
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    }
+  ]
+}
