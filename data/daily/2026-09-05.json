@@ -1,0 +1,478 @@
+{
+  "date": "2026-09-05",
+  "funnel": {
+    "total": 23,
+    "resolved": 18,
+    "newDomains": 14,
+    "hasTraffic": 14,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "dif.sh",
+      "tagline": "Markdown feature flags your coding agent installs for you",
+      "votes": 343,
+      "phUrl": "https://www.producthunt.com/products/dif-sh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.dif.sh/",
+      "domain": "dif.sh",
+      "registeredAt": "2026-04-09T20:27:32.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "dif.spec.add.",
+            "volume": 240
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Reflexio",
+      "tagline": "Behavioral learning that makes AI agents better over time",
+      "votes": 263,
+      "phUrl": "https://www.producthunt.com/products/reflexio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.reflexio.ai/",
+      "domain": "reflexio.ai",
+      "registeredAt": "2026-01-28T08:08:13.307Z",
+      "traffic": {
+        "monthlyVisits": 8350,
+        "sources": {
+          "direct": 1,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "search-share"
+    },
+    {
+      "name": "Ponytail",
+      "tagline": "Make new code the last resort",
+      "votes": 208,
+      "phUrl": "https://www.producthunt.com/products/ponytail?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://ponytail.dev/",
+      "domain": "ponytail.dev",
+      "registeredAt": "2026-06-16T02:30:57.832Z",
+      "traffic": {
+        "monthlyVisits": 116744,
+        "sources": {
+          "direct": 0.7811,
+          "search": 0.0685,
+          "referral": 0.1138,
+          "social": 0.0256,
+          "mail": 0.0054
+        },
+        "topKeywords": [
+          {
+            "name": "ponytail ai",
+            "volume": 9450
+          },
+          {
+            "name": "ponytail skill",
+            "volume": 31770
+          },
+          {
+            "name": "ponytail",
+            "volume": 217090
+          },
+          {
+            "name": "ponytail lazy dev",
+            "volume": 570
+          },
+          {
+            "name": "ponytail.dev",
+            "volume": 310
+          }
+        ]
+      },
+      "eliminatedBy": "search-share"
+    },
+    {
+      "name": "Hyperprobe",
+      "tagline": "Lets your AI agents debug production without redeploying",
+      "votes": 179,
+      "phUrl": "https://www.producthunt.com/products/hyperprobe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.hyperprobe.co/",
+      "domain": "hyperprobe.co",
+      "registeredAt": "2026-03-23T07:29:55.000Z",
+      "traffic": {
+        "monthlyVisits": 3580,
+        "sources": {
+          "direct": 0.9332,
+          "search": 0.0334,
+          "referral": 0.0334,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "hyperprobe",
+            "volume": 980
+          },
+          {
+            "name": "hyperprobe yc",
+            "volume": 930
+          }
+        ]
+      },
+      "eliminatedBy": "search-share"
+    },
+    {
+      "name": "at8pm",
+      "tagline": "Your honest journal",
+      "votes": 127,
+      "phUrl": "https://www.producthunt.com/products/at8pm?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Experiential Labs",
+      "tagline": "Open source AI gateway turning traffic into a better model",
+      "votes": 121,
+      "phUrl": "https://www.producthunt.com/products/experiential-labs?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.experientiallabs.ai/",
+      "domain": "experientiallabs.ai",
+      "registeredAt": "2026-06-13T00:31:04.373Z",
+      "traffic": {
+        "monthlyVisits": 5184,
+        "sources": {
+          "direct": 0.7517,
+          "search": 0.0884,
+          "referral": 0.0499,
+          "social": 0.0832,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "experiential labs",
+            "volume": 550
+          },
+          {
+            "name": "kion fallah",
+            "volume": 240
+          },
+          {
+            "name": "resolute labs",
+            "volume": 0
+          }
+        ]
+      },
+      "eliminatedBy": "search-share"
+    },
+    {
+      "name": "PostBox",
+      "tagline": "Stage and post designs from your mac",
+      "votes": 112,
+      "phUrl": "https://www.producthunt.com/products/postbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://postbox.sh/",
+      "domain": "postbox.sh",
+      "registeredAt": "2026-08-03T02:14:05.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "CommuteBar",
+      "tagline": "Live commute times in your menu bar",
+      "votes": 105,
+      "phUrl": "https://www.producthunt.com/products/commutebar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.commute.bar/",
+      "domain": "commute.bar",
+      "registeredAt": "2026-07-14T03:39:30.336Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Queuebrick",
+      "tagline": "The Letterboxd alternative",
+      "votes": 99,
+      "phUrl": "https://www.producthunt.com/products/queuebrick?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.queuebrick.com/",
+      "domain": "queuebrick.com",
+      "registeredAt": "2026-07-11T17:00:24Z",
+      "traffic": {
+        "monthlyVisits": 418,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "masahiro noguchi",
+            "volume": 500
+          },
+          {
+            "name": "shoujo picaresque",
+            "volume": 820
+          },
+          {
+            "name": "pierre hounsou",
+            "volume": 350
+          },
+          {
+            "name": "daichi sawamura voice actor",
+            "volume": 300
+          },
+          {
+            "name": "f kiyoshi ōkubo",
+            "volume": 230
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Retold",
+      "tagline": "Turn family voices into hand-drawn story films",
+      "votes": 95,
+      "phUrl": "https://www.producthunt.com/products/retold?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://stories-retold.com/",
+      "domain": "stories-retold.com",
+      "registeredAt": "2026-08-20T06:30:56Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "GitWarren",
+      "tagline": "Review code with your coding agents before committing",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/gitwarren?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "BrickForgerAI",
+      "tagline": "Turn any prompt into a brick set you can actually build",
+      "votes": 88,
+      "phUrl": "https://www.producthunt.com/products/brickforgerai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://brickforgerai.com/",
+      "domain": "brickforgerai.com",
+      "registeredAt": "2026-08-06T18:03:09Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "​​AI Agents Listing​",
+      "tagline": "​​The agentic AI ecosystem, in one directory​",
+      "votes": 22,
+      "phUrl": "https://www.producthunt.com/products/ai-agents-listing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://aiagentslisting.com/",
+      "domain": "aiagentslisting.com",
+      "registeredAt": "2026-07-15T17:52:17Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "LiftmyCV 3.0",
+      "tagline": "Your personal AI job search & auto-apply agent.",
+      "votes": 13,
+      "phUrl": "https://www.producthunt.com/products/liftmycv?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.liftmycv.com/",
+      "domain": "liftmycv.com",
+      "registeredAt": "2023-11-13T20:55:20Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Malyatko — Baby tracker",
+      "tagline": " Privacy-first baby tracker that works fully offline",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/malyatko-baby-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://malyatko.app/en/",
+      "domain": "malyatko.app",
+      "registeredAt": "2026-09-01T11:27:05.363Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Brain Rest",
+      "tagline": "Don’t let your browser rot your brain",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/brain-rest?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://brainrest.pro/",
+      "domain": "brainrest.pro",
+      "registeredAt": "2026-05-31T09:18:56.738Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Muse Spark 1.3",
+      "tagline": "Meta’s flagship for coding and long-horizon agents",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/muse-spark-1-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "supatools",
+      "tagline": "The directory for product makers",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/supatools?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://supatools.dev/",
+      "domain": "supatools.dev",
+      "registeredAt": "2025-07-15T17:05:47.411Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Autnest: Drive & AI",
+      "tagline": "Automotive hub for drivers & garages — with AI built in",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/autnest-drive-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.autnest.com/",
+      "domain": "autnest.com",
+      "registeredAt": "2025-05-18T14:59:38Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "VerbX Localize",
+      "tagline": "Install Once Localize Forever",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/verbx-localize?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://localize.verbxeco.com/",
+      "domain": "verbxeco.com",
+      "registeredAt": "2026-01-25T15:18:53Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "verbx",
+            "volume": 30
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Autnest: Drive & AI",
+      "tagline": "Automotive hub for drivers & garages — with AI built in",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/autnest-drive-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.autnest.com/",
+      "domain": "autnest.com",
+      "registeredAt": "2025-05-18T14:59:38Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "AI Alignment Skill",
+      "tagline": "Ensure alignment when working with frontier AI models.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/ai-alignment-skill?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Dual Subtitles",
+      "tagline": "Two subtitle lines at once on YouTube and Netflix",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/dual-subtitles?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    }
+  ]
+}

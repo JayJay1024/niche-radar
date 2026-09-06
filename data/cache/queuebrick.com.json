@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-11T17:00:24Z"
+    },
+    "fetchedAt": "2026-09-06T05:20:24.660Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 418,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "masahiro noguchi",
+            "volume": 500
+          },
+          {
+            "name": "shoujo picaresque",
+            "volume": 820
+          },
+          {
+            "name": "pierre hounsou",
+            "volume": 350
+          },
+          {
+            "name": "daichi sawamura voice actor",
+            "volume": 300
+          },
+          {
+            "name": "f kiyoshi ōkubo",
+            "volume": 230
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-06T05:20:31.038Z"
+  }
+}

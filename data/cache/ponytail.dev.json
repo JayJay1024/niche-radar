@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-16T02:30:57.832Z"
+    },
+    "fetchedAt": "2026-09-06T05:18:05.566Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 116744,
+        "sources": {
+          "direct": 0.7811,
+          "search": 0.0685,
+          "referral": 0.1138,
+          "social": 0.0256,
+          "mail": 0.0054
+        },
+        "topKeywords": [
+          {
+            "name": "ponytail ai",
+            "volume": 9450
+          },
+          {
+            "name": "ponytail skill",
+            "volume": 31770
+          },
+          {
+            "name": "ponytail",
+            "volume": 217090
+          },
+          {
+            "name": "ponytail lazy dev",
+            "volume": 570
+          },
+          {
+            "name": "ponytail.dev",
+            "volume": 310
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-06T05:18:11.976Z"
+  }
+}

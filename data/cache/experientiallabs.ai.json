@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-13T00:31:04.373Z"
+    },
+    "fetchedAt": "2026-09-06T05:19:12.490Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5184,
+        "sources": {
+          "direct": 0.7517,
+          "search": 0.0884,
+          "referral": 0.0499,
+          "social": 0.0832,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "experiential labs",
+            "volume": 550
+          },
+          {
+            "name": "kion fallah",
+            "volume": 240
+          },
+          {
+            "name": "resolute labs",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-06T05:19:18.390Z"
+  }
+}
