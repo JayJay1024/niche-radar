@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-13T23:24:33.415Z"
+    },
+    "fetchedAt": "2026-09-07T05:29:10.982Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3497,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "secon brain new version",
+            "volume": 80
+          },
+          {
+            "name": "second brain website",
+            "volume": 80
+          },
+          {
+            "name": "second brain",
+            "volume": 26870
+          },
+          {
+            "name": "second brain ai",
+            "volume": 2020
+          },
+          {
+            "name": "secound brain",
+            "volume": 1550
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-07T05:29:15.018Z"
+  }
+}

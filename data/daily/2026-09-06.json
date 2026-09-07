@@ -1,0 +1,370 @@
+{
+  "date": "2026-09-06",
+  "funnel": {
+    "total": 23,
+    "resolved": 18,
+    "newDomains": 9,
+    "hasTraffic": 9,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "AI Toolbox 3.0",
+      "tagline": "Search, organize and export every AI chat in one place",
+      "votes": 367,
+      "phUrl": "https://www.producthunt.com/products/chatgpt-toolbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.ai-toolbox.co/",
+      "domain": "ai-toolbox.co",
+      "registeredAt": "2024-09-10T14:52:24.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Tadata",
+      "tagline": "The AI employee in Slack that reads the room.",
+      "votes": 320,
+      "phUrl": "https://www.producthunt.com/products/tadata?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.tadata.com/",
+      "domain": "tadata.com",
+      "registeredAt": "2005-10-28T08:23:32Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Notify.domains",
+      "tagline": "Know the moment a domain opportunity appears",
+      "votes": 268,
+      "phUrl": "https://www.producthunt.com/products/notify-domains?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://notify.domains/",
+      "domain": "notify.domains",
+      "registeredAt": "2023-08-21T09:35:12.508Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Agentic Video Understanding in Gemini",
+      "tagline": "Agentic video analysis for faster, smarter Gemini insights",
+      "votes": 227,
+      "phUrl": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "domain": "blog.google",
+      "registeredAt": "2016-08-12T19:53:55.549Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "DocsAlot Visual Editor",
+      "tagline": "Create beautiful docs, by typing. No AI required. ",
+      "votes": 180,
+      "phUrl": "https://www.producthunt.com/products/docsalot-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://docsalot.dev/features/visual-editor",
+      "domain": "docsalot.dev",
+      "registeredAt": "2025-08-17T20:50:08.287Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": " H3 Max by fal",
+      "tagline": "fal's post-trained MiniMax H3 for quality video production",
+      "votes": 144,
+      "phUrl": "https://www.producthunt.com/products/fal-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://blog.fal.ai/introducing-h3-max-by-fal/",
+      "domain": "fal.ai",
+      "registeredAt": "2020-11-13T00:24:34Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Kit by Speakeasy",
+      "tagline": "Your coding agent runtime. Claude but fast, cheap, concise.",
+      "votes": 117,
+      "phUrl": "https://www.producthunt.com/products/speakeasydev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "hi.new",
+      "tagline": "Multiplayer Grok Bot. Let your Grok Bot speak to other bots",
+      "votes": 58,
+      "phUrl": "https://www.producthunt.com/products/hey-new?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://hi.new/",
+      "domain": "hi.new",
+      "registeredAt": "2024-04-16T17:42:38.264Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "GeniusCook",
+      "tagline": "Your AI Kitchen Companion ",
+      "votes": 22,
+      "phUrl": "https://www.producthunt.com/products/geniuscook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://geniuscook.app/",
+      "domain": "geniuscook.app",
+      "registeredAt": "2026-08-01T15:40:16.161Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Public Speaking VR Simulator",
+      "tagline": "Rehearse presentations in your browser or in VR",
+      "votes": 13,
+      "phUrl": "https://www.producthunt.com/products/generateppt?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "AdCar",
+      "tagline": "Put your brand on someone's loud car, YouTube and 𝕏",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/adcar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://adcar.tv/",
+      "domain": "adcar.tv",
+      "registeredAt": "2026-08-27T16:46:21Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Context Goblin",
+      "tagline": "The quality check for AI-built software",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/context-goblin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://contextgoblin.com/",
+      "domain": "contextgoblin.com",
+      "registeredAt": "2026-07-21T09:59:38Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Vibrantsnap",
+      "tagline": "Your product is good. Your demo should say so.",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/vibrantsnap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.vibrantsnap.com/",
+      "domain": "vibrantsnap.com",
+      "registeredAt": "2023-12-18T00:00:39Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "RSS to Kindle ",
+      "tagline": "Subscribe to blogs on your Kindle",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/rss-to-kindle?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.rsstokindle.com/",
+      "domain": "rsstokindle.com",
+      "registeredAt": "2026-03-14T13:22:35Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Second Brain for Teams",
+      "tagline": "Give your team one AI memory. Keep your own private.",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/second-brain-cloudflare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.thesecondbrain.dev/",
+      "domain": "thesecondbrain.dev",
+      "registeredAt": "2026-05-13T23:24:33.415Z",
+      "traffic": {
+        "monthlyVisits": 3497,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "secon brain new version",
+            "volume": 80
+          },
+          {
+            "name": "second brain website",
+            "volume": 80
+          },
+          {
+            "name": "second brain",
+            "volume": 26870
+          },
+          {
+            "name": "second brain ai",
+            "volume": 2020
+          },
+          {
+            "name": "secound brain",
+            "volume": 1550
+          }
+        ]
+      },
+      "eliminatedBy": "search-share"
+    },
+    {
+      "name": "MCPHub",
+      "tagline": "AI-native launchpad for MCP servers",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/mcphub-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.mcphub.space/",
+      "domain": "mcphub.space",
+      "registeredAt": "2026-08-26T20:12:18.815Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Brain Training Games: Loniva",
+      "tagline": "Daily brain training app.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/brain-training-games-loniva?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://loniva.app/",
+      "domain": "loniva.app",
+      "registeredAt": "2026-06-26T20:15:57.585Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Parkicious",
+      "tagline": "Parking Experience, Made Delicious",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/parkicious?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://parkicious.com/",
+      "domain": "parkicious.com",
+      "registeredAt": "2026-08-23T17:49:57Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "SyncAgents",
+      "tagline": "The Autonomous AI Workforce in your terminal",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/syncagents?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://syncagents.app/",
+      "domain": "syncagents.app",
+      "registeredAt": "2026-02-10T12:46:03.717Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Voice95",
+      "tagline": "A Windows 95-style desktop you can talk to",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/voice95?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://voice95.sauravalgs.workers.dev/",
+      "domain": "workers.dev",
+      "registeredAt": "2019-02-08T20:36:47.904Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Fylom",
+      "tagline": "Turn any idea into an episode.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/fylom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "StatWP",
+      "tagline": "WordPress plugin & theme research, stats and growth tracking",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/statwp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Framework First Academy",
+      "tagline": "Learn when to use each framework — 30 courses, 4 stages",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/framework-first-academy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    }
+  ]
+}
