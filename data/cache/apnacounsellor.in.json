@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-29T10:34:26.795Z"
+    },
+    "fetchedAt": "2026-09-08T05:36:18.221Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 10479,
+        "sources": {
+          "direct": 0.3483,
+          "search": 0.344,
+          "referral": 0.1616,
+          "social": 0.0638,
+          "mail": 0.039
+        },
+        "topKeywords": [
+          {
+            "name": "csab counselling",
+            "volume": 30720
+          },
+          {
+            "name": "counselling for college",
+            "volume": 490
+          },
+          {
+            "name": "faculty of pharmacy dwarikadheesh mahavidhyalaya",
+            "volume": 60
+          },
+          {
+            "name": "best counselling for mht cet",
+            "volume": 20
+          },
+          {
+            "name": "josaa cutoffs",
+            "volume": 1060
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-08T05:36:21.175Z"
+  }
+}

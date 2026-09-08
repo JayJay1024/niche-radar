@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-15T19:10:42.278Z"
+    },
+    "fetchedAt": "2026-09-08T05:37:55.386Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3679,
+          "search": 0.328,
+          "referral": 0.1684,
+          "social": 0.0716,
+          "mail": 0.0338
+        },
+        "topKeywords": [
+          {
+            "name": "vulx",
+            "volume": 210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-08T05:37:58.330Z"
+  }
+}

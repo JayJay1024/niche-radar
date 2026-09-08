@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-04T00:00:00.000Z"
+    },
+    "fetchedAt": "2026-09-08T05:34:15.756Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "kidvaxtrack nys login",
+            "volume": 1000
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-08T05:34:18.817Z"
+  }
+}

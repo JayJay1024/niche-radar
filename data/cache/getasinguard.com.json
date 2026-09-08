@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-20T05:54:48Z"
+    },
+    "fetchedAt": "2026-09-08T05:33:45.196Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "asinguard",
+            "volume": 40
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-08T05:33:48.134Z"
+  }
+}
