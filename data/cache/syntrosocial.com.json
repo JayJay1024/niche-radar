@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-27T15:01:44Z"
+    },
+    "fetchedAt": "2026-09-09T05:41:30.697Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1386,
+        "sources": {
+          "direct": 0.3148,
+          "search": 0.2915,
+          "referral": 0.2005,
+          "social": 0.0713,
+          "mail": 0.0495
+        },
+        "topKeywords": [
+          {
+            "name": "syntro",
+            "volume": 900
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-09T05:41:33.600Z"
+  }
+}

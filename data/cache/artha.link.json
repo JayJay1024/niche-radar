@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-26T05:39:29.179Z"
+    },
+    "fetchedAt": "2026-09-09T05:37:01.349Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 433440,
+        "sources": {
+          "direct": 0.5253,
+          "search": 0.021,
+          "referral": 0.021500000000000002,
+          "social": 0.3932,
+          "mail": 0.031
+        },
+        "topKeywords": [
+          {
+            "name": "artha link",
+            "volume": 950
+          },
+          {
+            "name": "facebook monetization criteria",
+            "volume": 3730
+          },
+          {
+            "name": "сколько зарабатывает тик ток канал по ссылке",
+            "volume": 330
+          },
+          {
+            "name": "instagram revenue calculator",
+            "volume": 270
+          },
+          {
+            "name": "como monetizar conteúdo no facebook",
+            "volume": 130
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-09T05:37:05.299Z"
+  }
+}

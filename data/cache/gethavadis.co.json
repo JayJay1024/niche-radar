@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-19T12:02:27.000Z"
+    },
+    "fetchedAt": "2026-09-09T05:40:07.183Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 526,
+        "sources": {
+          "direct": 0.378,
+          "search": 0.3484,
+          "referral": 0.1409,
+          "social": 0.0717,
+          "mail": 0.0281
+        },
+        "topKeywords": [
+          {
+            "name": "semantik katman nedir",
+            "volume": 360
+          },
+          {
+            "name": "geo ve aeo farkı ne",
+            "volume": 200
+          },
+          {
+            "name": "nlp etiketleme",
+            "volume": 20
+          },
+          {
+            "name": "semantik zeka",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-09T05:40:11.279Z"
+  }
+}

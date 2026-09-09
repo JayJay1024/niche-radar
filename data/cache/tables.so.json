@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-25T13:43:32.000Z"
+    },
+    "fetchedAt": "2026-09-09T05:33:48.032Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2458,
+        "sources": {
+          "direct": 0.3965,
+          "search": 0.3328,
+          "referral": 0.14279999999999998,
+          "social": 0.063,
+          "mail": 0.029
+        },
+        "topKeywords": [
+          {
+            "name": "tables.so",
+            "volume": 200
+          },
+          {
+            "name": "tables leads",
+            "volume": 100
+          },
+          {
+            "name": "storeleads",
+            "volume": 24950
+          },
+          {
+            "name": "tables so",
+            "volume": 30
+          },
+          {
+            "name": "storeleads vs",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-09T05:33:50.955Z"
+  }
+}

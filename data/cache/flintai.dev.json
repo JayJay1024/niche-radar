@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-15T14:23:46.868Z"
+    },
+    "fetchedAt": "2026-09-09T05:31:24.888Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2674,
+        "sources": {
+          "direct": 0.286,
+          "search": 0.2751,
+          "referral": 0.2252,
+          "social": 0.0685,
+          "mail": 0.0542
+        },
+        "topKeywords": [
+          {
+            "name": "flintai",
+            "volume": 1100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-09T05:31:27.964Z"
+  }
+}
