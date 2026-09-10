@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-03T22:45:35.63Z"
+    },
+    "fetchedAt": "2026-09-10T05:29:07.409Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "adscope",
+            "volume": 1710
+          },
+          {
+            "name": "\"adscope\" editor video",
+            "volume": 150
+          },
+          {
+            "name": "ad scope",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-10T05:29:10.327Z"
+  }
+}

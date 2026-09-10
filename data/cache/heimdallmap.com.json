@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-23T20:03:29Z"
+    },
+    "fetchedAt": "2026-09-10T05:34:27.744Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "how can heimdall see everything",
+            "volume": 320
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-10T05:34:30.751Z"
+  }
+}

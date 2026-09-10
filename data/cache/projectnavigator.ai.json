@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-11T15:57:58.035Z"
+    },
+    "fetchedAt": "2026-09-10T05:34:05.515Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "projectr nsvigator",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-10T05:34:08.471Z"
+  }
+}

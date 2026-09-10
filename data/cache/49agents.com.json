@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-14T05:14:52Z"
+    },
+    "fetchedAt": "2026-09-10T05:28:01.815Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1402,
+        "sources": {
+          "direct": 0.2986,
+          "search": 0.2932,
+          "referral": 0.21239999999999998,
+          "social": 0.0679,
+          "mail": 0.0504
+        },
+        "topKeywords": [
+          {
+            "name": "49 agents",
+            "volume": 890
+          },
+          {
+            "name": "agent 49",
+            "volume": 560
+          },
+          {
+            "name": "agent 49 meme",
+            "volume": 200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-10T05:28:04.623Z"
+  }
+}

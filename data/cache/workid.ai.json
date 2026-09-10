@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-14T07:30:13.93Z"
+    },
+    "fetchedAt": "2026-09-10T05:29:18.881Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "workemidz",
+            "volume": 220
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-10T05:29:21.763Z"
+  }
+}

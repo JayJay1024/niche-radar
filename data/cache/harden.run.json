@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-09T01:08:43.026Z"
+    },
+    "fetchedAt": "2026-09-10T05:26:25.928Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5895,
+        "sources": {
+          "direct": 0.4603,
+          "search": 0.1993,
+          "referral": 0.1588,
+          "social": 0.0738,
+          "mail": 0.0455
+        },
+        "topKeywords": [
+          {
+            "name": "harden ai",
+            "volume": 160
+          },
+          {
+            "name": "hardenrun",
+            "volume": 10
+          },
+          {
+            "name": "harden.cmd",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-10T05:26:28.929Z"
+  }
+}
