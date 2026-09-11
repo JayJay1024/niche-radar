@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-20T18:25:55Z"
+    },
+    "fetchedAt": "2026-09-11T05:29:13.979Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2205,
+        "sources": {
+          "direct": 0.3339,
+          "search": 0.3145,
+          "referral": 0.1806,
+          "social": 0.0665,
+          "mail": 0.0475
+        },
+        "topKeywords": [
+          {
+            "name": "weentinez",
+            "volume": 730
+          },
+          {
+            "name": "floating menu/popover",
+            "volume": 280
+          },
+          {
+            "name": "vengence.ui",
+            "volume": 270
+          },
+          {
+            "name": "how does flighty follow apple design language",
+            "volume": 260
+          },
+          {
+            "name": "reactbits laternate",
+            "volume": 170
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-11T05:29:17.669Z"
+  }
+}

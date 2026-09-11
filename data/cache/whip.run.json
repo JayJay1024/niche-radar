@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-19T16:05:34.238Z"
+    },
+    "fetchedAt": "2026-09-11T05:26:48.942Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 22248,
+        "sources": {
+          "direct": 0.3919,
+          "search": 0.1516,
+          "referral": 0.3085,
+          "social": 0.1154,
+          "mail": 0.0151
+        },
+        "topKeywords": [
+          {
+            "name": "whip app for android",
+            "volume": 100
+          },
+          {
+            "name": "whip by tensorfuse",
+            "volume": 70
+          },
+          {
+            "name": "whip",
+            "volume": 74620
+          },
+          {
+            "name": "openwhip",
+            "volume": 1580
+          },
+          {
+            "name": "whip ai",
+            "volume": 1370
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-11T05:26:52.702Z"
+  }
+}

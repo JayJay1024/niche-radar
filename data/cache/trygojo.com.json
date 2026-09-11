@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-10T14:29:53Z"
+    },
+    "fetchedAt": "2026-09-11T05:27:58.350Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3637,
+          "search": 0.3756,
+          "referral": 0.1336,
+          "social": 0.0689,
+          "mail": 0.0256
+        },
+        "topKeywords": [
+          {
+            "name": "f.lux",
+            "volume": 31780
+          },
+          {
+            "name": "is there an equivalent of karabiner elements on ipad",
+            "volume": 260
+          },
+          {
+            "name": "raycast notch",
+            "volume": 180
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-11T05:28:02.070Z"
+  }
+}

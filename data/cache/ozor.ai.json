@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-27T15:43:05.213Z"
+    },
+    "fetchedAt": "2026-09-11T05:35:56.022Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8103,
+        "sources": {
+          "direct": 0.3855,
+          "search": 0.3527,
+          "referral": 0.127,
+          "social": 0.0615,
+          "mail": 0.0324
+        },
+        "topKeywords": [
+          {
+            "name": "ozor",
+            "volume": 540
+          },
+          {
+            "name": "ozor ai video generator",
+            "volume": 90
+          },
+          {
+            "name": "hoe to make a video pn an academic paper",
+            "volume": 80
+          },
+          {
+            "name": "ozor ai",
+            "volume": 70
+          },
+          {
+            "name": "ozal ai video editor",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-11T05:35:59.732Z"
+  }
+}

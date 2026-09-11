@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-13T18:02:05.513Z"
+    },
+    "fetchedAt": "2026-09-11T05:29:55.418Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8467,
+        "sources": {
+          "direct": 0.3363,
+          "search": 0.3132,
+          "referral": 0.1851,
+          "social": 0.0677,
+          "mail": 0.0433
+        },
+        "topKeywords": [
+          {
+            "name": "webanatomy",
+            "volume": 540
+          },
+          {
+            "name": "web anatomy",
+            "volume": 380
+          },
+          {
+            "name": "landing page analyzer",
+            "volume": 270
+          },
+          {
+            "name": "erp websites example",
+            "volume": 120
+          },
+          {
+            "name": "best problem section",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-11T05:29:59.090Z"
+  }
+}
