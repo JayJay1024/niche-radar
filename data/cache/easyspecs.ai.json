@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-24T20:53:00.313Z"
+    },
+    "fetchedAt": "2026-09-12T05:16:22.246Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "agentic coding factory",
+            "volume": 260
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-12T05:16:26.068Z"
+  }
+}

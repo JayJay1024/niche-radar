@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-11T16:47:35.909Z"
+    },
+    "fetchedAt": "2026-09-12T05:15:51.440Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 505,
+        "sources": {
+          "direct": 0.2944,
+          "search": 0.2813,
+          "referral": 0.21650000000000003,
+          "social": 0.0691,
+          "mail": 0.0548
+        },
+        "topKeywords": [
+          {
+            "name": "wisry.ai",
+            "volume": 50
+          },
+          {
+            "name": "wisry.ai reviews",
+            "volume": 20
+          },
+          {
+            "name": "ad clone creatify",
+            "volume": 240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-12T05:15:55.137Z"
+  }
+}

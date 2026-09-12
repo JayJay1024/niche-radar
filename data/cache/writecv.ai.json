@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-09T15:08:23.622Z"
+    },
+    "fetchedAt": "2026-09-12T05:20:59.107Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1874,
+        "sources": {
+          "direct": 0.3856,
+          "search": 0.3543,
+          "referral": 0.1251,
+          "social": 0.0619,
+          "mail": 0.0324
+        },
+        "topKeywords": [
+          {
+            "name": "resumake",
+            "volume": 4180
+          },
+          {
+            "name": "skills section resume reddit formatting",
+            "volume": 280
+          },
+          {
+            "name": "tailor resume",
+            "volume": 150
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-12T05:21:02.905Z"
+  }
+}

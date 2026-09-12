@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-28T14:57:10.105Z"
+    },
+    "fetchedAt": "2026-09-12T05:20:26.193Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1580,
+        "sources": {
+          "direct": 0.3818,
+          "search": 0.3232,
+          "referral": 0.1623,
+          "social": 0.0708,
+          "mail": 0.0282
+        },
+        "topKeywords": [
+          {
+            "name": "bank account holder compliance screening apple developer",
+            "volume": 250
+          },
+          {
+            "name": "apple developer account buy",
+            "volume": 120
+          },
+          {
+            "name": "apple developper lebanon",
+            "volume": 170
+          },
+          {
+            "name": "legacy personal developer account for sell",
+            "volume": 80
+          },
+          {
+            "name": "купить аккаунт разработчика apple",
+            "volume": 150
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-12T05:20:29.790Z"
+  }
+}
