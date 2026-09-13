@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-25T05:34:06.203Z"
+    },
+    "fetchedAt": "2026-09-13T05:35:44.173Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 526,
+        "sources": {
+          "direct": 0.2976,
+          "search": 0.307,
+          "referral": 0.2113,
+          "social": 0.079,
+          "mail": 0.0436
+        },
+        "topKeywords": [
+          {
+            "name": "firsteyes",
+            "volume": 120
+          },
+          {
+            "name": "american bald eagle eyesight",
+            "volume": 50
+          },
+          {
+            "name": "firsteyes ai",
+            "volume": 80
+          },
+          {
+            "name": "firstsee ai",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-13T05:35:48.109Z"
+  }
+}

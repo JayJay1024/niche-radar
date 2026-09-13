@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-26T10:49:20.928Z"
+    },
+    "fetchedAt": "2026-09-13T05:30:05.733Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2066,
+        "sources": {
+          "direct": 0.3389,
+          "search": 0.3528,
+          "referral": 0.1625,
+          "social": 0.071,
+          "mail": 0.0324
+        },
+        "topKeywords": [
+          {
+            "name": "abrush",
+            "volume": 440
+          },
+          {
+            "name": "color retouching",
+            "volume": 50
+          },
+          {
+            "name": "character consistency",
+            "volume": 1360
+          },
+          {
+            "name": "ai image prompt for matching inpainting to remainder of photo",
+            "volume": 330
+          },
+          {
+            "name": "what is colour retoucher",
+            "volume": 240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-13T05:30:09.338Z"
+  }
+}

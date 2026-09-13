@@ -1,0 +1,452 @@
+{
+  "date": "2026-09-12",
+  "funnel": {
+    "total": 28,
+    "resolved": 16,
+    "newDomains": 8,
+    "hasTraffic": 8,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "Youkti ",
+      "tagline": "Finds who's ready to buy, then tells you what to do next ",
+      "votes": 292,
+      "phUrl": "https://www.producthunt.com/products/youkti?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Cortex",
+      "tagline": "Turn API specs into docs, SDKs, and MCP servers",
+      "votes": 278,
+      "phUrl": "https://www.producthunt.com/products/cortex-25?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://cortexdocs.dev/",
+      "domain": "cortexdocs.dev",
+      "registeredAt": "2026-06-28T09:28:31.177Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "QApilot MCP for Android",
+      "tagline": "Android app testing inside your coding agent",
+      "votes": 198,
+      "phUrl": "https://www.producthunt.com/products/qapilot?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://qapilot.io/mcp/guide",
+      "domain": "qapilot.io",
+      "registeredAt": "2024-08-26T11:38:20.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ABrush",
+      "tagline": "AI Studio for Digital Artists",
+      "votes": 130,
+      "phUrl": "https://www.producthunt.com/products/abrush-ai-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://abrush.ai/en",
+      "domain": "abrush.ai",
+      "registeredAt": "2025-11-26T10:49:20.928Z",
+      "traffic": {
+        "monthlyVisits": 2066,
+        "sources": {
+          "direct": 0.3389,
+          "search": 0.3528,
+          "referral": 0.1625,
+          "social": 0.071,
+          "mail": 0.0324
+        },
+        "topKeywords": [
+          {
+            "name": "abrush",
+            "volume": 440
+          },
+          {
+            "name": "color retouching",
+            "volume": 50
+          },
+          {
+            "name": "character consistency",
+            "volume": 1360
+          },
+          {
+            "name": "ai image prompt for matching inpainting to remainder of photo",
+            "volume": 330
+          },
+          {
+            "name": "what is colour retoucher",
+            "volume": 240
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Calerto for Mac",
+      "tagline": "Full-screen meeting alerts for your Mac",
+      "votes": 117,
+      "phUrl": "https://www.producthunt.com/products/calerto-meeting-alarms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Kabza",
+      "tagline": "Take over a real city map with your friends",
+      "votes": 116,
+      "phUrl": "https://www.producthunt.com/products/kabza?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.playkabza.com/",
+      "domain": "playkabza.com",
+      "registeredAt": "2026-09-03T10:40:05Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Marked Share",
+      "tagline": "Markdown and TextBundle editing, review, and sharing",
+      "votes": 99,
+      "phUrl": "https://www.producthunt.com/products/marked-share?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://share.markedapp.com/",
+      "domain": "markedapp.com",
+      "registeredAt": "2011-07-07T01:32:44Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "DockFix 5.0",
+      "tagline": "Replace the macOS Dock with one that is truly yours.",
+      "votes": 96,
+      "phUrl": "https://www.producthunt.com/products/dockfix?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.dockfix.app/",
+      "domain": "dockfix.app",
+      "registeredAt": "2025-02-02T12:21:55.832Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Wokyintosh",
+      "tagline": "Turn a spare Mac display into a retro system dashboard!",
+      "votes": 94,
+      "phUrl": "https://www.producthunt.com/products/wokyintosh?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Stackness",
+      "tagline": "Show your stack! The social home for your dev tools",
+      "votes": 92,
+      "phUrl": "https://www.producthunt.com/products/stackness?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://stackness.dev/",
+      "domain": "stackness.dev",
+      "registeredAt": "2026-08-11T11:12:36.406Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Work Life Panda",
+      "tagline": "Every task, every calendar, one app. Private on-device AI",
+      "votes": 84,
+      "phUrl": "https://www.producthunt.com/products/work-life-panda?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://worklifepanda.com/",
+      "domain": "worklifepanda.com",
+      "registeredAt": "2025-02-04T11:56:34Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Relic",
+      "tagline": "A private, synced vault of everything you copy",
+      "votes": 83,
+      "phUrl": "https://www.producthunt.com/products/relic-copy-vault?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://relic.space/",
+      "domain": "relic.space",
+      "registeredAt": "2026-06-24T17:30:33.845Z",
+      "traffic": {
+        "monthlyVisits": 1862,
+        "sources": {
+          "direct": 0.2878,
+          "search": 0.2795,
+          "referral": 0.2224,
+          "social": 0.0691,
+          "mail": 0.0538
+        },
+        "topKeywords": [
+          {
+            "name": "windows clipboard manager",
+            "volume": 690
+          },
+          {
+            "name": "clipboard manager",
+            "volume": 3390
+          },
+          {
+            "name": "clipboard manager windows 11",
+            "volume": 230
+          },
+          {
+            "name": "clipboard history",
+            "volume": 32480
+          },
+          {
+            "name": "clipboard history windows 11",
+            "volume": 4440
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "VoxelWall",
+      "tagline": "Music-reactive live wallpapers for Mac",
+      "votes": 81,
+      "phUrl": "https://www.producthunt.com/products/voxelwall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Captain Kill Switch",
+      "tagline": "Close all your open apps in one click",
+      "votes": 79,
+      "phUrl": "https://www.producthunt.com/products/captain-kill-switch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://captainkillswitch.com/",
+      "domain": "captainkillswitch.com",
+      "registeredAt": "2025-07-14T23:41:34Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Pascal’s Pager",
+      "tagline": "Turn webhook JSON into readable iPhone push notifications",
+      "votes": 73,
+      "phUrl": "https://www.producthunt.com/products/pascal-s-pager?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "LinkFlick",
+      "tagline": "Stop re-pairing your Magic Keyboard between Macs",
+      "votes": 70,
+      "phUrl": "https://www.producthunt.com/products/linkflick?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://linkflick.com/",
+      "domain": "linkflick.com",
+      "registeredAt": "2026-03-09T18:47:02Z",
+      "traffic": {
+        "monthlyVisits": 1556,
+        "sources": {
+          "direct": 0.3648,
+          "search": 0.3279,
+          "referral": 0.1588,
+          "social": 0.0835,
+          "mail": 0.0267
+        },
+        "topKeywords": [
+          {
+            "name": "my logitech mouse gets movement form another mac studio in the same office",
+            "volume": 500
+          },
+          {
+            "name": "diconnect my mouse from my macbook and connect to another",
+            "volume": 440
+          },
+          {
+            "name": "how can i move my mouse between two macbook uiwth same icloud",
+            "volume": 380
+          },
+          {
+            "name": "how to seamlessly switch magic keyboard for 2 macbooks",
+            "volume": 340
+          },
+          {
+            "name": "two mackbooks next to each other share mouse",
+            "volume": 340
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "SUDARI",
+      "tagline": "A pixel otter desktop pet that reacts to how you work",
+      "votes": 67,
+      "phUrl": "https://www.producthunt.com/products/sudari?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "FrameSketch",
+      "tagline": "Scrub vids frame-by-frame and sketch on them at 60fps ",
+      "votes": 66,
+      "phUrl": "https://www.producthunt.com/products/framesketch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://framesketch.xyz/",
+      "domain": "framesketch.xyz",
+      "registeredAt": "2026-08-13T09:57:38.0Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Duos 2.0",
+      "tagline": "Stop guessing why you're not getting hired",
+      "votes": 39,
+      "phUrl": "https://www.producthunt.com/products/duos-business-interview-game?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://duos-ai.com/",
+      "domain": "duos-ai.com",
+      "registeredAt": "2024-07-13T18:21:45Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Coldlineai",
+      "tagline": "Turn cold prospects into hot leads with AI-powered pitches",
+      "votes": 18,
+      "phUrl": "https://www.producthunt.com/products/coldlineai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ClearList.me",
+      "tagline": "No more \"is this still available?\" Your whole sale run by AI",
+      "votes": 17,
+      "phUrl": "https://www.producthunt.com/products/clearlist-me?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://clearlist.me/",
+      "domain": "clearlist.me",
+      "registeredAt": "2025-07-10T12:05:50.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "locktfin",
+      "tagline": "A Mac focus timer for founders wearing every hat",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/locktfin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Grok Bot Marketplace",
+      "tagline": "Add ready-made AI teammates to Grok Bot",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/grok-bot-marketplace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://x.ai/bot/marketplace",
+      "domain": "x.ai",
+      "registeredAt": "2017-12-16T04:12:24Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Behavly",
+      "tagline": "See what every user does, then email the quiet ones",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/behavly-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Little Love in a Box",
+      "tagline": "A tiny digital care package for someone you love.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/little-love-in-a-box?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "MyIndieSpace",
+      "tagline": "Your space for everything you build.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/myindiespace?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "firsteyes AI",
+      "tagline": "See your website through a stranger's eyes",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/firsteyes-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.firsteyes.ai/",
+      "domain": "firsteyes.ai",
+      "registeredAt": "2026-04-25T05:34:06.203Z",
+      "traffic": {
+        "monthlyVisits": 526,
+        "sources": {
+          "direct": 0.2976,
+          "search": 0.307,
+          "referral": 0.2113,
+          "social": 0.079,
+          "mail": 0.0436
+        },
+        "topKeywords": [
+          {
+            "name": "firsteyes",
+            "volume": 120
+          },
+          {
+            "name": "american bald eagle eyesight",
+            "volume": 50
+          },
+          {
+            "name": "firsteyes ai",
+            "volume": 80
+          },
+          {
+            "name": "firstsee ai",
+            "volume": 30
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "iSard",
+      "tagline": "Track your runs, see your progress.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/isard?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    }
+  ]
+}

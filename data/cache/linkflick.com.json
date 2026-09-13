@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-09T18:47:02Z"
+    },
+    "fetchedAt": "2026-09-13T05:32:38.765Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1556,
+        "sources": {
+          "direct": 0.3648,
+          "search": 0.3279,
+          "referral": 0.1588,
+          "social": 0.0835,
+          "mail": 0.0267
+        },
+        "topKeywords": [
+          {
+            "name": "my logitech mouse gets movement form another mac studio in the same office",
+            "volume": 500
+          },
+          {
+            "name": "diconnect my mouse from my macbook and connect to another",
+            "volume": 440
+          },
+          {
+            "name": "how can i move my mouse between two macbook uiwth same icloud",
+            "volume": 380
+          },
+          {
+            "name": "how to seamlessly switch magic keyboard for 2 macbooks",
+            "volume": 340
+          },
+          {
+            "name": "two mackbooks next to each other share mouse",
+            "volume": 340
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-13T05:32:42.527Z"
+  }
+}

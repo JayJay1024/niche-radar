@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-24T17:30:33.845Z"
+    },
+    "fetchedAt": "2026-09-13T05:31:36.023Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1862,
+        "sources": {
+          "direct": 0.2878,
+          "search": 0.2795,
+          "referral": 0.2224,
+          "social": 0.0691,
+          "mail": 0.0538
+        },
+        "topKeywords": [
+          {
+            "name": "windows clipboard manager",
+            "volume": 690
+          },
+          {
+            "name": "clipboard manager",
+            "volume": 3390
+          },
+          {
+            "name": "clipboard manager windows 11",
+            "volume": 230
+          },
+          {
+            "name": "clipboard history",
+            "volume": 32480
+          },
+          {
+            "name": "clipboard history windows 11",
+            "volume": 4440
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-13T05:31:40.431Z"
+  }
+}
