@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-15T13:29:14.462Z"
+    },
+    "fetchedAt": "2026-09-14T05:35:47.538Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1998,
+        "sources": {
+          "direct": 0.3862,
+          "search": 0.3264,
+          "referral": 0.1711,
+          "social": 0.0665,
+          "mail": 0.0221
+        },
+        "topKeywords": [
+          {
+            "name": "ai 리와인드 앱이 뭐야",
+            "volume": 650
+          },
+          {
+            "name": "my handling",
+            "volume": 370
+          },
+          {
+            "name": "メールトリアージ",
+            "volume": 170
+          },
+          {
+            "name": "qual é o meu ambiente do handler",
+            "volume": 70
+          },
+          {
+            "name": "fyxer notetaker",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-14T05:35:51.241Z"
+  }
+}

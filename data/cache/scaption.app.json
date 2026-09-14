@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-10T14:32:00.230Z"
+    },
+    "fetchedAt": "2026-09-14T05:38:05.846Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3293,
+        "sources": {
+          "direct": 0.3588,
+          "search": 0.3274,
+          "referral": 0.17420000000000002,
+          "social": 0.0668,
+          "mail": 0.0358
+        },
+        "topKeywords": [
+          {
+            "name": "scaption traduccion",
+            "volume": 150
+          },
+          {
+            "name": "scaption ndi",
+            "volume": 120
+          },
+          {
+            "name": "scaption.app",
+            "volume": 250
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-14T05:38:09.648Z"
+  }
+}

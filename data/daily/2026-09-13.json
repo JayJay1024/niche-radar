@@ -1,0 +1,463 @@
+{
+  "date": "2026-09-13",
+  "funnel": {
+    "total": 22,
+    "resolved": 17,
+    "newDomains": 13,
+    "hasTraffic": 13,
+    "qualified": 2
+  },
+  "products": [
+    {
+      "name": "TablePro",
+      "tagline": "Native database client, free and open source",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/tablepro?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "qualified",
+      "url": "https://tablepro.app/",
+      "domain": "tablepro.app",
+      "registeredAt": "2026-02-06T14:01:29.813Z",
+      "traffic": {
+        "monthlyVisits": 22415,
+        "sources": {
+          "direct": 0.3741,
+          "search": 0.3842,
+          "referral": 0.1229,
+          "social": 0.0881,
+          "mail": 0.014
+        },
+        "topKeywords": [
+          {
+            "name": "tablepro",
+            "volume": 2810
+          },
+          {
+            "name": "table pro",
+            "volume": 700
+          },
+          {
+            "name": "table pro ios",
+            "volume": 170
+          },
+          {
+            "name": "table pro download",
+            "volume": 110
+          },
+          {
+            "name": "mysql/postgresql local mac viewer",
+            "volume": 80
+          }
+        ]
+      },
+      "detailUrl": "https://www.similarweb.com/website/tablepro.app/"
+    },
+    {
+      "name": "SCAPTION",
+      "tagline": "Live captions and translation for events, in 58 languages",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/scaption?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "qualified",
+      "url": "https://scaption.app/",
+      "domain": "scaption.app",
+      "registeredAt": "2026-07-10T14:32:00.230Z",
+      "traffic": {
+        "monthlyVisits": 3293,
+        "sources": {
+          "direct": 0.3588,
+          "search": 0.3274,
+          "referral": 0.17420000000000002,
+          "social": 0.0668,
+          "mail": 0.0358
+        },
+        "topKeywords": [
+          {
+            "name": "scaption traduccion",
+            "volume": 150
+          },
+          {
+            "name": "scaption ndi",
+            "volume": 120
+          },
+          {
+            "name": "scaption.app",
+            "volume": 250
+          }
+        ]
+      },
+      "detailUrl": "https://www.similarweb.com/website/scaption.app/"
+    },
+    {
+      "name": "Resurf",
+      "tagline": "A Personal Context Library for Mac",
+      "votes": 248,
+      "phUrl": "https://www.producthunt.com/products/resurf-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Perplexity Hybrid Compute ",
+      "tagline": "Splitting AI tasks: Cloud for research, Mac for privacy",
+      "votes": 212,
+      "phUrl": "https://www.producthunt.com/products/perplexity-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.perplexity.ai/hub/products/hybrid-compute",
+      "domain": "perplexity.ai",
+      "registeredAt": "2022-07-08T20:44:58Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Cognition's SWE-2",
+      "tagline": "Cognition's coding model, 64% cheaper than Fable 5.1",
+      "votes": 172,
+      "phUrl": "https://www.producthunt.com/products/cognition-s-swe-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://cognition.com/blog/swe-2",
+      "domain": "cognition.com",
+      "registeredAt": "1995-03-03T05:00:00Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ScreenCursor",
+      "tagline": "Screen recorder with auto zoom effects",
+      "votes": 170,
+      "phUrl": "https://www.producthunt.com/products/screencursor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://screencursor.com/",
+      "domain": "screencursor.com",
+      "registeredAt": "2026-08-22T15:16:16Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Clipwise ",
+      "tagline": "Save any page to Notion",
+      "votes": 124,
+      "phUrl": "https://www.producthunt.com/products/clipwise-notion-web-clipper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Visiby",
+      "tagline": "Track and grow your visibility across AI search",
+      "votes": 122,
+      "phUrl": "https://www.producthunt.com/products/visiby?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://visiby.net/",
+      "domain": "visiby.net",
+      "registeredAt": "2026-06-10T07:05:26Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "visiby",
+            "volume": 290
+          },
+          {
+            "name": "ai visibility checker",
+            "volume": 6450
+          },
+          {
+            "name": "ai visibility audit",
+            "volume": 710
+          },
+          {
+            "name": "vizibai",
+            "volume": 90
+          },
+          {
+            "name": "free ahref ai visibility alternatives",
+            "volume": 20
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "DemoTV",
+      "tagline": "The audience-ranked TV channel for product demos",
+      "votes": 112,
+      "phUrl": "https://www.producthunt.com/products/demotv?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.demotv.lol/",
+      "domain": "demotv.lol",
+      "registeredAt": "2026-09-01T15:33:05.0Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Epilude Notetaker",
+      "tagline": "100% private meeting notes",
+      "votes": 107,
+      "phUrl": "https://www.producthunt.com/products/epilude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.epilude.com/features/notetaker",
+      "domain": "epilude.com",
+      "registeredAt": "2025-09-19T21:55:58Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "epilude",
+            "volume": 210
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "SHIUI",
+      "tagline": "Hinomaru Ink Web UI Kit in Japanese Hinomaru style",
+      "votes": 106,
+      "phUrl": "https://www.producthunt.com/products/shiui-hinomaru-ink-ui-kit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "GhostWriter by MyHandler",
+      "tagline": "Two taps and it's already written",
+      "votes": 99,
+      "phUrl": "https://www.producthunt.com/products/ghostwriter-by-myhandler?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://myhandler.ai/ghostwriter",
+      "domain": "myhandler.ai",
+      "registeredAt": "2026-03-15T13:29:14.462Z",
+      "traffic": {
+        "monthlyVisits": 1998,
+        "sources": {
+          "direct": 0.3862,
+          "search": 0.3264,
+          "referral": 0.1711,
+          "social": 0.0665,
+          "mail": 0.0221
+        },
+        "topKeywords": [
+          {
+            "name": "ai 리와인드 앱이 뭐야",
+            "volume": 650
+          },
+          {
+            "name": "my handling",
+            "volume": 370
+          },
+          {
+            "name": "メールトリアージ",
+            "volume": 170
+          },
+          {
+            "name": "qual é o meu ambiente do handler",
+            "volume": 70
+          },
+          {
+            "name": "fyxer notetaker",
+            "volume": 20
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Neopress",
+      "tagline": "Build and grow your website by chatting with AI",
+      "votes": 96,
+      "phUrl": "https://www.producthunt.com/products/neopress?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://neopress.ai/",
+      "domain": "neopress.ai",
+      "registeredAt": "2026-01-20T02:20:17.444Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Kirokune",
+      "tagline": "Keep work incident notes on your iPhone, without an account",
+      "votes": 92,
+      "phUrl": "https://www.producthunt.com/products/kirokune?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://kirokune.com/en/",
+      "domain": "kirokune.com",
+      "registeredAt": "2026-08-08T01:02:43Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Naverny Borshchu",
+      "tagline": "Find and rate best borshch on one map",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/naverny-borshchu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.navernyborshchu.com/en/",
+      "domain": "navernyborshchu.com",
+      "registeredAt": "2023-04-23T17:13:33Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Best Productivity Resources",
+      "tagline": "Directory of best tools, apps, guides, and other resources",
+      "votes": 12,
+      "phUrl": "https://www.producthunt.com/products/best-productivity-resources?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://bestproductivityresources.com/",
+      "domain": "bestproductivityresources.com",
+      "registeredAt": "2026-08-24T08:25:04Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Gemini app for Windows",
+      "tagline": "Alt + Space and Gemini is right there",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/gemini-6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Baroque  2.0",
+      "tagline": "AI design with the entire internet as its reference.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/baroque?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "LingoLingo: Learn Language with Youtube",
+      "tagline": "Turn YouTube into your language learning playground",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/lingolingo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://lingolingo.app/",
+      "domain": "lingolingo.app",
+      "registeredAt": "2025-01-15T19:25:55.025Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Cue",
+      "tagline": "The Awwwards-tier UI component library.",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/cue-21?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.cuedesign.space/",
+      "domain": "cuedesign.space",
+      "registeredAt": "2026-08-19T10:09:23.384Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Arazio",
+      "tagline": "Convert any file without leaving Finder",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/arazio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://arazioformac.com/",
+      "domain": "arazioformac.com",
+      "registeredAt": "2026-09-08T19:59:06Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "MARVIS",
+      "tagline": "Know your rights. Track what moves. Protect what’s yours.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/marvis-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://marvisintel.com/",
+      "domain": "marvisintel.com",
+      "registeredAt": "2026-09-07T12:55:44Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    }
+  ]
+}

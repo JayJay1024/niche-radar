@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-06T14:01:29.813Z"
+    },
+    "fetchedAt": "2026-09-14T05:36:55.475Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 22415,
+        "sources": {
+          "direct": 0.3741,
+          "search": 0.3842,
+          "referral": 0.1229,
+          "social": 0.0881,
+          "mail": 0.014
+        },
+        "topKeywords": [
+          {
+            "name": "tablepro",
+            "volume": 2810
+          },
+          {
+            "name": "table pro",
+            "volume": 700
+          },
+          {
+            "name": "table pro ios",
+            "volume": 170
+          },
+          {
+            "name": "table pro download",
+            "volume": 110
+          },
+          {
+            "name": "mysql/postgresql local mac viewer",
+            "volume": 80
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-14T05:36:59.371Z"
+  }
+}

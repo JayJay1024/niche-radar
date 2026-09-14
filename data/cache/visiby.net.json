@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-10T07:05:26Z"
+    },
+    "fetchedAt": "2026-09-14T05:34:48.435Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "visiby",
+            "volume": 290
+          },
+          {
+            "name": "ai visibility checker",
+            "volume": 6450
+          },
+          {
+            "name": "ai visibility audit",
+            "volume": 710
+          },
+          {
+            "name": "vizibai",
+            "volume": 90
+          },
+          {
+            "name": "free ahref ai visibility alternatives",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-14T05:34:52.097Z"
+  }
+}
