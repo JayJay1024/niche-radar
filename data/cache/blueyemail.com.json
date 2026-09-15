@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-22T10:32:51Z"
+    },
+    "fetchedAt": "2026-09-15T05:38:44.362Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1202,
+        "sources": {
+          "direct": 0.3528,
+          "search": 0.3363,
+          "referral": 0.1616,
+          "social": 0.0644,
+          "mail": 0.0415
+        },
+        "topKeywords": [
+          {
+            "name": "bluey email",
+            "volume": 210
+          },
+          {
+            "name": "utm builder",
+            "volume": 226340
+          },
+          {
+            "name": "resend pricing",
+            "volume": 23890
+          },
+          {
+            "name": "spam checker",
+            "volume": 13280
+          },
+          {
+            "name": "breakeven roas calculator",
+            "volume": 12910
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:38:48.253Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-06T15:03:41.593Z"
+    },
+    "fetchedAt": "2026-09-15T05:37:41.354Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 298,
+        "sources": {
+          "direct": 0.3534,
+          "search": 0.3078,
+          "referral": 0.1796,
+          "social": 0.0622,
+          "mail": 0.0286
+        },
+        "topKeywords": [
+          {
+            "name": "juggler ai agent",
+            "volume": 0
+          },
+          {
+            "name": "juggler ai",
+            "volume": 60
+          },
+          {
+            "name": "juggler",
+            "volume": 4240
+          },
+          {
+            "name": "juggler ai brew",
+            "volume": 40
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:37:45.875Z"
+  }
+}

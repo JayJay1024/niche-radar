@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-12T16:33:59Z"
+    },
+    "fetchedAt": "2026-09-15T05:45:42.719Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "what's cheaper kilo code or openrouter or is there something better thatn he two",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:45:46.564Z"
+  }
+}

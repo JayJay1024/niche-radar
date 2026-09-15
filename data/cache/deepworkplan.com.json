@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-01T21:03:31Z"
+    },
+    "fetchedAt": "2026-09-15T05:45:02.603Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "init提示",
+            "volume": 50
+          },
+          {
+            "name": "dwp",
+            "volume": 50890
+          },
+          {
+            "name": "nuxt",
+            "volume": 28210
+          },
+          {
+            "name": "claude ai /init",
+            "volume": 200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:45:06.980Z"
+  }
+}

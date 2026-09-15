@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-21T05:05:53.106Z"
+    },
+    "fetchedAt": "2026-09-15T05:42:58.156Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2061,
+        "sources": {
+          "direct": 0.3101,
+          "search": 0.2969,
+          "referral": 0.2046,
+          "social": 0.0708,
+          "mail": 0.0462
+        },
+        "topKeywords": [
+          {
+            "name": "ghislaine dedoldia",
+            "volume": 7370
+          },
+          {
+            "name": "pursena mushoku tensei",
+            "volume": 4630
+          },
+          {
+            "name": "nina farion",
+            "volume": 4530
+          },
+          {
+            "name": "eftal",
+            "volume": 2690
+          },
+          {
+            "name": "isolte mushoku tensei",
+            "volume": 2420
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:43:01.952Z"
+  }
+}

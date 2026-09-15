@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-25T10:56:37Z"
+    },
+    "fetchedAt": "2026-09-15T05:39:13.757Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 132717,
+        "sources": {
+          "direct": 0.2962,
+          "search": 0.5377,
+          "referral": 0.0924,
+          "social": 0.0254,
+          "mail": 0.021
+        },
+        "topKeywords": [
+          {
+            "name": "best email marketing",
+            "volume": 2134150
+          },
+          {
+            "name": "email marketing tool",
+            "volume": 447480
+          },
+          {
+            "name": "instantly",
+            "volume": 221210
+          },
+          {
+            "name": "sequenzy",
+            "volume": 2110
+          },
+          {
+            "name": "gmail name generator",
+            "volume": 510
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:39:17.501Z"
+  }
+}

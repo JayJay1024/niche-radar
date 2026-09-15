@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-04T04:15:25Z"
+    },
+    "fetchedAt": "2026-09-15T05:39:26.455Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1394,
+        "sources": {
+          "direct": 0.4017,
+          "search": 0.3273,
+          "referral": 0.136,
+          "social": 0.0775,
+          "mail": 0.025
+        },
+        "topKeywords": [
+          {
+            "name": "netra runtime",
+            "volume": 200
+          },
+          {
+            "name": "netra ocr munshi",
+            "volume": 80
+          },
+          {
+            "name": "paged attention",
+            "volume": 1520
+          },
+          {
+            "name": "best ocr ai",
+            "volume": 1340
+          },
+          {
+            "name": "apakah ocr perlu llm",
+            "volume": 710
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:39:30.422Z"
+  }
+}

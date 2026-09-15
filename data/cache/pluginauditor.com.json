@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-19T19:09:23Z"
+    },
+    "fetchedAt": "2026-09-15T05:44:07.596Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5037,
+        "sources": {
+          "direct": 0.8229,
+          "search": 0.0544,
+          "referral": 0.011300000000000001,
+          "social": 0.0421,
+          "mail": 0.035
+        },
+        "topKeywords": [
+          {
+            "name": "plugin auditor — zip upload scanner",
+            "volume": 120
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:44:11.868Z"
+  }
+}

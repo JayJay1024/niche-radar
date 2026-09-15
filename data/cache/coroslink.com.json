@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-14T18:20:17Z"
+    },
+    "fetchedAt": "2026-09-15T05:45:22.804Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3984,
+        "sources": {
+          "direct": 0.3469,
+          "search": 0.3249,
+          "referral": 0.1853,
+          "social": 0.0602,
+          "mail": 0.0383
+        },
+        "topKeywords": [
+          {
+            "name": "coros link",
+            "volume": 240
+          },
+          {
+            "name": "coros watch face photos",
+            "volume": 470
+          },
+          {
+            "name": "coros watch face icon meanings",
+            "volume": 280
+          },
+          {
+            "name": "os maps for coros",
+            "volume": 270
+          },
+          {
+            "name": "coros watch fonts",
+            "volume": 240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-15T05:45:26.414Z"
+  }
+}
