@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-20T06:50:05.110Z"
+    },
+    "fetchedAt": "2026-09-16T05:29:00.545Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3457,
+          "search": 0.349,
+          "referral": 0.1621,
+          "social": 0.063,
+          "mail": 0.0372
+        },
+        "topKeywords": [
+          {
+            "name": "menumeters",
+            "volume": 570
+          },
+          {
+            "name": "can i control lg monitor brigtness from my mac",
+            "volume": 290
+          },
+          {
+            "name": "alt tab mac alternative",
+            "volume": 270
+          },
+          {
+            "name": "macbook with external monitors is there a fast way to adjust brightness",
+            "volume": 250
+          },
+          {
+            "name": "monitor control panel mac",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:29:04.900Z"
+  }
+}

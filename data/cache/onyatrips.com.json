@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-19T10:53:50Z"
+    },
+    "fetchedAt": "2026-09-16T05:36:34.636Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7153,
+        "sources": {
+          "direct": 0.3455,
+          "search": 0.3484,
+          "referral": 0.1619,
+          "social": 0.063,
+          "mail": 0.0377
+        },
+        "topKeywords": [
+          {
+            "name": "onyatrips",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:36:38.252Z"
+  }
+}

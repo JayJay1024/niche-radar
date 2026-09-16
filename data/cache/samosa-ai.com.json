@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-24T15:53:40Z"
+    },
+    "fetchedAt": "2026-09-16T05:43:09.112Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1610,
+        "sources": {
+          "direct": 0.3442,
+          "search": 0.3487,
+          "referral": 0.1615,
+          "social": 0.0642,
+          "mail": 0.0371
+        },
+        "topKeywords": [
+          {
+            "name": "samosa ai",
+            "volume": 40
+          },
+          {
+            "name": "samu ai",
+            "volume": 260
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:43:12.788Z"
+  }
+}

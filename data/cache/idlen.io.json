@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-12T13:08:16.000Z"
+    },
+    "fetchedAt": "2026-09-16T05:31:11.563Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 36924,
+        "sources": {
+          "direct": 0.472,
+          "search": 0.3256,
+          "referral": 0.0676,
+          "social": 0.0472,
+          "mail": 0.0076
+        },
+        "topKeywords": [
+          {
+            "name": "idlen",
+            "volume": 340
+          },
+          {
+            "name": "idlepay",
+            "volume": 1440
+          },
+          {
+            "name": "idlen.io creative specs",
+            "volume": 130
+          },
+          {
+            "name": "earn from ai wait",
+            "volume": 260
+          },
+          {
+            "name": "ai application architecture",
+            "volume": 890
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:31:15.053Z"
+  }
+}

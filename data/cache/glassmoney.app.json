@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-04T06:54:42.410Z"
+    },
+    "fetchedAt": "2026-09-16T05:37:51.795Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "is there ledger option in icici bank",
+            "volume": 300
+          },
+          {
+            "name": "family expense tracker app india",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:37:55.573Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-17T07:41:06.396Z"
+    },
+    "fetchedAt": "2026-09-16T05:39:03.944Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 21646,
+        "sources": {
+          "direct": 0.4014,
+          "search": 0.2831,
+          "referral": 0.1552,
+          "social": 0.0549,
+          "mail": 0.0425
+        },
+        "topKeywords": [
+          {
+            "name": "екфмуд игвпуе фзз",
+            "volume": 380
+          },
+          {
+            "name": "finny",
+            "volume": 3100
+          },
+          {
+            "name": "every dollar vs ynab",
+            "volume": 230
+          },
+          {
+            "name": "best offline receipts app for ios",
+            "volume": 160
+          },
+          {
+            "name": "can finney receipts scanner",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:39:07.541Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-26T23:10:13Z"
+    },
+    "fetchedAt": "2026-09-16T05:37:30.006Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "riis",
+            "volume": 1970
+          },
+          {
+            "name": "riis group",
+            "volume": 340
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:37:33.649Z"
+  }
+}

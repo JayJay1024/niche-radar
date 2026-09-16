@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-06T07:05:35.648Z"
+    },
+    "fetchedAt": "2026-09-16T05:28:04.662Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8857,
+        "sources": {
+          "direct": 0.121,
+          "search": 0.0652,
+          "referral": 0.5203,
+          "social": 0.284,
+          "mail": 0.0095
+        },
+        "topKeywords": [
+          {
+            "name": "voiskey",
+            "volume": 1380
+          },
+          {
+            "name": "typing test",
+            "volume": 2047870
+          },
+          {
+            "name": "ai voice chat bot for discord",
+            "volume": 240
+          },
+          {
+            "name": "speechify",
+            "volume": 289860
+          },
+          {
+            "name": "speech to text converter from video",
+            "volume": 90
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-16T05:28:08.665Z"
+  }
+}
