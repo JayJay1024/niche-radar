@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-03T19:58:50Z"
+    },
+    "fetchedAt": "2026-09-17T05:41:21.215Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "repolve",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:41:24.892Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-31T13:45:24.31Z"
+    },
+    "fetchedAt": "2026-09-17T05:46:41.085Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2327,
+        "sources": {
+          "direct": 0.3333,
+          "search": 0.2987,
+          "referral": 0.1883,
+          "social": 0.0785,
+          "mail": 0.0423
+        },
+        "topKeywords": [
+          {
+            "name": "agent teams",
+            "volume": 3760
+          },
+          {
+            "name": "agent team",
+            "volume": 1060
+          },
+          {
+            "name": "agent teams ai",
+            "volume": 230
+          },
+          {
+            "name": "team of agents working for you",
+            "volume": 40
+          },
+          {
+            "name": "agent team ai",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:46:45.110Z"
+  }
+}

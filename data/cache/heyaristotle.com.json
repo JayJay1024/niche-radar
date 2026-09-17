@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-09T01:19:39Z"
+    },
+    "fetchedAt": "2026-09-17T05:43:30.419Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 11410,
+        "sources": {
+          "direct": 0.5342,
+          "search": 0.2777,
+          "referral": 0.1078,
+          "social": 0.0779,
+          "mail": 0.0024
+        },
+        "topKeywords": [
+          {
+            "name": "aristotle ai intenrship",
+            "volume": 300
+          },
+          {
+            "name": "hey artistotle list of courses",
+            "volume": 230
+          },
+          {
+            "name": "aristotle ai",
+            "volume": 1450
+          },
+          {
+            "name": "aristote ai",
+            "volume": 180
+          },
+          {
+            "name": "hey aristotle",
+            "volume": 260
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:43:35.816Z"
+  }
+}

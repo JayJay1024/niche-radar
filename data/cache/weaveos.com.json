@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-17T18:30:31Z"
+    },
+    "fetchedAt": "2026-09-17T05:35:27.253Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 32133,
+        "sources": {
+          "direct": 0.4711,
+          "search": 0.1131,
+          "referral": 0.1584,
+          "social": 0.1872,
+          "mail": 0.0582
+        },
+        "topKeywords": [
+          {
+            "name": "weave ai",
+            "volume": 5590
+          },
+          {
+            "name": "weaveos",
+            "volume": 770
+          },
+          {
+            "name": "workweave",
+            "volume": 620
+          },
+          {
+            "name": "weave ai spend",
+            "volume": 180
+          },
+          {
+            "name": "weave os",
+            "volume": 390
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:35:30.860Z"
+  }
+}

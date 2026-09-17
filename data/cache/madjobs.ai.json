@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-18T15:38:06.029Z"
+    },
+    "fetchedAt": "2026-09-17T05:46:23.346Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 432,
+        "sources": {
+          "direct": 0.3175,
+          "search": 0.3013,
+          "referral": 0.19080000000000003,
+          "social": 0.0711,
+          "mail": 0.0559
+        },
+        "topKeywords": [
+          {
+            "name": "the trade desk careers",
+            "volume": 5310
+          },
+          {
+            "name": "trade desk careers",
+            "volume": 2100
+          },
+          {
+            "name": "doubleverify careers",
+            "volume": 1290
+          },
+          {
+            "name": "the trade desk jobs",
+            "volume": 400
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:46:27.230Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-21T12:47:07.425Z"
+    },
+    "fetchedAt": "2026-09-17T05:42:16.745Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 425,
+        "sources": {
+          "direct": 0.3542,
+          "search": 0.3338,
+          "referral": 0.1637,
+          "social": 0.0652,
+          "mail": 0.0402
+        },
+        "topKeywords": [
+          {
+            "name": "ask me",
+            "volume": 4250
+          },
+          {
+            "name": "askme",
+            "volume": 480
+          },
+          {
+            "name": "askme ai",
+            "volume": 30
+          },
+          {
+            "name": "situs ask me",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:42:20.471Z"
+  }
+}

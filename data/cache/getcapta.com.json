@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-22T18:11:16Z"
+    },
+    "fetchedAt": "2026-09-17T05:40:15.604Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 526,
+        "sources": {
+          "direct": 0.3222,
+          "search": 0.3284,
+          "referral": 0.1975,
+          "social": 0.0633,
+          "mail": 0.0438
+        },
+        "topKeywords": [
+          {
+            "name": "how to get gps value using gps (assisted gps) without internet",
+            "volume": 170
+          },
+          {
+            "name": "waypoint",
+            "volume": 20700
+          },
+          {
+            "name": "coordenadas",
+            "volume": 19570
+          },
+          {
+            "name": "capta",
+            "volume": 6260
+          },
+          {
+            "name": "wie kann ich adresse oder koordinate von geotagging wissen",
+            "volume": 840
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:40:19.297Z"
+  }
+}

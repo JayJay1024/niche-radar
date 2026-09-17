@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-02T07:57:18Z"
+    },
+    "fetchedAt": "2026-09-17T05:44:07.595Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "writing ielts academic",
+            "volume": 620
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:44:11.379Z"
+  }
+}

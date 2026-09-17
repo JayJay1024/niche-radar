@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-08T03:10:58Z"
+    },
+    "fetchedAt": "2026-09-17T05:43:00.190Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "interstitial journaling",
+            "volume": 3430
+          },
+          {
+            "name": "work to do dump",
+            "volume": 120
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:43:03.977Z"
+  }
+}

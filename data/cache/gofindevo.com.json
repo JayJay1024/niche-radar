@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-27T10:34:04Z"
+    },
+    "fetchedAt": "2026-09-17T05:43:49.973Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 369,
+        "sources": {
+          "direct": 0.3533,
+          "search": 0.3373,
+          "referral": 0.162,
+          "social": 0.0635,
+          "mail": 0.0411
+        },
+        "topKeywords": [
+          {
+            "name": "findevo",
+            "volume": 140
+          },
+          {
+            "name": "gofindevo",
+            "volume": 80
+          },
+          {
+            "name": "r/smallbusiness",
+            "volume": 1920
+          },
+          {
+            "name": "r/entrepreneur",
+            "volume": 1430
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-17T05:43:53.798Z"
+  }
+}
