@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-30T00:05:40Z"
+    },
+    "fetchedAt": "2026-09-18T05:26:24.241Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3486,
+        "sources": {
+          "direct": 0.3295,
+          "search": 0.3173,
+          "referral": 0.187,
+          "social": 0.068,
+          "mail": 0.0441
+        },
+        "topKeywords": [
+          {
+            "name": "zella screen recorder",
+            "volume": 70
+          },
+          {
+            "name": "facebook reel size",
+            "volume": 2900
+          },
+          {
+            "name": "best ai video editing",
+            "volume": 1240
+          },
+          {
+            "name": "how to screen record and use webcam at the same time mac",
+            "volume": 810
+          },
+          {
+            "name": "how does subtitles censor words",
+            "volume": 420
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-18T05:26:28.237Z"
+  }
+}

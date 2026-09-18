@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-29T07:25:26.634Z"
+    },
+    "fetchedAt": "2026-09-18T05:33:38.432Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "second brain claude obsidian",
+            "volume": 200
+          },
+          {
+            "name": "mem0",
+            "volume": 51320
+          },
+          {
+            "name": "second brain",
+            "volume": 23080
+          },
+          {
+            "name": "ckepos",
+            "volume": 300
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-18T05:33:42.114Z"
+  }
+}

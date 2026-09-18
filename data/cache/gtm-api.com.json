@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-11T08:31:54Z"
+    },
+    "fetchedAt": "2026-09-18T05:30:58.232Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "sales navigator api",
+            "volume": 610
+          },
+          {
+            "name": "gtm api",
+            "volume": 550
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-18T05:31:02.099Z"
+  }
+}

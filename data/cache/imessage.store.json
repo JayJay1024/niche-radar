@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-28T18:17:11.074Z"
+    },
+    "fetchedAt": "2026-09-18T05:23:53.413Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5331,
+        "sources": {
+          "direct": 0.872,
+          "search": 0.1219,
+          "referral": 0,
+          "social": 0.0061,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "imessage agents",
+            "volume": 30
+          },
+          {
+            "name": "imessage agent store",
+            "volume": 140
+          },
+          {
+            "name": "imessagentagent store",
+            "volume": 30
+          },
+          {
+            "name": "imessage ai agent store",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-18T05:23:57.146Z"
+  }
+}

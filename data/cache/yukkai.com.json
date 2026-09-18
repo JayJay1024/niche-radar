@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-17T16:48:20Z"
+    },
+    "fetchedAt": "2026-09-18T05:36:15.988Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3132,
+          "search": 0.3214,
+          "referral": 0.2089,
+          "social": 0.0609,
+          "mail": 0.0483
+        },
+        "topKeywords": [
+          {
+            "name": "injectiondetector",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-18T05:36:19.886Z"
+  }
+}

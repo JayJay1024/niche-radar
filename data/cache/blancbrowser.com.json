@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-05T20:26:49Z"
+    },
+    "fetchedAt": "2026-09-18T05:26:43.851Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1746,
+        "sources": {
+          "direct": 0.2853,
+          "search": 0.2774,
+          "referral": 0.225,
+          "social": 0.0689,
+          "mail": 0.0539
+        },
+        "topKeywords": [
+          {
+            "name": "anonymous browser",
+            "volume": 5390
+          },
+          {
+            "name": "sidekick browser",
+            "volume": 4250
+          },
+          {
+            "name": "blanc",
+            "volume": 87690
+          },
+          {
+            "name": "mullvad browser",
+            "volume": 59260
+          },
+          {
+            "name": "go login",
+            "volume": 17890
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-18T05:26:47.554Z"
+  }
+}
