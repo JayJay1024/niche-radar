@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-03T07:30:06.126Z"
+    },
+    "fetchedAt": "2026-09-19T05:33:47.350Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "덩크시티",
+            "volume": 4360
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:33:51.264Z"
+  }
+}

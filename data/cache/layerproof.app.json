@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-12T06:33:32.186Z"
+    },
+    "fetchedAt": "2026-09-19T05:42:42.522Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 9389,
+        "sources": {
+          "direct": 0.3184,
+          "search": 0.3239,
+          "referral": 0.0971,
+          "social": 0.2262,
+          "mail": 0.0177
+        },
+        "topKeywords": [
+          {
+            "name": "layerproof",
+            "volume": 940
+          },
+          {
+            "name": "layerproof mylar",
+            "volume": 170
+          },
+          {
+            "name": "layerproof ai",
+            "volume": 130
+          },
+          {
+            "name": "layer proof",
+            "volume": 100
+          },
+          {
+            "name": "paste your url and content forevery platform.",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:42:46.733Z"
+  }
+}

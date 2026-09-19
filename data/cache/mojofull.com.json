@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-27T08:04:22Z"
+    },
+    "fetchedAt": "2026-09-19T05:28:19.281Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5878,
+        "sources": {
+          "direct": 0.5918,
+          "search": 0.0429,
+          "referral": 0.2782,
+          "social": 0.0045,
+          "mail": 0.0018
+        },
+        "topKeywords": [
+          {
+            "name": "chatgptのプロンプト　short動画の台本",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:28:23.328Z"
+  }
+}

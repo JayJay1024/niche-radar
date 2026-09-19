@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-24T15:21:18Z"
+    },
+    "fetchedAt": "2026-09-19T05:17:43.866Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 10151,
+        "sources": {
+          "direct": 0.3214,
+          "search": 0.3126,
+          "referral": 0.19090000000000001,
+          "social": 0.0698,
+          "mail": 0.0445
+        },
+        "topKeywords": [
+          {
+            "name": "mac app notification from hermes and opencode",
+            "volume": 130
+          },
+          {
+            "name": "pushary",
+            "volume": 120
+          },
+          {
+            "name": "agent control panel",
+            "volume": 120
+          },
+          {
+            "name": "pretooluse",
+            "volume": 720
+          },
+          {
+            "name": "ghostty push notice",
+            "volume": 110
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:17:47.690Z"
+  }
+}

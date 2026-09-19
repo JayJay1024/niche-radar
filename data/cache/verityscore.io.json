@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-23T21:00:39.000Z"
+    },
+    "fetchedAt": "2026-09-19T05:31:30.340Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1458,
+        "sources": {
+          "direct": 0.3258,
+          "search": 0.3158,
+          "referral": 0.1925,
+          "social": 0.0669,
+          "mail": 0.0479
+        },
+        "topKeywords": [
+          {
+            "name": "agentic store was available on my shopify now it's gone",
+            "volume": 20
+          },
+          {
+            "name": "canonical impact geo ai visiblity",
+            "volume": 20
+          },
+          {
+            "name": "perplexity shopping",
+            "volume": 1460
+          },
+          {
+            "name": "shela cosmetique",
+            "volume": 170
+          },
+          {
+            "name": "verity typologie",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:31:34.435Z"
+  }
+}

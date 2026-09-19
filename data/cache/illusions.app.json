@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-03T13:12:35.540Z"
+    },
+    "fetchedAt": "2026-09-19T05:34:01.017Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1647,
+        "sources": {
+          "direct": 0.2548,
+          "search": 0.404,
+          "referral": 0.20739999999999997,
+          "social": 0.0599,
+          "mail": 0.026
+        },
+        "topKeywords": [
+          {
+            "name": "illusions　テキストエディタ",
+            "volume": 50
+          },
+          {
+            "name": "チクスト",
+            "volume": 300
+          },
+          {
+            "name": "\"しまふだらう\"",
+            "volume": 190
+          },
+          {
+            "name": "公立学校共済組合",
+            "volume": 4100
+          },
+          {
+            "name": "祝福",
+            "volume": 3140
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:34:04.899Z"
+  }
+}

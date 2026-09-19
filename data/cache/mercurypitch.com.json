@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-08T23:09:16Z"
+    },
+    "fetchedAt": "2026-09-19T05:22:23.410Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3404,
+          "search": 0.3488,
+          "referral": 0.1704,
+          "social": 0.0632,
+          "mail": 0.0391
+        },
+        "topKeywords": [
+          {
+            "name": "mercurypitch",
+            "volume": 0
+          },
+          {
+            "name": "tone deaf test",
+            "volume": 3540
+          },
+          {
+            "name": "vocal remover",
+            "volume": 429760
+          },
+          {
+            "name": "vocal test",
+            "volume": 620
+          },
+          {
+            "name": "website that tells you if you're good at singing",
+            "volume": 220
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:22:27.374Z"
+  }
+}

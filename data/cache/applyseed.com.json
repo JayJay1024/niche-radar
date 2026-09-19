@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-20T20:23:51Z"
+    },
+    "fetchedAt": "2026-09-19T05:18:46.492Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "sequoia arc",
+            "volume": 5190
+          },
+          {
+            "name": "ewor",
+            "volume": 4740
+          },
+          {
+            "name": "endless frontier labs",
+            "volume": 1280
+          },
+          {
+            "name": "endless frontier labs nyu application",
+            "volume": 170
+          },
+          {
+            "name": "endless frontier labs course number",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-19T05:18:50.369Z"
+  }
+}
