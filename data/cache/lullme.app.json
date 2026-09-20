@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-18T19:16:28.183Z"
+    },
+    "fetchedAt": "2026-09-20T05:32:47.441Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "lullme",
+            "volume": 200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-20T05:32:51.068Z"
+  }
+}

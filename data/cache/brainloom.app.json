@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-31T07:27:37.490Z"
+    },
+    "fetchedAt": "2026-09-20T05:37:00.662Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "brainloom",
+            "volume": 130
+          },
+          {
+            "name": "helploom",
+            "volume": 120
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-20T05:37:04.338Z"
+  }
+}
