@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-27T05:31:53.663Z"
+    },
+    "fetchedAt": "2026-09-21T05:42:59.114Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 66355,
+        "sources": {
+          "direct": 0.3372,
+          "search": 0.5191,
+          "referral": 0.0537,
+          "social": 0.0404,
+          "mail": 0.0083
+        },
+        "topKeywords": [
+          {
+            "name": "aymo ai",
+            "volume": 1820
+          },
+          {
+            "name": "grok 4.6 free",
+            "volume": 980
+          },
+          {
+            "name": "aymo.a coding agent",
+            "volume": 240
+          },
+          {
+            "name": "hackmerlin alternative",
+            "volume": 190
+          },
+          {
+            "name": "kimi k3 chat free",
+            "volume": 610
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-21T05:43:03.198Z"
+  }
+}

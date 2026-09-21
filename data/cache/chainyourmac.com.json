@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-06T07:34:03Z"
+    },
+    "fetchedAt": "2026-09-21T05:44:16.783Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 272,
+        "sources": {
+          "direct": 0.3506,
+          "search": 0.3083,
+          "referral": 0.18120000000000003,
+          "social": 0.0615,
+          "mail": 0.0292
+        },
+        "topKeywords": [
+          {
+            "name": "scrolling window manager macos",
+            "volume": 300
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-21T05:44:20.794Z"
+  }
+}

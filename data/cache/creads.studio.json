@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-09T19:44:02.139Z"
+    },
+    "fetchedAt": "2026-09-21T05:43:24.869Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 415,
+        "sources": {
+          "direct": 0.3152,
+          "search": 0.326,
+          "referral": 0.19990000000000002,
+          "social": 0.0633,
+          "mail": 0.0407
+        },
+        "topKeywords": [
+          {
+            "name": "creads studio",
+            "volume": 380
+          },
+          {
+            "name": "creads studio pricing",
+            "volume": 340
+          },
+          {
+            "name": "creads",
+            "volume": 510
+          },
+          {
+            "name": "cread",
+            "volume": 3280
+          },
+          {
+            "name": "cratorads",
+            "volume": 250
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-21T05:43:28.749Z"
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "date": "2026-09-20",
+  "funnel": {
+    "total": 26,
+    "resolved": 11,
+    "newDomains": 6,
+    "hasTraffic": 6,
+    "qualified": 1
+  },
+  "products": [
+    {
+      "name": "Aymo AI for Chrome",
+      "tagline": "Free AI Sidebar in Your Browser with Tools and Top AI Models",
+      "votes": 17,
+      "phUrl": "https://www.producthunt.com/products/aymo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "qualified",
+      "url": "https://aymo.ai/",
+      "domain": "aymo.ai",
+      "registeredAt": "2025-10-27T05:31:53.663Z",
+      "traffic": {
+        "monthlyVisits": 66355,
+        "sources": {
+          "direct": 0.3372,
+          "search": 0.5191,
+          "referral": 0.0537,
+          "social": 0.0404,
+          "mail": 0.0083
+        },
+        "topKeywords": [
+          {
+            "name": "aymo ai",
+            "volume": 1820
+          },
+          {
+            "name": "grok 4.6 free",
+            "volume": 980
+          },
+          {
+            "name": "aymo.a coding agent",
+            "volume": 240
+          },
+          {
+            "name": "hackmerlin alternative",
+            "volume": 190
+          },
+          {
+            "name": "kimi k3 chat free",
+            "volume": 610
+          }
+        ]
+      },
+      "detailUrl": "https://www.similarweb.com/website/aymo.ai/"
+    },
+    {
+      "name": "Mycel",
+      "tagline": "Bring one past deliverable. Mycel drafts every future one.",
+      "votes": 297,
+      "phUrl": "https://www.producthunt.com/products/mycel?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Minicart",
+      "tagline": "Launch your store. Let AI run the busywork.",
+      "votes": 211,
+      "phUrl": "https://www.producthunt.com/products/minicart?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Answers by Context.dev",
+      "tagline": "Give it a research task + the JSON shape you want back.",
+      "votes": 183,
+      "phUrl": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Morsa Signals",
+      "tagline": "GTM and AI visibility workflows for developer tools",
+      "votes": 157,
+      "phUrl": "https://www.producthunt.com/products/morsa-signals?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Harbor",
+      "tagline": "The Evernote alternative that puts its price in writing",
+      "votes": 142,
+      "phUrl": "https://www.producthunt.com/products/harbor-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Termphin",
+      "tagline": "SSH client with sessions that never drop.",
+      "votes": 123,
+      "phUrl": "https://www.producthunt.com/products/termphin?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "The 101 Plays Itself",
+      "tagline": "Five lanes of LA highway turned into an instrument",
+      "votes": 100,
+      "phUrl": "https://www.producthunt.com/products/the-101-plays-itself?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Launchie 1.6.1",
+      "tagline": "Launchpad Replacement for MacOS 27 Golden Gate",
+      "votes": 99,
+      "phUrl": "https://www.producthunt.com/products/launchie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ManyPI",
+      "tagline": "10x your revenue by finding your ideal customers",
+      "votes": 94,
+      "phUrl": "https://www.producthunt.com/products/manypi?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Epismo OS",
+      "tagline": "Keep your work when you switch AI tools",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/epismo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "YABAI",
+      "tagline": "Real Japanese slang, one giant word at a time",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/yabai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Embedful ",
+      "tagline": " Launch customer dashboards in minutes",
+      "votes": 77,
+      "phUrl": "https://www.producthunt.com/products/embedful?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "SmartPause",
+      "tagline": "The play/pause key, finally aimed at what's playing",
+      "votes": 75,
+      "phUrl": "https://www.producthunt.com/products/smartpause-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://smartpause.yasinozmeen.me/",
+      "domain": "yasinozmeen.me",
+      "registeredAt": "2025-05-14T09:21:53.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Scrapboard Cloud 4",
+      "tagline": "Digital family refrigerator door, now pocket-sized n synced",
+      "votes": 71,
+      "phUrl": "https://www.producthunt.com/products/scrapboard-cloud-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "findable 2.0",
+      "tagline": "Help your agency clients to #1 on ChatGPT, Google, Claude",
+      "votes": 25,
+      "phUrl": "https://www.producthunt.com/products/findable-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://findableapp.com/",
+      "domain": "findableapp.com",
+      "registeredAt": "2025-06-05T09:16:54Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Awnsy",
+      "tagline": "Offline AI translator for Mac. Press ⌘C twice, done.",
+      "votes": 12,
+      "phUrl": "https://www.producthunt.com/products/awnsy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://awnsy.com/",
+      "domain": "awnsy.com",
+      "registeredAt": "2026-08-27T09:42:54Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Creads",
+      "tagline": "Your marketing, running on its own",
+      "votes": 11,
+      "phUrl": "https://www.producthunt.com/products/creads-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://creads.studio/",
+      "domain": "creads.studio",
+      "registeredAt": "2026-03-09T19:44:02.139Z",
+      "traffic": {
+        "monthlyVisits": 415,
+        "sources": {
+          "direct": 0.3152,
+          "search": 0.326,
+          "referral": 0.19990000000000002,
+          "social": 0.0633,
+          "mail": 0.0407
+        },
+        "topKeywords": [
+          {
+            "name": "creads studio",
+            "volume": 380
+          },
+          {
+            "name": "creads studio pricing",
+            "volume": 340
+          },
+          {
+            "name": "creads",
+            "volume": 510
+          },
+          {
+            "name": "cread",
+            "volume": 3280
+          },
+          {
+            "name": "cratorads",
+            "volume": 250
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Soar90™",
+      "tagline": "Personal 30-60-90 day onboarding plan for any new job",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/soar90?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://soar90.com/product-hunt",
+      "domain": "soar90.com",
+      "registeredAt": "2026-06-28T12:30:02Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Framedeo",
+      "tagline": "Create product launch videos in minutes with AI",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/framedeo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Taiafox",
+      "tagline": "Voice-first emergency coordination for wildfire response",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/taiafox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Chain Your Mac",
+      "tagline": "The scrolling window manager for macOS.",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/chain-your-mac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://chainyourmac.com/",
+      "domain": "chainyourmac.com",
+      "registeredAt": "2026-08-06T07:34:03Z",
+      "traffic": {
+        "monthlyVisits": 272,
+        "sources": {
+          "direct": 0.3506,
+          "search": 0.3083,
+          "referral": 0.18120000000000003,
+          "social": 0.0615,
+          "mail": 0.0292
+        },
+        "topKeywords": [
+          {
+            "name": "scrolling window manager macos",
+            "volume": 300
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Whyp - Private Audio Hosting with Embeds",
+      "tagline": "Upload audio, share a link, embed and view analytics",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/whyp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://whyp.it/",
+      "domain": "whyp.it",
+      "registeredAt": "2020-02-17T16:37:34.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Kiiboard : Keyboard for Coding",
+      "tagline": "A powerful keyboard built for devs and great for everyone.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/kiiboard-keyboard-for-coding?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://kiiboard.khare.co.in/",
+      "domain": "khare.co.in",
+      "registeredAt": "2011-05-25T05:02:12.185Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "PicText",
+      "tagline": "Spell it with your photos.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/pictext?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://pictext.sahilkhan.xyz/",
+      "domain": "sahilkhan.xyz",
+      "registeredAt": "2025-03-11T17:31:29.0Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "PATE",
+      "tagline": "Other apps split the total. PATE splits the actual bill.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/pate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://getpatesplit.com/",
+      "domain": "getpatesplit.com",
+      "registeredAt": "2026-05-12T10:14:24Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    }
+  ]
+}
