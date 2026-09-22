@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-10T16:34:40.628435Z"
+    },
+    "fetchedAt": "2026-09-22T05:44:37.722Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "fichier ouvrir gellules",
+            "volume": 210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-22T05:44:38.119Z"
+  }
+}

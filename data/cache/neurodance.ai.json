@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-18T18:10:45.556Z"
+    },
+    "fetchedAt": "2026-09-22T05:43:43.873Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "neurodance ai",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-22T05:43:44.416Z"
+  }
+}

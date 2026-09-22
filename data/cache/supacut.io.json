@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-03T19:19:27.000Z"
+    },
+    "fetchedAt": "2026-09-22T05:38:59.563Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 586,
+        "sources": {
+          "direct": 0.3654,
+          "search": 0.3166,
+          "referral": 0.1613,
+          "social": 0.0655,
+          "mail": 0.048
+        },
+        "topKeywords": [
+          {
+            "name": "am i able to use premiere pro's ai features to trim video",
+            "volume": 510
+          },
+          {
+            "name": "is adobe's auto edit function good?",
+            "volume": 310
+          },
+          {
+            "name": "can you transcribe a video in premiere pro",
+            "volume": 190
+          },
+          {
+            "name": "can you transcript a video in premiere pro",
+            "volume": 190
+          },
+          {
+            "name": "why transcript is not working on premiere pro",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-22T05:39:00.108Z"
+  }
+}

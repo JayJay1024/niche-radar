@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-04T11:03:21Z"
+    },
+    "fetchedAt": "2026-09-22T05:38:15.270Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 131,
+        "sources": {
+          "direct": 0.3952,
+          "search": 0.2762,
+          "referral": 0.1892,
+          "social": 0.0691,
+          "mail": 0.0329
+        },
+        "topKeywords": [
+          {
+            "name": "engagement rate calculator",
+            "volume": 7830
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-22T05:38:15.677Z"
+  }
+}

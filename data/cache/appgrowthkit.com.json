@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-10T15:01:23Z"
+    },
+    "fetchedAt": "2026-09-22T05:39:15.167Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1209,
+        "sources": {
+          "direct": 0.3665,
+          "search": 0.3142,
+          "referral": 0.1611,
+          "social": 0.0657,
+          "mail": 0.0491
+        },
+        "topKeywords": [
+          {
+            "name": "applaunchflow",
+            "volume": 970
+          },
+          {
+            "name": "play store feature graphic size",
+            "volume": 720
+          },
+          {
+            "name": "app store connect add video format",
+            "volume": 500
+          },
+          {
+            "name": "best google feature graphic 2026",
+            "volume": 320
+          },
+          {
+            "name": "play feature graphic 1024 by 500 pixels example",
+            "volume": 320
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-22T05:39:15.540Z"
+  }
+}

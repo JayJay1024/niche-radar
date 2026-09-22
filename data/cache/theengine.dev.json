@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-22T07:31:57.925Z"
+    },
+    "fetchedAt": "2026-09-22T05:43:11.641Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "theengine.dv",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-22T05:43:12.239Z"
+  }
+}
