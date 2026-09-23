@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-16T03:20:22Z"
+    },
+    "fetchedAt": "2026-09-23T05:32:26.157Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3314,
+        "sources": {
+          "direct": 0.3033,
+          "search": 0.2982,
+          "referral": 0.20779999999999998,
+          "social": 0.0722,
+          "mail": 0.0484
+        },
+        "topKeywords": [
+          {
+            "name": "roast my site",
+            "volume": 260
+          },
+          {
+            "name": "measuring seo success beyond rankings: a 2026 visibility scorecard",
+            "volume": 20
+          },
+          {
+            "name": "security audit of website",
+            "volume": 650
+          },
+          {
+            "name": "website security audit",
+            "volume": 340
+          },
+          {
+            "name": "website secuirty audit",
+            "volume": 280
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:32:26.722Z"
+  }
+}

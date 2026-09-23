@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-11T15:40:28Z"
+    },
+    "fetchedAt": "2026-09-23T05:35:41.169Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 6502,
+        "sources": {
+          "direct": 0.3272,
+          "search": 0.2914,
+          "referral": 0.2555,
+          "social": 0.0441,
+          "mail": 0.0262
+        },
+        "topKeywords": [
+          {
+            "name": "bloqueador de sites",
+            "volume": 7020
+          },
+          {
+            "name": "como se livrar da pornografia",
+            "volume": 320
+          },
+          {
+            "name": "blok free",
+            "volume": 3350
+          },
+          {
+            "name": "lyrio",
+            "volume": 740
+          },
+          {
+            "name": "lyrio bloqueador",
+            "volume": 440
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:35:41.737Z"
+  }
+}

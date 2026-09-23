@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-16T06:27:14.216Z"
+    },
+    "fetchedAt": "2026-09-23T05:25:27.571Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1131,
+        "sources": {
+          "direct": 0.2494,
+          "search": 0.4103,
+          "referral": 0.2059,
+          "social": 0.0603,
+          "mail": 0.0258
+        },
+        "topKeywords": [
+          {
+            "name": "edyt",
+            "volume": 300
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:25:27.915Z"
+  }
+}

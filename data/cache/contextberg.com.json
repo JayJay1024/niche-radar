@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-19T11:24:53Z"
+    },
+    "fetchedAt": "2026-09-23T05:26:55.523Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.2464,
+          "search": 0.4138,
+          "referral": 0.2049,
+          "social": 0.0605,
+          "mail": 0.0258
+        },
+        "topKeywords": [
+          {
+            "name": "chrome aiとのトーク テキスト 保存",
+            "volume": 280
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:26:55.890Z"
+  }
+}

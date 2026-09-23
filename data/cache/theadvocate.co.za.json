@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-11T16:04:08.000Z"
+    },
+    "fetchedAt": "2026-09-23T05:29:53.747Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2095,
+        "sources": {
+          "direct": 0.3385,
+          "search": 0.3028,
+          "referral": 0.1921,
+          "social": 0.0668,
+          "mail": 0.0454
+        },
+        "topKeywords": [
+          {
+            "name": "south african declaration for freedom of speech",
+            "volume": 0
+          },
+          {
+            "name": "bank ombuds south africa can your bank deduct moey from your account without an arrangement",
+            "volume": 0
+          },
+          {
+            "name": "lodge a complaint against your bank with south africa",
+            "volume": 0
+          },
+          {
+            "name": "high court",
+            "volume": 62010
+          },
+          {
+            "name": "nssf",
+            "volume": 13140
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:29:54.312Z"
+  }
+}

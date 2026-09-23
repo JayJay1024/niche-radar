@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-05T12:29:17Z"
+    },
+    "fetchedAt": "2026-09-23T05:34:39.377Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 776,
+        "sources": {
+          "direct": 0.3243,
+          "search": 0.3378,
+          "referral": 0.1789,
+          "social": 0.0678,
+          "mail": 0.0403
+        },
+        "topKeywords": [
+          {
+            "name": "enconvert",
+            "volume": 410
+          },
+          {
+            "name": "transformer un png en jpeg haute qualité",
+            "volume": 0
+          },
+          {
+            "name": "transforma un link en una captura de celular",
+            "volume": 130
+          },
+          {
+            "name": "png to webp",
+            "volume": 1229810
+          },
+          {
+            "name": "pdf to image",
+            "volume": 652540
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:34:39.894Z"
+  }
+}

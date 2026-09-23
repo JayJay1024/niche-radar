@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-10T13:03:41.123Z"
+    },
+    "fetchedAt": "2026-09-23T05:26:21.253Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "filmstage",
+            "volume": 700
+          },
+          {
+            "name": "simon willison’s weblog",
+            "volume": 360
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:26:21.650Z"
+  }
+}

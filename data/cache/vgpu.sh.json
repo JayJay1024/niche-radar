@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-28T14:47:47.000Z"
+    },
+    "fetchedAt": "2026-09-23T05:29:26.463Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 19966,
+        "sources": {
+          "direct": 0.3336,
+          "search": 0.301,
+          "referral": 0.18230000000000002,
+          "social": 0.0707,
+          "mail": 0.0545
+        },
+        "topKeywords": [
+          {
+            "name": "vgpu",
+            "volume": 1820
+          },
+          {
+            "name": "vgpu.sh",
+            "volume": 110
+          },
+          {
+            "name": "vercel vgpu",
+            "volume": 200
+          },
+          {
+            "name": "poblacion brasil",
+            "volume": 2000
+          },
+          {
+            "name": "webgpu",
+            "volume": 12890
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-23T05:29:27.043Z"
+  }
+}
