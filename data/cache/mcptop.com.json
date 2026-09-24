@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-25T21:36:16Z"
+    },
+    "fetchedAt": "2026-09-24T05:45:29.926Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 280,
+        "sources": {
+          "direct": 0.3341,
+          "search": 0.2754,
+          "referral": 0.20850000000000002,
+          "social": 0.069,
+          "mail": 0.0454
+        },
+        "topKeywords": [
+          {
+            "name": "strava mcp",
+            "volume": 5720
+          },
+          {
+            "name": "retell mcp",
+            "volume": 810
+          },
+          {
+            "name": "figma mcp connector",
+            "volume": 470
+          },
+          {
+            "name": "how can i provide claude access to smartsheet?",
+            "volume": 400
+          },
+          {
+            "name": "mcp factset",
+            "volume": 250
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-24T05:45:31.180Z"
+  }
+}

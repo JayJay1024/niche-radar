@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-06T23:14:33.511Z"
+    },
+    "fetchedAt": "2026-09-24T05:43:13.004Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 32789,
+        "sources": {
+          "direct": 0.4243,
+          "search": 0.3279,
+          "referral": 0.11610000000000001,
+          "social": 0.0677,
+          "mail": 0.0267
+        },
+        "topKeywords": [
+          {
+            "name": "codeburn",
+            "volume": 4190
+          },
+          {
+            "name": "code burn",
+            "volume": 510
+          },
+          {
+            "name": "codeburn claude code",
+            "volume": 440
+          },
+          {
+            "name": "install code burn",
+            "volume": 190
+          },
+          {
+            "name": "codeburn optimize",
+            "volume": 320
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-24T05:43:13.502Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-20T04:26:40.341Z"
+    },
+    "fetchedAt": "2026-09-24T05:42:17.102Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "quigo",
+            "volume": 510
+          },
+          {
+            "name": "qiigo",
+            "volume": 300
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-24T05:42:17.460Z"
+  }
+}

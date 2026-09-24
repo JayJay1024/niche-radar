@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-08T08:59:50.919Z"
+    },
+    "fetchedAt": "2026-09-24T05:38:44.635Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 326,
+        "sources": {
+          "direct": 0.3892,
+          "search": 0.3089,
+          "referral": 0.1689,
+          "social": 0.0762,
+          "mail": 0.027
+        },
+        "topKeywords": [
+          {
+            "name": "naise ai",
+            "volume": 700
+          },
+          {
+            "name": "naise.ai",
+            "volume": 70
+          },
+          {
+            "name": "easykol",
+            "volume": 22410
+          },
+          {
+            "name": "bilibili creator",
+            "volume": 920
+          },
+          {
+            "name": "how much bilibili pay per 1000 views",
+            "volume": 650
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-24T05:38:45.185Z"
+  }
+}

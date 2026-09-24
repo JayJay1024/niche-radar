@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-09T13:23:56.142Z"
+    },
+    "fetchedAt": "2026-09-24T05:48:34.676Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 294,
+        "sources": {
+          "direct": 0.3923,
+          "search": 0.2454,
+          "referral": 0.2203,
+          "social": 0.0737,
+          "mail": 0.0371
+        },
+        "topKeywords": [
+          {
+            "name": "open source synthesia for keyboard piano",
+            "volume": 70
+          },
+          {
+            "name": "apps like synnthasia",
+            "volume": 400
+          },
+          {
+            "name": "luma keys",
+            "volume": 320
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-24T05:48:35.697Z"
+  }
+}

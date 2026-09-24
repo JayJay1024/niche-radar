@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-29T06:34:15.000Z"
+    },
+    "fetchedAt": "2026-09-24T05:40:53.568Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "speechka",
+            "volume": 30
+          },
+          {
+            "name": "free to use voice to voice translator with zoom",
+            "volume": 170
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-24T05:40:54.611Z"
+  }
+}

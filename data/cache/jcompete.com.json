@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-23T20:44:38Z"
+    },
+    "fetchedAt": "2026-09-24T05:46:42.182Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5243,
+        "sources": {
+          "direct": 0.6685,
+          "search": 0.1244,
+          "referral": 0.0732,
+          "social": 0.0876,
+          "mail": 0.0205
+        },
+        "topKeywords": [
+          {
+            "name": "coryat",
+            "volume": 250
+          },
+          {
+            "name": "coryat score jeopardy",
+            "volume": 220
+          },
+          {
+            "name": "coryat score",
+            "volume": 210
+          },
+          {
+            "name": "how to keep track of your score while watching jeopardy",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-24T05:46:42.523Z"
+  }
+}
