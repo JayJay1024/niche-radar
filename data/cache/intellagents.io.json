@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-18T16:17:46.000Z"
+    },
+    "fetchedAt": "2026-09-25T05:37:20.373Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1690,
+        "sources": {
+          "direct": 0.2948,
+          "search": 0.2844,
+          "referral": 0.21509999999999999,
+          "social": 0.0695,
+          "mail": 0.0543
+        },
+        "topKeywords": [
+          {
+            "name": "intelliagent",
+            "volume": 540
+          },
+          {
+            "name": "intelliagent rappers",
+            "volume": 180
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:37:20.740Z"
+  }
+}

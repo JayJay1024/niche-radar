@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-16T22:19:29.426Z"
+    },
+    "fetchedAt": "2026-09-25T05:37:36.426Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7811,
+        "sources": {
+          "direct": 0.4054,
+          "search": 0.3374,
+          "referral": 0.1331,
+          "social": 0.0634,
+          "mail": 0.0293
+        },
+        "topKeywords": [
+          {
+            "name": "parall",
+            "volume": 1460
+          },
+          {
+            "name": "aplikasi parall di mac",
+            "volume": 320
+          },
+          {
+            "name": "\"parall\" macos how to delete app shortcut",
+            "volume": 170
+          },
+          {
+            "name": "parall change log",
+            "volume": 140
+          },
+          {
+            "name": "multi-instance app launcher",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:37:36.806Z"
+  }
+}

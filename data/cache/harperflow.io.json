@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-20T20:26:57.000Z"
+    },
+    "fetchedAt": "2026-09-25T05:42:40.085Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 455,
+        "sources": {
+          "direct": 0.3228,
+          "search": 0.2925,
+          "referral": 0.19590000000000002,
+          "social": 0.0766,
+          "mail": 0.045
+        },
+        "topKeywords": [
+          {
+            "name": "glm5.3 ranking",
+            "volume": 170
+          },
+          {
+            "name": "glm5.3",
+            "volume": 60180
+          },
+          {
+            "name": "is quora dead",
+            "volume": 710
+          },
+          {
+            "name": "is chegg dead",
+            "volume": 520
+          },
+          {
+            "name": "benchmark glm 5.3",
+            "volume": 510
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:42:40.433Z"
+  }
+}

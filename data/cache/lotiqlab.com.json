@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-12T17:47:40Z"
+    },
+    "fetchedAt": "2026-09-25T05:43:52.312Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "lotiqlab",
+            "volume": 180
+          },
+          {
+            "name": "lottielab замена",
+            "volume": 0
+          },
+          {
+            "name": "svgator lottie watermark remover",
+            "volume": 0
+          },
+          {
+            "name": "lottie compressor",
+            "volume": 280
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:43:52.684Z"
+  }
+}

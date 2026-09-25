@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-27T16:56:21.000Z"
+    },
+    "fetchedAt": "2026-09-25T05:40:13.705Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "mysns",
+            "volume": 830
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:40:14.061Z"
+  }
+}

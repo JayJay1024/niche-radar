@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-13T15:52:04.000Z"
+    },
+    "fetchedAt": "2026-09-25T05:41:14.398Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3664,
+        "sources": {
+          "direct": 0.3966,
+          "search": 0.2854,
+          "referral": 0.18880000000000002,
+          "social": 0.0617,
+          "mail": 0.032
+        },
+        "topKeywords": [
+          {
+            "name": "openscout",
+            "volume": 110
+          },
+          {
+            "name": "openscout.so",
+            "volume": 70
+          },
+          {
+            "name": "saas launch monitor",
+            "volume": 60
+          },
+          {
+            "name": "brand24",
+            "volume": 40120
+          },
+          {
+            "name": "gummysearch",
+            "volume": 10200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:41:14.750Z"
+  }
+}

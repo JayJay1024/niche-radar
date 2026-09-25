@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-10T15:14:13Z"
+    },
+    "fetchedAt": "2026-09-25T05:35:10.652Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 79996,
+        "sources": {
+          "direct": 0.3339,
+          "search": 0.1743,
+          "referral": 0.0392,
+          "social": 0.4393,
+          "mail": 0.0132
+        },
+        "topKeywords": [
+          {
+            "name": "minimi",
+            "volume": 12760
+          },
+          {
+            "name": "project minimi",
+            "volume": 250
+          },
+          {
+            "name": "minimi ai",
+            "volume": 170
+          },
+          {
+            "name": "projectminimi",
+            "volume": 70
+          },
+          {
+            "name": "minime shram ai",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:35:11.009Z"
+  }
+}

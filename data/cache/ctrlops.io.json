@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-06T12:20:45.000Z"
+    },
+    "fetchedAt": "2026-09-25T05:35:20.218Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 16346,
+        "sources": {
+          "direct": 0.3554,
+          "search": 0.3176,
+          "referral": 0.1738,
+          "social": 0.071,
+          "mail": 0.0369
+        },
+        "topKeywords": [
+          {
+            "name": "ctrlops",
+            "volume": 840
+          },
+          {
+            "name": "putty alternative",
+            "volume": 2030
+          },
+          {
+            "name": "superputtz alternatives",
+            "volume": 210
+          },
+          {
+            "name": "ssh client for mac",
+            "volume": 500
+          },
+          {
+            "name": "ctrl ops",
+            "volume": 320
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-25T05:35:20.561Z"
+  }
+}
