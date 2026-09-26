@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-04T10:25:16.633Z"
+    },
+    "fetchedAt": "2026-09-26T05:51:39.092Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "steve mitchell",
+            "volume": 400
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-26T05:51:42.654Z"
+  }
+}

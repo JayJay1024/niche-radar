@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-09-25T09:25:08Z"
+    },
+    "fetchedAt": "2026-09-26T05:49:24.200Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 25365,
+        "sources": {
+          "direct": 0.4025,
+          "search": 0.3358,
+          "referral": 0.1365,
+          "social": 0.0628,
+          "mail": 0.0296
+        },
+        "topKeywords": [
+          {
+            "name": "cutsio",
+            "volume": 340
+          },
+          {
+            "name": "google pixel footage audio not compatible with davinci resolve audio cutting out no waveform",
+            "volume": 0
+          },
+          {
+            "name": "davinci resolve cut voice over dead air",
+            "volume": 0
+          },
+          {
+            "name": "audios clashing on davinci resolve",
+            "volume": 0
+          },
+          {
+            "name": "apple prores to h264 converter",
+            "volume": 170
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-26T05:49:24.513Z"
+  }
+}

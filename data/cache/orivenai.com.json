@@ -1,0 +1,24 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-20T15:54:25Z"
+    },
+    "fetchedAt": "2026-09-26T05:54:27.988Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 749,
+        "sources": {
+          "direct": 0.321,
+          "search": 0.3296,
+          "referral": 0.1979,
+          "social": 0.0625,
+          "mail": 0.0448
+        },
+        "topKeywords": []
+      }
+    },
+    "fetchedAt": "2026-09-26T05:54:28.564Z"
+  }
+}

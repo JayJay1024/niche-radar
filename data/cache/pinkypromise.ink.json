@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-28T11:50:25Z"
+    },
+    "fetchedAt": "2026-09-26T05:49:53.276Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 147,
+        "sources": {
+          "direct": 0.3781,
+          "search": 0.3223,
+          "referral": 0.1499,
+          "social": 0.0864,
+          "mail": 0.0352
+        },
+        "topKeywords": [
+          {
+            "name": "pinky promise",
+            "volume": 17420
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-26T05:49:53.852Z"
+  }
+}
