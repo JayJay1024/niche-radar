@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-11T11:34:02.008Z"
+    },
+    "fetchedAt": "2026-09-27T05:59:03.598Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 354,
+        "sources": {
+          "direct": 0.3556,
+          "search": 0.3292,
+          "referral": 0.1654,
+          "social": 0.064,
+          "mail": 0.0273
+        },
+        "topKeywords": [
+          {
+            "name": "psst",
+            "volume": 5640
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-27T05:59:04.201Z"
+  }
+}

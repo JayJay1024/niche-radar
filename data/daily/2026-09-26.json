@@ -1,0 +1,666 @@
+{
+  "date": "2026-09-26",
+  "funnel": {
+    "total": 39,
+    "resolved": 25,
+    "newDomains": 21,
+    "hasTraffic": 21,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "Hemory",
+      "tagline": "Keep listening. Searchable memory for your AI agents.",
+      "votes": 345,
+      "phUrl": "https://www.producthunt.com/products/hemory?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.hemory.com/",
+      "domain": "hemory.com",
+      "registeredAt": "2018-12-11T19:38:52Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Eclatira",
+      "tagline": "Conversational Video Agent That Plugs Into Any Stack",
+      "votes": 304,
+      "phUrl": "https://www.producthunt.com/products/eclatira?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://eclatira.com/",
+      "domain": "eclatira.com",
+      "registeredAt": "2024-10-02T19:33:59Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Chit",
+      "tagline": "A printed receipt of your day in Claude Code",
+      "votes": 207,
+      "phUrl": "https://www.producthunt.com/products/chit-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://chit.zopcloud.zop.dev/",
+      "domain": "zop.dev",
+      "registeredAt": "2024-05-29T13:13:23.914Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "MakerMap",
+      "tagline": "A living map of makers and what they’re building",
+      "votes": 180,
+      "phUrl": "https://www.producthunt.com/products/makermap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.makermap.lol/",
+      "domain": "makermap.lol",
+      "registeredAt": "2026-09-16T17:34:32.0Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Paragraph Notes",
+      "tagline": "A private Markdown notes app for Mac",
+      "votes": 148,
+      "phUrl": "https://www.producthunt.com/products/paragraph-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://paragraphnotes.md/",
+      "domain": "paragraphnotes.md",
+      "registeredAt": "2026-07-06T00:00:00.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "GoodSocials",
+      "tagline": "AI social media manager for LinkedIn. Only authentic content",
+      "votes": 128,
+      "phUrl": "https://www.producthunt.com/products/goodsocials?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://goodsocials.co/",
+      "domain": "goodsocials.co",
+      "registeredAt": "2026-09-14T08:04:18.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Fewer",
+      "tagline": "The launcher that counts how often you pick up your phone",
+      "votes": 121,
+      "phUrl": "https://www.producthunt.com/products/fewer?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Psst",
+      "tagline": "A shared shopping list that remembers what things cost",
+      "votes": 108,
+      "phUrl": "https://www.producthunt.com/products/psst-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://getpsst.app/",
+      "domain": "getpsst.app",
+      "registeredAt": "2026-06-11T11:34:02.008Z",
+      "traffic": {
+        "monthlyVisits": 354,
+        "sources": {
+          "direct": 0.3556,
+          "search": 0.3292,
+          "referral": 0.1654,
+          "social": 0.064,
+          "mail": 0.0273
+        },
+        "topKeywords": [
+          {
+            "name": "psst",
+            "volume": 5640
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Kleanly",
+      "tagline": "One tap in the notch locks your keyboard and trackpad",
+      "votes": 108,
+      "phUrl": "https://www.producthunt.com/products/kleanly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://haidernawaz8.gumroad.com/l/tiyffv",
+      "domain": "gumroad.com",
+      "registeredAt": "2009-07-31T16:42:26Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Lisen",
+      "tagline": "Free Read Aloud with Cartesia Voices",
+      "votes": 105,
+      "phUrl": "https://www.producthunt.com/products/lisen?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "SOUND",
+      "tagline": "Give every Mac app its own EQ, volume, and speaker.",
+      "votes": 101,
+      "phUrl": "https://www.producthunt.com/products/sound?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.cplofmngs.com/sound",
+      "domain": "cplofmngs.com",
+      "registeredAt": "2026-07-20T14:05:44Z",
+      "traffic": {
+        "monthlyVisits": 778,
+        "sources": {
+          "direct": 0.3729,
+          "search": 0.3001,
+          "referral": 0.17450000000000002,
+          "social": 0.0692,
+          "mail": 0.0339
+        },
+        "topKeywords": [
+          {
+            "name": "eqmac",
+            "volume": 17040
+          },
+          {
+            "name": "eq mac",
+            "volume": 1510
+          },
+          {
+            "name": "can you setup an eq on my mac",
+            "volume": 520
+          },
+          {
+            "name": "eqmac vs soundsource",
+            "volume": 510
+          },
+          {
+            "name": "эквалайзер на макбук",
+            "volume": 480
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "VehicleERP",
+      "tagline": "VehicleERP - Used Car Management Software",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/vehicleerp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://vehicleerp.com/",
+      "domain": "vehicleerp.com",
+      "registeredAt": "2026-07-02T07:15:50Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "What to Order",
+      "tagline": "Find food you’ll love on any restaurant menu",
+      "votes": 14,
+      "phUrl": "https://www.producthunt.com/products/what-to-order?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://whattoorder.app/",
+      "domain": "whattoorder.app",
+      "registeredAt": "2026-09-25T16:01:28.393Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "ZenMode OS · Android Launcher",
+      "tagline": "Good phone habits! paid in gold, all with your friends. ",
+      "votes": 12,
+      "phUrl": "https://www.producthunt.com/products/zenmode-os-android-launcher?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Inqueria: Interviews that Hold Up",
+      "tagline": "AI that interviews your users like a trained researcher",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/inqueria-interviews-that-hold-up?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Big Weather",
+      "tagline": "Menu Bar Forecast, now with AI Insights",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/big-weather-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ButterShare",
+      "tagline": "Share Anything, to Anyone. No File Limits",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/buttershare?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Brainlist Calendar",
+      "tagline": "every notes entry shows up in your list AND your calendar",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/brainlist-calendar?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Finantly",
+      "tagline": "All your finances in one place — budgets and investments.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/finantly?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Farao",
+      "tagline": "Trade with friends, post thesis, earn money",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/farao?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Bump",
+      "tagline": "Your AI collections team for email and WhatsApp",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/bump-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.bumppaid.com/",
+      "domain": "bumppaid.com",
+      "registeredAt": "2026-08-17T13:02:38Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "photobid",
+      "tagline": "The Internet’s Billboard",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/photobid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.photobid.space/",
+      "domain": "photobid.space",
+      "registeredAt": "2026-09-20T17:58:13.409Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "TokExport",
+      "tagline": "Export TikTok followers, following & comments in seconds",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/tokexport?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Commit Land",
+      "tagline": "Your projects as a living town. Every push changes it.",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/commit-land?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://commit.land/",
+      "domain": "commit.land",
+      "registeredAt": "2026-09-02T15:43:36.995Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Asụsụ Ọma",
+      "tagline": "Learn Igbo with guided lessons, real Igbo voices and games",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/as-s-ma?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://asusuoma.com/",
+      "domain": "asusuoma.com",
+      "registeredAt": "2026-08-01T19:29:37Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "CozyToolkit",
+      "tagline": "Free everyday tools for creators",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/cozytoolkit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://cozytoolkit.com/",
+      "domain": "cozytoolkit.com",
+      "registeredAt": "2026-09-22T12:51:49Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Puzzly",
+      "tagline": "Turn any pic into a multiplayer jigsaw puzzle. No sign-ups",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/puzzly-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "SKID",
+      "tagline": "AI decision engine for Dubai real estate off-plan projects.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/skid-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://skid.homes/",
+      "domain": "skid.homes",
+      "registeredAt": "2026-07-13T20:51:18.0Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Prompt Workbench",
+      "tagline": "Open-source Prompt Management solution",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/prompt-workbench?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Onto",
+      "tagline": "Your website, readable to AI agents",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/onto-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://buildonto.dev/",
+      "domain": "buildonto.dev",
+      "registeredAt": "2026-02-20T14:31:29.824Z",
+      "traffic": {
+        "monthlyVisits": 129,
+        "sources": {
+          "direct": 0.3539,
+          "search": 0.3365,
+          "referral": 0.1621,
+          "social": 0.0635,
+          "mail": 0.0412
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Realwater — Drink water. We track it",
+      "tagline": "A beautifully simple way to track your daily hydration",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/realwater-drink-water-we-track-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://realwater.app/",
+      "domain": "realwater.app",
+      "registeredAt": "2026-08-15T16:16:05.118Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "how many cups in a glass mug",
+            "volume": 400
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "biomes",
+      "tagline": "Save multi-monitor app layouts & launch with hotkeys",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/biomes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "MemoryLane",
+      "tagline": "Rediscover the memories sitting on your drives.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/memorylane-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.memorylaneapp.org/",
+      "domain": "memorylaneapp.org",
+      "registeredAt": "2026-09-15T20:35:18.725Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Dots-In",
+      "tagline": "Your Living Twin that makes the internet work for you",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/dots-in?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Flag Quiz",
+      "tagline": "Learn the flags of the world",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/flag-quiz-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://flagquiz.fyi/",
+      "domain": "flagquiz.fyi",
+      "registeredAt": "2026-06-16T01:36:21.708Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "bidthe1.com",
+      "tagline": "Get some traffic with BidThe1 (Grab a spot)",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/bidthe1-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://bidthe1.com/",
+      "domain": "bidthe1.com",
+      "registeredAt": "2026-09-23T02:42:17Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "SwiftPulse",
+      "tagline": "Live Windows tuning, cooling controls & system health",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/swiftpulse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://swiftpulse.win/",
+      "domain": "swiftpulse.win",
+      "registeredAt": "2026-09-01T17:48:31Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "NumBan",
+      "tagline": "Report voicemail callback numbers, not spoofed caller ID.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/numban?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://numban.com/",
+      "domain": "numban.com",
+      "registeredAt": "2026-06-04T01:13:45Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "668-88-142-287-128-195",
+            "volume": 20
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Clothys AI",
+      "tagline": "See Yourself In Every Outfit",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/clothys-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://clothsyai.fabricvton.com/",
+      "domain": "fabricvton.com",
+      "registeredAt": "2026-02-22T18:10:35Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    }
+  ]
+}

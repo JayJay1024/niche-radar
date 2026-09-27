@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-20T14:05:44Z"
+    },
+    "fetchedAt": "2026-09-27T05:59:31.919Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 778,
+        "sources": {
+          "direct": 0.3729,
+          "search": 0.3001,
+          "referral": 0.17450000000000002,
+          "social": 0.0692,
+          "mail": 0.0339
+        },
+        "topKeywords": [
+          {
+            "name": "eqmac",
+            "volume": 17040
+          },
+          {
+            "name": "eq mac",
+            "volume": 1510
+          },
+          {
+            "name": "can you setup an eq on my mac",
+            "volume": 520
+          },
+          {
+            "name": "eqmac vs soundsource",
+            "volume": 510
+          },
+          {
+            "name": "эквалайзер на макбук",
+            "volume": 480
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-27T05:59:32.501Z"
+  }
+}

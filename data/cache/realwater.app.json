@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-15T16:16:05.118Z"
+    },
+    "fetchedAt": "2026-09-27T06:04:07.332Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "how many cups in a glass mug",
+            "volume": 400
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-27T06:04:07.699Z"
+  }
+}
