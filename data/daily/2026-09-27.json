@@ -1,0 +1,529 @@
+{
+  "date": "2026-09-27",
+  "funnel": {
+    "total": 24,
+    "resolved": 22,
+    "newDomains": 17,
+    "hasTraffic": 17,
+    "qualified": 1
+  },
+  "products": [
+    {
+      "name": "OpenScience",
+      "tagline": "The open-source AI workbench for scientific research",
+      "votes": 13,
+      "phUrl": "https://www.producthunt.com/products/openscience?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "qualified",
+      "url": "https://www.openscience.sh/",
+      "domain": "openscience.sh",
+      "registeredAt": "2026-06-30T20:10:43.000Z",
+      "traffic": {
+        "monthlyVisits": 4396,
+        "sources": {
+          "direct": 0.47,
+          "search": 0.2683,
+          "referral": 0.1537,
+          "social": 0.0476,
+          "mail": 0.026
+        },
+        "topKeywords": [
+          {
+            "name": "openscience",
+            "volume": 2790
+          },
+          {
+            "name": "openscience workbench",
+            "volume": 190
+          },
+          {
+            "name": "opensioure bioscince lab ai platform",
+            "volume": 50
+          },
+          {
+            "name": "openscience github",
+            "volume": 580
+          },
+          {
+            "name": "open science desktop github",
+            "volume": 190
+          }
+        ]
+      },
+      "detailUrl": "https://www.similarweb.com/website/openscience.sh/"
+    },
+    {
+      "name": "Humalike x GTA RP",
+      "tagline": "AI NPCs that talk, remember & act on their own",
+      "votes": 309,
+      "phUrl": "https://www.producthunt.com/products/humalike-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://humalike.ai/gta",
+      "domain": "humalike.ai",
+      "registeredAt": "2025-08-01T08:12:38.251Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "GPT-6 Sol & Luna",
+      "tagline": "Frontier AI intelligence, now at half the price",
+      "votes": 304,
+      "phUrl": "https://www.producthunt.com/products/openai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "domain": "openai.com",
+      "registeredAt": "2007-01-19T19:28:24Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Cuey",
+      "tagline": "Compare ChatGPT, Claude & Gemini answers in one tab.",
+      "votes": 251,
+      "phUrl": "https://www.producthunt.com/products/cuey-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Superhuman Go",
+      "tagline": "The AI assistant that works where you do",
+      "votes": 188,
+      "phUrl": "https://www.producthunt.com/products/superhuman-go?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://superhuman.com/go",
+      "domain": "superhuman.com",
+      "registeredAt": "1999-11-24T11:39:03Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "KiwiDesk",
+      "tagline": "Tiling that feels like it shipped with macOS.",
+      "votes": 136,
+      "phUrl": "https://www.producthunt.com/products/kiwidesk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://kiwidesk.kiwicanopy.com/",
+      "domain": "kiwicanopy.com",
+      "registeredAt": "2026-07-16T12:33:59Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "sketchybar trigger yabai workspace",
+            "volume": 150
+          },
+          {
+            "name": "sketchybar subscribe event",
+            "volume": 110
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Harmony",
+      "tagline": "AI agents that resolve IT/HR tickets inside Slack and Teams",
+      "votes": 135,
+      "phUrl": "https://www.producthunt.com/products/harmony-it?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://harmony.io/",
+      "domain": "harmony.io",
+      "registeredAt": "2011-05-03T01:44:44.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Clicks Communicator",
+      "tagline": "A new kind of mobile communicator designed for doing",
+      "votes": 129,
+      "phUrl": "https://www.producthunt.com/products/clicks?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://clicks.tech/communicator",
+      "domain": "clicks.tech",
+      "registeredAt": "2023-05-02T18:26:51.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "NiroHelp",
+      "tagline": "Save time and money with AI-native support for WordPress",
+      "votes": 33,
+      "phUrl": "https://www.producthunt.com/products/nirohelp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://nirohelp.com/",
+      "domain": "nirohelp.com",
+      "registeredAt": "2026-09-03T14:59:34Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Lofi Cities",
+      "tagline": "Pixel-art city nights with endless, browser-generated lofi",
+      "votes": 20,
+      "phUrl": "https://www.producthunt.com/products/lofi-cities?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://loficities.com/",
+      "domain": "loficities.com",
+      "registeredAt": "2026-09-25T12:29:10Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "QueroCura",
+      "tagline": "the future of connected healthcare ",
+      "votes": 17,
+      "phUrl": "https://www.producthunt.com/products/querocura?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://querocura.com/",
+      "domain": "querocura.com",
+      "registeredAt": "2026-07-20T05:58:00Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "QuotaMint",
+      "tagline": "Stop rebuilding credits and usage limits.",
+      "votes": 14,
+      "phUrl": "https://www.producthunt.com/products/quotamint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.quotamint.com/",
+      "domain": "quotamint.com",
+      "registeredAt": "2026-09-13T10:22:02Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Greypaint",
+      "tagline": "Every Mac app up to date, with an undo button",
+      "votes": 11,
+      "phUrl": "https://www.producthunt.com/products/greypaint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.greypaint.app/",
+      "domain": "greypaint.app",
+      "registeredAt": "2026-09-07T16:21:10.630Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Layoutr — AI interior design",
+      "tagline": "Your floor plan, in 3D, then rendered by AI",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/layoutr?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://layoutr.app/",
+      "domain": "layoutr.app",
+      "registeredAt": "2026-05-11T16:12:12.729Z",
+      "traffic": {
+        "monthlyVisits": 2098,
+        "sources": {
+          "direct": 0.3157,
+          "search": 0.3144,
+          "referral": 0.2007,
+          "social": 0.0727,
+          "mail": 0.0422
+        },
+        "topKeywords": [
+          {
+            "name": "what is furniture kickboard stardard size",
+            "volume": 280
+          },
+          {
+            "name": "roomsketcher free",
+            "volume": 1910
+          },
+          {
+            "name": "planner 5d alternative free",
+            "volume": 530
+          },
+          {
+            "name": "dimension of furniture",
+            "volume": 400
+          },
+          {
+            "name": "how tall is a tv stand",
+            "volume": 390
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "ShipWithMuse",
+      "tagline": "Discover what people are building with Muse",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/shipwithmuse?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://shipwithmuse.live/",
+      "domain": "shipwithmuse.live",
+      "registeredAt": "2026-09-24T22:26:35.567Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Peas and Pans",
+      "tagline": "Meal plans for nutrition coaches, sent under your own brand",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/peas-and-pans?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://peasandpans.com/",
+      "domain": "peasandpans.com",
+      "registeredAt": "2026-05-27T15:02:53Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Clicks.page",
+      "tagline": "Beautiful revenue-first analytics for founders & makers",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/clicks-page?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://clicks.page/",
+      "domain": "clicks.page",
+      "registeredAt": "2026-09-23T12:18:08.848Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Wepin",
+      "tagline": "A shared map for couples to pin places and keep memories",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/wepin-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Antideploy",
+      "tagline": "Deploy what your coding agent built, in one sentence",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/antideploy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://antideploy.com/",
+      "domain": "antideploy.com",
+      "registeredAt": "2026-08-13T08:48:25Z",
+      "traffic": {
+        "monthlyVisits": 10442,
+        "sources": {
+          "direct": 0.919,
+          "search": 0.081,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "antideploy",
+            "volume": 320
+          },
+          {
+            "name": "anti deploy",
+            "volume": 100
+          },
+          {
+            "name": "antydeployed",
+            "volume": 70
+          },
+          {
+            "name": "antideployb",
+            "volume": 0
+          },
+          {
+            "name": "anti deployed com",
+            "volume": 70
+          }
+        ]
+      },
+      "eliminatedBy": "search-share"
+    },
+    {
+      "name": "FixMyFX",
+      "tagline": "Free FX fee calculator, plus how to reduce your FX costs",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/fixmyfx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://fixmyfx.com/",
+      "domain": "fixmyfx.com",
+      "registeredAt": "2026-01-23T10:26:45Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "FixMyFX",
+      "tagline": "Free FX fee calculator, plus how to reduce your FX costs",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/fixmyfx?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://fixmyfx.com/",
+      "domain": "fixmyfx.com",
+      "registeredAt": "2026-01-23T10:26:45Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Best AI Tools for One-Person Business",
+      "tagline": "Practical AI tools for one-person businesses",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/best-ai-tools-for-one-person-business?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.passivefreelancer.com/2026/09/best-ai-tools-business.html",
+      "domain": "passivefreelancer.com",
+      "registeredAt": "2025-12-26T18:37:07Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "GameRoll: Game Backlog Tracker",
+      "tagline": "One app for your gaming life.",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/gameroll-game-backlog-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://gameroll.ing/",
+      "domain": "gameroll.ing",
+      "registeredAt": "2026-08-13T08:47:08.099Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "LibreCam: Manual RAW Camera for iPhone",
+      "tagline": "The iPhone camera with every AI improvement switched off",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/librecam-manual-raw-camera-for-iphone?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://librecam.app/",
+      "domain": "librecam.app",
+      "registeredAt": "2026-08-23T20:45:16.955Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    }
+  ]
+}

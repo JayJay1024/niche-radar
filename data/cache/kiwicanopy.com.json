@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-16T12:33:59Z"
+    },
+    "fetchedAt": "2026-09-28T06:06:21.129Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "sketchybar trigger yabai workspace",
+            "volume": 150
+          },
+          {
+            "name": "sketchybar subscribe event",
+            "volume": 110
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-28T06:06:21.569Z"
+  }
+}

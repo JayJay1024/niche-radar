@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-30T20:10:43.000Z"
+    },
+    "fetchedAt": "2026-09-28T06:07:35.491Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4396,
+        "sources": {
+          "direct": 0.47,
+          "search": 0.2683,
+          "referral": 0.1537,
+          "social": 0.0476,
+          "mail": 0.026
+        },
+        "topKeywords": [
+          {
+            "name": "openscience",
+            "volume": 2790
+          },
+          {
+            "name": "openscience workbench",
+            "volume": 190
+          },
+          {
+            "name": "opensioure bioscince lab ai platform",
+            "volume": 50
+          },
+          {
+            "name": "openscience github",
+            "volume": 580
+          },
+          {
+            "name": "open science desktop github",
+            "volume": 190
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-28T06:07:35.864Z"
+  }
+}

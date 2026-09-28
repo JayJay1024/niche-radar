@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-11T16:12:12.729Z"
+    },
+    "fetchedAt": "2026-09-28T06:07:50.680Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2098,
+        "sources": {
+          "direct": 0.3157,
+          "search": 0.3144,
+          "referral": 0.2007,
+          "social": 0.0727,
+          "mail": 0.0422
+        },
+        "topKeywords": [
+          {
+            "name": "what is furniture kickboard stardard size",
+            "volume": 280
+          },
+          {
+            "name": "roomsketcher free",
+            "volume": 1910
+          },
+          {
+            "name": "planner 5d alternative free",
+            "volume": 530
+          },
+          {
+            "name": "dimension of furniture",
+            "volume": 400
+          },
+          {
+            "name": "how tall is a tv stand",
+            "volume": 390
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-28T06:07:51.206Z"
+  }
+}
