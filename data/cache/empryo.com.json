@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-02T13:57:46Z"
+    },
+    "fetchedAt": "2026-09-29T06:27:59.519Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "empryo.com",
+            "volume": 100
+          },
+          {
+            "name": "empryo",
+            "volume": 890
+          },
+          {
+            "name": "what is web tree sitter",
+            "volume": 270
+          },
+          {
+            "name": "llama cpp trojan:win32/wacatac.h!ml",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:27:59.864Z"
+  }
+}

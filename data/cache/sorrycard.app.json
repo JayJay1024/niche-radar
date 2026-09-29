@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-11T13:10:36.798Z"
+    },
+    "fetchedAt": "2026-09-29T06:30:08.404Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 15180,
+        "sources": {
+          "direct": 0.3485,
+          "search": 0.3445,
+          "referral": 0.161,
+          "social": 0.065,
+          "mail": 0.0378
+        },
+        "topKeywords": [
+          {
+            "name": "sorry card",
+            "volume": 1310
+          },
+          {
+            "name": "sorry pdf card",
+            "volume": 260
+          },
+          {
+            "name": "apology letter maker",
+            "volume": 150
+          },
+          {
+            "name": "apology online card",
+            "volume": 180
+          },
+          {
+            "name": "sorrycard",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:30:08.839Z"
+  }
+}

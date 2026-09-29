@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-01T23:54:23.000Z"
+    },
+    "fetchedAt": "2026-09-29T06:27:44.012Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.314,
+          "search": 0.3218,
+          "referral": 0.2086,
+          "social": 0.0606,
+          "mail": 0.0482
+        },
+        "topKeywords": [
+          {
+            "name": "nakastream",
+            "volume": 183930
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:27:44.445Z"
+  }
+}

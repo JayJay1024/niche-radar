@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-27T10:48:13Z"
+    },
+    "fetchedAt": "2026-09-29T06:27:35.402Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "monty finance",
+            "volume": 280
+          },
+          {
+            "name": "difference between contribution margin and gross margin",
+            "volume": 150
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:27:35.778Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-31T19:56:42.248Z"
+    },
+    "fetchedAt": "2026-09-29T06:29:02.859Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "insurance agent content marketing",
+            "volume": 400
+          },
+          {
+            "name": "free alternative of buffer for posting story with links",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:29:03.211Z"
+  }
+}

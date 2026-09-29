@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-11T18:56:47Z"
+    },
+    "fetchedAt": "2026-09-29T06:28:16.761Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.2857,
+          "search": 0.2755,
+          "referral": 0.2253,
+          "social": 0.0685,
+          "mail": 0.0542
+        },
+        "topKeywords": [
+          {
+            "name": "ai down lab",
+            "volume": 40
+          },
+          {
+            "name": "create image ai",
+            "volume": 3540
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:28:17.119Z"
+  }
+}

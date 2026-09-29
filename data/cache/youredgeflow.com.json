@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-18T15:27:02Z"
+    },
+    "fetchedAt": "2026-09-29T06:29:27.541Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 367,
+        "sources": {
+          "direct": 0.4347,
+          "search": 0.2581,
+          "referral": 0.1799,
+          "social": 0.073,
+          "mail": 0.0259
+        },
+        "topKeywords": [
+          {
+            "name": "edgeflow trading journal",
+            "volume": 400
+          },
+          {
+            "name": "edge journal trade journal book",
+            "volume": 250
+          },
+          {
+            "name": "apa itu edge trading",
+            "volume": 230
+          },
+          {
+            "name": "trading place journal",
+            "volume": 230
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:29:27.894Z"
+  }
+}

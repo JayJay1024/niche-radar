@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-04T10:28:42.566Z"
+    },
+    "fetchedAt": "2026-09-29T06:25:30.269Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1598,
+        "sources": {
+          "direct": 0.3514,
+          "search": 0.3388,
+          "referral": 0.1619,
+          "social": 0.064,
+          "mail": 0.0408
+        },
+        "topKeywords": [
+          {
+            "name": "charvi rastogi",
+            "volume": 230
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:25:30.673Z"
+  }
+}

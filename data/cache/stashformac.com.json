@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-15T11:41:44Z"
+    },
+    "fetchedAt": "2026-09-29T06:25:12.636Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 6462,
+        "sources": {
+          "direct": 0.2843,
+          "search": 0.5762,
+          "referral": 0.11019999999999999,
+          "social": 0.0093,
+          "mail": 0.0068
+        },
+        "topKeywords": [
+          {
+            "name": "stash for mac",
+            "volume": 1590
+          },
+          {
+            "name": "stashformac",
+            "volume": 750
+          },
+          {
+            "name": "stash mac app",
+            "volume": 670
+          },
+          {
+            "name": "stash for macos",
+            "volume": 310
+          },
+          {
+            "name": "stashformac.com",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:25:13.011Z"
+  }
+}

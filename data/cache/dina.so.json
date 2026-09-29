@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-04T14:18:47.000Z"
+    },
+    "fetchedAt": "2026-09-29T06:24:56.338Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2446,
+        "sources": {
+          "direct": 0.3239,
+          "search": 0.2776,
+          "referral": 0.21389999999999998,
+          "social": 0.0659,
+          "mail": 0.0457
+        },
+        "topKeywords": [
+          {
+            "name": "dina recorder",
+            "volume": 150
+          },
+          {
+            "name": "dia video record",
+            "volume": 60
+          },
+          {
+            "name": "screen recording vertical split screen",
+            "volume": 40
+          },
+          {
+            "name": "how screen record vertical video",
+            "volume": 80
+          },
+          {
+            "name": "phia",
+            "volume": 141020
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-29T06:24:56.714Z"
+  }
+}
