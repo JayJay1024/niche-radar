@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-10T19:38:52.000Z"
+    },
+    "fetchedAt": "2026-09-30T06:14:18.025Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1563,
+        "sources": {
+          "direct": 0.3157,
+          "search": 0.3106,
+          "referral": 0.1926,
+          "social": 0.0673,
+          "mail": 0.0474
+        },
+        "topKeywords": [
+          {
+            "name": "the tech drink seattle",
+            "volume": 130
+          },
+          {
+            "name": "calgary engineering hackathons 2027",
+            "volume": 130
+          },
+          {
+            "name": "lachy groom",
+            "volume": 6280
+          },
+          {
+            "name": "cjes",
+            "volume": 6040
+          },
+          {
+            "name": "dst global",
+            "volume": 3250
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:14:18.619Z"
+  }
+}

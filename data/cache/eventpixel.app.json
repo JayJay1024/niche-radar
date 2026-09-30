@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-15T07:46:53.924Z"
+    },
+    "fetchedAt": "2026-09-30T06:15:15.688Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "photo sharing apps",
+            "volume": 1310
+          },
+          {
+            "name": "photo sharing app",
+            "volume": 500
+          },
+          {
+            "name": "photo wall conference",
+            "volume": 350
+          },
+          {
+            "name": "kululu.com",
+            "volume": 320
+          },
+          {
+            "name": "cuando duplico mi mac con mi tv samsung va ralentizado",
+            "volume": 210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:15:16.079Z"
+  }
+}

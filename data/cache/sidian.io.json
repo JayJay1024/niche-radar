@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-03T16:03:19.000Z"
+    },
+    "fetchedAt": "2026-09-30T06:16:35.900Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2063,
+        "sources": {
+          "direct": 0.4059,
+          "search": 0.3292,
+          "referral": 0.1381,
+          "social": 0.0618,
+          "mail": 0.0328
+        },
+        "topKeywords": [
+          {
+            "name": "docsend",
+            "volume": 36420
+          },
+          {
+            "name": "sidian",
+            "volume": 720
+          },
+          {
+            "name": "docsend pricing",
+            "volume": 620
+          },
+          {
+            "name": "sidian ai",
+            "volume": 300
+          },
+          {
+            "name": "idox ai",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:16:36.566Z"
+  }
+}

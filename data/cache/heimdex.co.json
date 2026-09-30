@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-22T02:14:17.000Z"
+    },
+    "fetchedAt": "2026-09-30T06:15:06.082Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 541,
+        "sources": {
+          "direct": 0.3377,
+          "search": 0.3444,
+          "referral": 0.1911,
+          "social": 0.0631,
+          "mail": 0.0269
+        },
+        "topKeywords": [
+          {
+            "name": "premiere pro mcp 자막",
+            "volume": 200
+          },
+          {
+            "name": "premiere pro mcp",
+            "volume": 2270
+          },
+          {
+            "name": "adobe premiere pro mcp",
+            "volume": 730
+          },
+          {
+            "name": "premier pro mcp",
+            "volume": 460
+          },
+          {
+            "name": "클로드 프리미어프로",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:15:06.480Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-26T16:05:10Z"
+    },
+    "fetchedAt": "2026-09-30T06:18:27.459Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "daymarkai",
+            "volume": 270
+          },
+          {
+            "name": "affordable seo services in the usa for small business",
+            "volume": 10
+          },
+          {
+            "name": "affordable seo services in the newyork for small business",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:18:28.033Z"
+  }
+}

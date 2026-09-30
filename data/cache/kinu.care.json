@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-08T07:57:00.514Z"
+    },
+    "fetchedAt": "2026-09-30T06:16:21.254Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1393,
+        "sources": {
+          "direct": 0.3001,
+          "search": 0.287,
+          "referral": 0.20940000000000003,
+          "social": 0.0695,
+          "mail": 0.0551
+        },
+        "topKeywords": [
+          {
+            "name": "kinu",
+            "volume": 2380
+          },
+          {
+            "name": "before we forget how to connect",
+            "volume": 1320
+          },
+          {
+            "name": "birthday reminder app",
+            "volume": 480
+          },
+          {
+            "name": "birthday tracker app",
+            "volume": 460
+          },
+          {
+            "name": "gift calculator app",
+            "volume": 290
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:16:21.867Z"
+  }
+}

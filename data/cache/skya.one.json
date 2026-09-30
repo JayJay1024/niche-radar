@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-14T06:50:16Z"
+    },
+    "fetchedAt": "2026-09-30T06:14:36.679Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4261,
+        "sources": {
+          "direct": 0.6096,
+          "search": 0.0662,
+          "referral": 0.2507,
+          "social": 0.0659,
+          "mail": 0.0031
+        },
+        "topKeywords": [
+          {
+            "name": "skya one",
+            "volume": 270
+          },
+          {
+            "name": "skya",
+            "volume": 2840
+          },
+          {
+            "name": "skya sec",
+            "volume": 260
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:14:37.064Z"
+  }
+}

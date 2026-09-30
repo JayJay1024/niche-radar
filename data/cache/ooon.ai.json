@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-05T21:27:41.767Z"
+    },
+    "fetchedAt": "2026-09-30T06:12:14.544Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 24836,
+        "sources": {
+          "direct": 0.8028,
+          "search": 0.0302,
+          "referral": 0.0186,
+          "social": 0.1422,
+          "mail": 0.0061
+        },
+        "topKeywords": [
+          {
+            "name": "hanbiotech цена в казахстане",
+            "volume": 90
+          },
+          {
+            "name": "tabboo tattoo studio",
+            "volume": 580
+          },
+          {
+            "name": "трихолог",
+            "volume": 1790
+          },
+          {
+            "name": "эксперт парикмахерская",
+            "volume": 1120
+          },
+          {
+            "name": "саркамыс школа бин",
+            "volume": 730
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:12:14.941Z"
+  }
+}

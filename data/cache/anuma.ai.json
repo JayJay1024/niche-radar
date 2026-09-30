@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-21T21:28:33.396Z"
+    },
+    "fetchedAt": "2026-09-30T06:18:38.829Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 70614,
+        "sources": {
+          "direct": 0.5579,
+          "search": 0.2205,
+          "referral": 0.1481,
+          "social": 0.0588,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "anuma",
+            "volume": 840
+          },
+          {
+            "name": "anuma ai",
+            "volume": 840
+          },
+          {
+            "name": "google gemini",
+            "volume": 8692630
+          },
+          {
+            "name": "pollo ai",
+            "volume": 128560
+          },
+          {
+            "name": "amuna ai",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:18:39.406Z"
+  }
+}

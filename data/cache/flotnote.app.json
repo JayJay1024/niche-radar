@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-19T01:37:32.783Z"
+    },
+    "fetchedAt": "2026-09-30T06:12:53.643Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "floatnot",
+            "volume": 190
+          },
+          {
+            "name": "floating notes app mac",
+            "volume": 150
+          },
+          {
+            "name": "floting notes mac",
+            "volume": 430
+          },
+          {
+            "name": "floting notes on desktop mac",
+            "volume": 430
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:12:54.017Z"
+  }
+}

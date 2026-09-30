@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-27T14:14:56.000Z"
+    },
+    "fetchedAt": "2026-09-30T06:18:59.692Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 30643,
+        "sources": {
+          "direct": 0.7979,
+          "search": 0.0174,
+          "referral": 0.1124,
+          "social": 0.033,
+          "mail": 0.0143
+        },
+        "topKeywords": [
+          {
+            "name": "authenticator by stefan",
+            "volume": 50
+          },
+          {
+            "name": "authenticator",
+            "volume": 262910
+          },
+          {
+            "name": "gauthenticator",
+            "volume": 13310
+          },
+          {
+            "name": "authenticator extension",
+            "volume": 9350
+          },
+          {
+            "name": "authenticator chrome extension",
+            "volume": 2230
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:19:00.240Z"
+  }
+}

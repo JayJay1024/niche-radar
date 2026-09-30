@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-28T06:43:56.000Z"
+    },
+    "fetchedAt": "2026-09-30T06:13:55.992Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "rowform",
+            "volume": 110
+          },
+          {
+            "name": "five stars on a scale typically",
+            "volume": 1200
+          },
+          {
+            "name": "free form builder | create online forms for free",
+            "volume": 470
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-09-30T06:13:56.337Z"
+  }
+}
