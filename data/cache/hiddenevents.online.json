@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-19T10:15:26.030Z"
+    },
+    "fetchedAt": "2026-10-01T06:47:57.457Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "luma events",
+            "volume": 20190
+          },
+          {
+            "name": "luma sf events",
+            "volume": 420
+          },
+          {
+            "name": "luma ai events",
+            "volume": 180
+          },
+          {
+            "name": "solutions for seattle",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-01T06:47:57.773Z"
+  }
+}

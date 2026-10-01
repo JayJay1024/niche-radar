@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-18T11:00:36.878Z"
+    },
+    "fetchedAt": "2026-10-01T06:50:08.208Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 12,
+        "sources": {
+          "direct": 0.3439,
+          "search": 0.3286,
+          "referral": 0.21600000000000003,
+          "social": 0.059,
+          "mail": 0.0173
+        },
+        "topKeywords": [
+          {
+            "name": "flint mobile",
+            "volume": 130
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-01T06:50:08.673Z"
+  }
+}

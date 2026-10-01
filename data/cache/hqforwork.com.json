@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-16T18:28:53Z"
+    },
+    "fetchedAt": "2026-10-01T06:47:18.226Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 20069,
+        "sources": {
+          "direct": 0.4749,
+          "search": 0.0821,
+          "referral": 0,
+          "social": 0.443,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "hq ai",
+            "volume": 2840
+          },
+          {
+            "name": "hqforwork",
+            "volume": 1150
+          },
+          {
+            "name": "indigo hq",
+            "volume": 520
+          },
+          {
+            "name": "hq tool claude",
+            "volume": 200
+          },
+          {
+            "name": "hq ai tool",
+            "volume": 170
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-01T06:47:18.524Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-05T20:14:03.000Z"
+    },
+    "fetchedAt": "2026-10-01T06:41:53.697Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 22522,
+        "sources": {
+          "direct": 0.6662,
+          "search": 0.0802,
+          "referral": 0.0798,
+          "social": 0.1489,
+          "mail": 0.0085
+        },
+        "topKeywords": [
+          {
+            "name": "openship",
+            "volume": 16610
+          },
+          {
+            "name": "openship.io env variables",
+            "volume": 0
+          },
+          {
+            "name": "openship io",
+            "volume": 460
+          },
+          {
+            "name": "openship.io",
+            "volume": 150
+          },
+          {
+            "name": "openship project env set",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-01T06:41:53.994Z"
+  }
+}

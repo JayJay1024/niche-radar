@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-07T13:15:34.344Z"
+    },
+    "fetchedAt": "2026-10-01T06:45:52.727Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7141,
+        "sources": {
+          "direct": 0.2831,
+          "search": 0.2874,
+          "referral": 0.2233,
+          "social": 0.0685,
+          "mail": 0.0517
+        },
+        "topKeywords": [
+          {
+            "name": "mcp 프레디",
+            "volume": 130
+          },
+          {
+            "name": "freddy mcp",
+            "volume": 160
+          },
+          {
+            "name": "freddy health",
+            "volume": 40
+          },
+          {
+            "name": "function health vs superpower",
+            "volume": 750
+          },
+          {
+            "name": "runalyze",
+            "volume": 4970
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-01T06:45:53.256Z"
+  }
+}
