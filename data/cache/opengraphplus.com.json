@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-17T16:52:01Z"
+    },
+    "fetchedAt": "2026-10-02T06:34:27.848Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7193,
+        "sources": {
+          "direct": 0.3943,
+          "search": 0.3374,
+          "referral": 0.1338,
+          "social": 0.0645,
+          "mail": 0.0316
+        },
+        "topKeywords": [
+          {
+            "name": "preview link tiktok",
+            "volume": 460
+          },
+          {
+            "name": "instagram visulize link preview discord",
+            "volume": 170
+          },
+          {
+            "name": "discord post picture size",
+            "volume": 170
+          },
+          {
+            "name": "open graph image size twitteer",
+            "volume": 130
+          },
+          {
+            "name": "open graph image size twitter",
+            "volume": 250
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-02T06:34:28.378Z"
+  }
+}

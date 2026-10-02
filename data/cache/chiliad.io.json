@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-21T20:36:55.000Z"
+    },
+    "fetchedAt": "2026-10-02T06:32:00.817Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2206,
+        "sources": {
+          "direct": 0.2926,
+          "search": 0.2829,
+          "referral": 0.2175,
+          "social": 0.0694,
+          "mail": 0.0542
+        },
+        "topKeywords": [
+          {
+            "name": "chiliad",
+            "volume": 1030
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-02T06:32:01.183Z"
+  }
+}

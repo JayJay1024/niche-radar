@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-18T15:42:15.767Z"
+    },
+    "fetchedAt": "2026-10-02T06:33:46.015Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 145,
+        "sources": {
+          "direct": 0.3537,
+          "search": 0.3344,
+          "referral": 0.1603,
+          "social": 0.0657,
+          "mail": 0.0413
+        },
+        "topKeywords": [
+          {
+            "name": "bhoomisetu",
+            "volume": 270
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-02T06:33:46.365Z"
+  }
+}

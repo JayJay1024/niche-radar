@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-26T05:23:37Z"
+    },
+    "fetchedAt": "2026-10-02T06:35:25.986Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1207,
+        "sources": {
+          "direct": 0.3527,
+          "search": 0.3364,
+          "referral": 0.1616,
+          "social": 0.0645,
+          "mail": 0.0414
+        },
+        "topKeywords": [
+          {
+            "name": "formspree",
+            "volume": 90330
+          },
+          {
+            "name": "job application form",
+            "volume": 7690
+          },
+          {
+            "name": "feedback form",
+            "volume": 5580
+          },
+          {
+            "name": "rsvp form",
+            "volume": 1220
+          },
+          {
+            "name": "google from create",
+            "volume": 1020
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-02T06:35:26.674Z"
+  }
+}

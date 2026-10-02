@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-15T23:38:04.0Z"
+    },
+    "fetchedAt": "2026-10-02T06:28:21.227Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1511,
+        "sources": {
+          "direct": 0.3197,
+          "search": 0.2938,
+          "referral": 0.2022,
+          "social": 0.0672,
+          "mail": 0.0497
+        },
+        "topKeywords": [
+          {
+            "name": "rate your music",
+            "volume": 58710
+          },
+          {
+            "name": "rateyourmusic",
+            "volume": 51830
+          },
+          {
+            "name": "rate my music",
+            "volume": 5500
+          },
+          {
+            "name": "ratemymusic",
+            "volume": 3850
+          },
+          {
+            "name": "tv girl albums",
+            "volume": 2720
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-02T06:28:21.617Z"
+  }
+}
