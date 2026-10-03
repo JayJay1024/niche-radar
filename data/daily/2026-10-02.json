@@ -1,0 +1,577 @@
+{
+  "date": "2026-10-02",
+  "funnel": {
+    "total": 42,
+    "resolved": 23,
+    "newDomains": 13,
+    "hasTraffic": 13,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "Gauth Unlimited Digital Canvas ",
+      "tagline": "An AI tutor on an infinite whiteboard, not a chat thread",
+      "votes": 462,
+      "phUrl": "https://www.producthunt.com/products/gauth-ai-course?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.gauth.com/course/science",
+      "domain": "gauth.com",
+      "registeredAt": "1999-12-13T20:37:04Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Veltrix AI for E-commerce",
+      "tagline": "Find how your e-commerce business could earn more",
+      "votes": 274,
+      "phUrl": "https://www.producthunt.com/products/veltrix-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://veltrix.com/free-business-check",
+      "domain": "veltrix.com",
+      "registeredAt": "2018-09-22T23:13:38Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Teachoo",
+      "tagline": "AI that helps you learn anything and everything.",
+      "votes": 239,
+      "phUrl": "https://www.producthunt.com/products/teachoo-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Famulor",
+      "tagline": "Your agent to answer calls and follow ups on WhatsApp",
+      "votes": 213,
+      "phUrl": "https://www.producthunt.com/products/famulor-telephony-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Mintlify Desktop",
+      "tagline": "An AI-native app for writing documentation and knowledge",
+      "votes": 158,
+      "phUrl": "https://www.producthunt.com/products/mintlify?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "ShipHQ",
+      "tagline": "Build your own app studio, powered by your real apps",
+      "votes": 152,
+      "phUrl": "https://www.producthunt.com/products/shiphq?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Eleven v4 and Eleven v4 Turbo",
+      "tagline": "Elevenlabs' fastest and most emotive voice models yet",
+      "votes": 150,
+      "phUrl": "https://www.producthunt.com/products/eleven-v4-and-eleven-v4-turbo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Bambu Lab R1",
+      "tagline": "CO2 laser cutting with Bambu-style automation",
+      "votes": 130,
+      "phUrl": "https://www.producthunt.com/products/bambu-lab-r1?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://bambulab.com/en-us/r1",
+      "domain": "bambulab.com",
+      "registeredAt": "2019-03-06T19:00:13Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Clef",
+      "tagline": "Open-source decision models from Cloudflare",
+      "votes": 120,
+      "phUrl": "https://www.producthunt.com/products/cloudflare-clef?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "domain": "cloudflare.com",
+      "registeredAt": "2009-02-17T22:07:54Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Open Inspector",
+      "tagline": "Hover any website, get its design system. Open-source. Free.",
+      "votes": 118,
+      "phUrl": "https://www.producthunt.com/products/open-inspector?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Syllaby AI Avatar 2.0",
+      "tagline": "Create Your Own Avatar In Seconds",
+      "votes": 111,
+      "phUrl": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://syllaby.io/features/avatars-2-0/",
+      "domain": "syllaby.io",
+      "registeredAt": "2020-06-25T20:00:32.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Anthroposcaper",
+      "tagline": "Tag a 2D plan, get a 3D urban environment model",
+      "votes": 104,
+      "phUrl": "https://www.producthunt.com/products/anthroposcaper?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://anthroposcaper.ru/en/",
+      "domain": "anthroposcaper.ru",
+      "registeredAt": "2026-07-01T18:34:46.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "JarvisCore",
+      "tagline": "Build agents as peers in a mesh network with zero-trust",
+      "votes": 99,
+      "phUrl": "https://www.producthunt.com/products/jarviscore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://jarviscore.developers.prescottdata.io/",
+      "domain": "prescottdata.io",
+      "registeredAt": "2022-10-07T12:51:53.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Communicate",
+      "tagline": "AI support agents grounded in your knowledge, with handoff",
+      "votes": 99,
+      "phUrl": "https://www.producthunt.com/products/communicate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://communicate.so/",
+      "domain": "communicate.so",
+      "registeredAt": "2026-06-29T10:02:55.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Cue by Manus",
+      "tagline": "Personal agents with identity, handling life end to end",
+      "votes": 95,
+      "phUrl": "https://www.producthunt.com/products/cue-by-manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://cue.im/",
+      "domain": "cue.im",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Codync",
+      "tagline": "The open-source alternative to Grok Bot, Muse and Dots",
+      "votes": 92,
+      "phUrl": "https://www.producthunt.com/products/codync?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Wu",
+      "tagline": "Fast, native code editor in Rust that feels like VS Code",
+      "votes": 91,
+      "phUrl": "https://www.producthunt.com/products/wu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Lloyal",
+      "tagline": "Turn open-weight models into AI apps people can download",
+      "votes": 89,
+      "phUrl": "https://www.producthunt.com/products/lloyal?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://lloyal.ai/",
+      "domain": "lloyal.ai",
+      "registeredAt": "2025-06-02T23:34:03.147Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Finbar",
+      "tagline": "Agentic investment research",
+      "votes": 87,
+      "phUrl": "https://www.producthunt.com/products/finbar-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://finbar.com/",
+      "domain": "finbar.com",
+      "registeredAt": "2000-12-16T15:42:24Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Never Boring AI",
+      "tagline": "The AI agent that writes your LinkedIn posts in your voice",
+      "votes": 84,
+      "phUrl": "https://www.producthunt.com/products/never-boring-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://neverboring.ai/en",
+      "domain": "neverboring.ai",
+      "registeredAt": "2026-08-17T13:38:28.498Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "neverboring app",
+            "volume": 80
+          },
+          {
+            "name": "neverboring",
+            "volume": 80
+          },
+          {
+            "name": "neverboreing",
+            "volume": 50
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "esigna",
+      "tagline": "A design studio for your email signature",
+      "votes": 83,
+      "phUrl": "https://www.producthunt.com/products/esigna?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://esigna.app/",
+      "domain": "esigna.app",
+      "registeredAt": "2026-06-28T22:27:16.007Z",
+      "traffic": {
+        "monthlyVisits": 545,
+        "sources": {
+          "direct": 0.3707,
+          "search": 0.3142,
+          "referral": 0.1582,
+          "social": 0.0748,
+          "mail": 0.0506
+        },
+        "topKeywords": [
+          {
+            "name": "esigna",
+            "volume": 280
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Globestudio",
+      "tagline": "Open-source dotted maps and 3D globes for designers",
+      "votes": 81,
+      "phUrl": "https://www.producthunt.com/products/globestudio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Earlyn",
+      "tagline": "Searchable memory of your screen and meetings, on your Mac",
+      "votes": 81,
+      "phUrl": "https://www.producthunt.com/products/earlyn?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.earlyn.app/",
+      "domain": "earlyn.app",
+      "registeredAt": "2026-08-30T17:06:08.447Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Moxie",
+      "tagline": "Use any AI with Claude Code, switch accounts mid-task",
+      "votes": 80,
+      "phUrl": "https://www.producthunt.com/products/moxie-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Pastily",
+      "tagline": "Your clipboard but better",
+      "votes": 79,
+      "phUrl": "https://www.producthunt.com/products/pastily?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://pastily.app/",
+      "domain": "pastily.app",
+      "registeredAt": "2026-06-30T06:22:40.603Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3402,
+          "search": 0.3621,
+          "referral": 0.1614,
+          "social": 0.065,
+          "mail": 0.0371
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "CodeAF",
+      "tagline": "Open Source Software Factory",
+      "votes": 78,
+      "phUrl": "https://www.producthunt.com/products/codeaf?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://agentfield.ai/codeaf",
+      "domain": "agentfield.ai",
+      "registeredAt": "2025-03-23T07:43:57.32Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "WeftCut",
+      "tagline": "The open-source video editor your AI agent can drive",
+      "votes": 75,
+      "phUrl": "https://www.producthunt.com/products/weftcut?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://weftcut.com/",
+      "domain": "weftcut.com",
+      "registeredAt": "2026-05-14T04:00:19Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3131,
+          "search": 0.3158,
+          "referral": 0.21189999999999998,
+          "social": 0.0621,
+          "mail": 0.0473
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "GitSync",
+      "tagline": "Sync branches between GitHub repos, right from Chrome",
+      "votes": 72,
+      "phUrl": "https://www.producthunt.com/products/gitsync?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "slash-editor",
+      "tagline": "Notion-style block editor for React. MIT, UI you own",
+      "votes": 70,
+      "phUrl": "https://www.producthunt.com/products/slash-editor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://slasheditor.dev/",
+      "domain": "slasheditor.dev",
+      "registeredAt": "2026-09-24T10:12:58.338Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Sayonic",
+      "tagline": "A voice assistant in your Mac's notch that does the task",
+      "votes": 69,
+      "phUrl": "https://www.producthunt.com/products/sayonic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://sayonic.app/",
+      "domain": "sayonic.app",
+      "registeredAt": "2026-09-26T02:44:26.880Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "WMail",
+      "tagline": "Beautifully native iPhone app for Fastmail",
+      "votes": 68,
+      "phUrl": "https://www.producthunt.com/products/wmail-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://wmail.download/",
+      "domain": "wmail.download",
+      "registeredAt": "2026-09-07T10:10:48Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Halo",
+      "tagline": "Dynamic Island for Mac, plus external monitor control",
+      "votes": 68,
+      "phUrl": "https://www.producthunt.com/products/halo-11?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Audryo",
+      "tagline": "Customer email your agent can operate.",
+      "votes": 68,
+      "phUrl": "https://www.producthunt.com/products/audryo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://audryo.com/",
+      "domain": "audryo.com",
+      "registeredAt": "2026-09-08T15:14:19Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Ranks Hawk",
+      "tagline": "Rank faster than the competitors you're spying.",
+      "votes": 43,
+      "phUrl": "https://www.producthunt.com/products/ranks-hawk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.rankshawk.com/",
+      "domain": "rankshawk.com",
+      "registeredAt": "2026-05-18T12:56:10Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.2856,
+          "search": 0.2762,
+          "referral": 0.2253,
+          "social": 0.0687,
+          "mail": 0.054
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Corda Marketing",
+      "tagline": "AI-powered authority intelligence for modern search",
+      "votes": 16,
+      "phUrl": "https://www.producthunt.com/products/corda-marketing?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://corda.marketing/",
+      "domain": "corda.marketing",
+      "registeredAt": "2026-07-30T13:21:54.081Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "MRT Announcements",
+      "tagline": "A talking Singapore MRT map for little train fans",
+      "votes": 10,
+      "phUrl": "https://www.producthunt.com/products/mrt-announcements?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "ChickyTutor",
+      "tagline": "A private language tutor that knows you better every day.",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/chickytutor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "The Bayeux Tapestry online experience",
+      "tagline": "Explore the 70-metre Tapestry online",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/the-bayeux-tapestry-online-experience?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "AI Usage Tracker",
+      "tagline": "Every AI limit. Right in your notch.",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/ai-usage-tracker?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Mahjong Logbook",
+      "tagline": "Leaderboard for Mahjong Group",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/mahjong-logbook?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Resurface",
+      "tagline": "Score any resume against any job, with quoted evidence",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/resurface-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Versivo AI",
+      "tagline": "Turn GitHub commits into customer-ready release notes",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/versivo-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    }
+  ]
+}

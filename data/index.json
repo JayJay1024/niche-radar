@@ -158,5 +158,10 @@
     "date": "2026-10-01",
     "total": 74,
     "qualified": 1
+  },
+  {
+    "date": "2026-10-02",
+    "total": 42,
+    "qualified": 0
   }
 ]

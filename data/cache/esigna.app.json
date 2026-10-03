@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-28T22:27:16.007Z"
+    },
+    "fetchedAt": "2026-10-03T05:57:30.050Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 545,
+        "sources": {
+          "direct": 0.3707,
+          "search": 0.3142,
+          "referral": 0.1582,
+          "social": 0.0748,
+          "mail": 0.0506
+        },
+        "topKeywords": [
+          {
+            "name": "esigna",
+            "volume": 280
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-03T05:57:30.406Z"
+  }
+}
