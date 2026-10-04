@@ -1,0 +1,768 @@
+{
+  "date": "2026-10-03",
+  "funnel": {
+    "total": 40,
+    "resolved": 31,
+    "newDomains": 25,
+    "hasTraffic": 25,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "ZooWork",
+      "tagline": "The AI agent delivery platform for FDEs and domain experts",
+      "votes": 316,
+      "phUrl": "https://www.producthunt.com/products/zoowork?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://zoowork.ai/",
+      "domain": "zoowork.ai",
+      "registeredAt": "2026-06-10T15:41:47.057Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "miso.com",
+      "tagline": "Book flights and hotels through iMessage",
+      "votes": 266,
+      "phUrl": "https://www.producthunt.com/products/miso-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://miso.com/",
+      "domain": "miso.com",
+      "registeredAt": "1996-07-20T04:00:00Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Prefer",
+      "tagline": "The execution layer for AEO",
+      "votes": 183,
+      "phUrl": "https://www.producthunt.com/products/prefer-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://tryprefer.com/",
+      "domain": "tryprefer.com",
+      "registeredAt": "2026-08-04T05:40:33Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "try prefer",
+            "volume": 30
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Muse Gadgets",
+      "tagline": "Meta's open-source kit for building your own AI gadgets",
+      "votes": 169,
+      "phUrl": "https://www.producthunt.com/products/muse-22?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://gadgets.muse.ai/",
+      "domain": "muse.ai",
+      "registeredAt": "2017-12-15T22:53:56Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Kindle 2026",
+      "tagline": "A smaller, faster Kindle with a flush-front display",
+      "votes": 149,
+      "phUrl": "https://www.producthunt.com/products/kindle-2026?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.amazon.com/kindle/",
+      "domain": "amazon.com",
+      "registeredAt": "1994-11-01T05:00:00Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Cubicle",
+      "tagline": "A live office for your AI agents, read-only by design",
+      "votes": 115,
+      "phUrl": "https://www.producthunt.com/products/cubicle-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "FoundrRadio",
+      "tagline": "Pick a frequency, launch your radio station and go on air",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/foundrradio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://foundrradio.live/",
+      "domain": "foundrradio.live",
+      "registeredAt": "2026-10-01T18:27:29.84Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "SCMD ",
+      "tagline": "Manage what Claude Remembers and Keeps as Memory.",
+      "votes": 89,
+      "phUrl": "https://www.producthunt.com/products/scmd?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "FeelMyMac",
+      "tagline": "Lets you feel different textures through your Mac’s trackpad",
+      "votes": 85,
+      "phUrl": "https://www.producthunt.com/products/feelmymac?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://feelmymac.thehighjack.it/",
+      "domain": "thehighjack.it",
+      "registeredAt": "2026-05-01T13:24:36.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Notchware",
+      "tagline": "Music and AI agent alerts in your MacBook notch",
+      "votes": 81,
+      "phUrl": "https://www.producthunt.com/products/notchware?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://ballmac.com/notchware",
+      "domain": "ballmac.com",
+      "registeredAt": "2026-09-25T13:38:53Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "MacCam",
+      "tagline": "The camera app Apple never shipped for the Mac",
+      "votes": 79,
+      "phUrl": "https://www.producthunt.com/products/maccam?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://maccam.app/",
+      "domain": "maccam.app",
+      "registeredAt": "2026-09-22T23:18:52.957Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "WattMate",
+      "tagline": "Which app is draining your Mac, in watts and minutes saved",
+      "votes": 79,
+      "phUrl": "https://www.producthunt.com/products/wattmate?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://wattmateapp.com/",
+      "domain": "wattmateapp.com",
+      "registeredAt": "2026-08-10T09:50:54Z",
+      "traffic": {
+        "monthlyVisits": 1302,
+        "sources": {
+          "direct": 0.2976,
+          "search": 0.3173,
+          "referral": 0.20479999999999998,
+          "social": 0.0703,
+          "mail": 0.0424
+        },
+        "topKeywords": [
+          {
+            "name": "charging on hold macbook",
+            "volume": 580
+          },
+          {
+            "name": "aldente alternative",
+            "volume": 210
+          },
+          {
+            "name": "why does my mac charge on hold",
+            "volume": 210
+          },
+          {
+            "name": "app to contorl mac book battery",
+            "volume": 150
+          },
+          {
+            "name": "my mac charging is on hold",
+            "volume": 20
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "una mano",
+      "tagline": "A familiar iPhone keyboard that moves to your thumb",
+      "votes": 78,
+      "phUrl": "https://www.producthunt.com/products/una-mano?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://unamanokeyboard.com/",
+      "domain": "unamanokeyboard.com",
+      "registeredAt": "2026-09-10T15:00:33Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "eu/jev",
+      "tagline": "The first Jev-like model hosted in the EU",
+      "votes": 77,
+      "phUrl": "https://www.producthunt.com/products/bevel-software?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://eu-jev.com/",
+      "domain": "eu-jev.com",
+      "registeredAt": "2026-10-01T09:31:48Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Deskcord.chat",
+      "tagline": "A widget to chat with customers from your Discord server",
+      "votes": 73,
+      "phUrl": "https://www.producthunt.com/products/deskcord-chat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://deskcord.chat/",
+      "domain": "deskcord.chat",
+      "registeredAt": "2025-01-28T09:20:08.232Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "bmux",
+      "tagline": "Browser multiplexer for the agentic era",
+      "votes": 72,
+      "phUrl": "https://www.producthunt.com/products/bmux?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://bmux.cc/",
+      "domain": "bmux.cc",
+      "registeredAt": "2026-09-19T07:21:58Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Crowny! ",
+      "tagline": "Claude Code, Codex, music, your day & 20+ apps in your notch",
+      "votes": 71,
+      "phUrl": "https://www.producthunt.com/products/crowny-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.crowny.lol/",
+      "domain": "crowny.lol",
+      "registeredAt": "2026-09-26T21:15:34.0Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Agent Activity",
+      "tagline": "See what your AI agents do behind",
+      "votes": 71,
+      "phUrl": "https://www.producthunt.com/products/agent-activity?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://le-max-app.com/apps/agent-activity/",
+      "domain": "le-max-app.com",
+      "registeredAt": "2026-02-08T22:10:43Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "bawkterm",
+      "tagline": "A desktop client for SSH, SFTP, Docker over SSH",
+      "votes": 66,
+      "phUrl": "https://www.producthunt.com/products/bawkterm-an-open-source-ssh-sftp-client?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Kilo",
+      "tagline": "Your agentic fitness coach in iMessage",
+      "votes": 66,
+      "phUrl": "https://www.producthunt.com/products/kilo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://textkilo.com/",
+      "domain": "textkilo.com",
+      "registeredAt": "2026-08-05T01:28:27Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Kilo",
+      "tagline": "Your agentic fitness coach in iMessage",
+      "votes": 66,
+      "phUrl": "https://www.producthunt.com/products/kilo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://textkilo.com/",
+      "domain": "textkilo.com",
+      "registeredAt": "2026-08-05T01:28:27Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Singularity",
+      "tagline": "Run AI coding agents in parallel, one ticket at a time",
+      "votes": 66,
+      "phUrl": "https://www.producthunt.com/products/singularity-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://singularity.meteorfactory.dev/",
+      "domain": "meteorfactory.dev",
+      "registeredAt": "2026-03-23T21:12:18.706Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Reassign",
+      "tagline": "Your day, shaped into a story. The planner for makers",
+      "votes": 66,
+      "phUrl": "https://www.producthunt.com/products/reassign?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Thanor AI",
+      "tagline": "Make your AI-built sites look expensive and not like slop",
+      "votes": 65,
+      "phUrl": "https://www.producthunt.com/products/thanor-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Yubi",
+      "tagline": "Talk to your Mac and let Yubi do the typing",
+      "votes": 64,
+      "phUrl": "https://www.producthunt.com/products/yubi-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Sapien",
+      "tagline": "AI market research with synthetic populations",
+      "votes": 64,
+      "phUrl": "https://www.producthunt.com/products/sapien-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Snail Walk",
+      "tagline": "Keep walking or Bob (the snail) is gonna get ya! 🐌",
+      "votes": 32,
+      "phUrl": "https://www.producthunt.com/products/snail-walk?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Botscope",
+      "tagline": "See every bot and AI agent. Then decide who gets in.",
+      "votes": 25,
+      "phUrl": "https://www.producthunt.com/products/botscope-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://botscope.io/",
+      "domain": "botscope.io",
+      "registeredAt": "2026-06-04T20:52:01.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "BeanRitual",
+      "tagline": "AI assistant that helps you dial in your best espresso shot",
+      "votes": 19,
+      "phUrl": "https://www.producthunt.com/products/beanritual?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://coffee.saylib.com/",
+      "domain": "saylib.com",
+      "registeredAt": "2023-08-14T11:59:54Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Launchy Widget",
+      "tagline": "Add quick, custom widgets to your Android home screen",
+      "votes": 11,
+      "phUrl": "https://www.producthunt.com/products/launchy-widget?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://launchywidget.com/",
+      "domain": "launchywidget.com",
+      "registeredAt": "2024-09-14T08:10:52Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "zinbox",
+      "tagline": "All your Gmail accounts. One native Mac app.",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/zinbox?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.zinbox.email/",
+      "domain": "zinbox.email",
+      "registeredAt": "2026-09-23T13:40:04.117Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "appsonbid.com",
+      "tagline": "Zero-commission marketplace to buy & sell apps",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/appsonbid?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.appsonbid.com/",
+      "domain": "appsonbid.com",
+      "registeredAt": "2026-08-28T07:19:25Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "MadeToPost",
+      "tagline": "Create social media creatives for your app in seconds",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/madetopost?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://madetopost.app/",
+      "domain": "madetopost.app",
+      "registeredAt": "2026-08-16T10:54:06.415Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Growth Audit by Business Mechanics ",
+      "tagline": "Find What's Blocking Your Business Growth in Minutes ",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/growth-audit-by-business-mechanics?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "MadeLaunch",
+      "tagline": "Launch what you built and get seen by early adopters",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/madelaunch?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://madelaunch.com/",
+      "domain": "madelaunch.com",
+      "registeredAt": "2025-12-28T01:58:31Z",
+      "traffic": {
+        "monthlyVisits": 2118,
+        "sources": {
+          "direct": 0.3829,
+          "search": 0.3594,
+          "referral": 0.12539999999999998,
+          "social": 0.0607,
+          "mail": 0.0316
+        },
+        "topKeywords": [
+          {
+            "name": "seedance 2.5",
+            "volume": 833370
+          },
+          {
+            "name": "shipfast",
+            "volume": 13140
+          },
+          {
+            "name": "interviewman",
+            "volume": 5660
+          },
+          {
+            "name": "seed audio",
+            "volume": 4320
+          },
+          {
+            "name": "paperbanana",
+            "volume": 1860
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Delulu",
+      "tagline": "How delusional is your goal? Get the math, not vibes",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/delulu?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://isitdelulu.app/",
+      "domain": "isitdelulu.app",
+      "registeredAt": "2026-09-26T20:15:45.294Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Buddy by VXBE",
+      "tagline": "The personal AI that does work over iMessage and email",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/buddy-by-vxbe?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://vxbe.space/",
+      "domain": "vxbe.space",
+      "registeredAt": "2026-01-01T03:58:23.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "GTA 6 Cover Art Generator by MockupTown",
+      "tagline": "Turn your own photos into a GTA VI style collage!",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/gta-6-cover-art-generator-by-mockuptown?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://mockuptown.com/gta6-cover-generator/",
+      "domain": "mockuptown.com",
+      "registeredAt": "2026-08-01T04:38:56Z",
+      "traffic": {
+        "monthlyVisits": 728,
+        "sources": {
+          "direct": 0.3172,
+          "search": 0.2872,
+          "referral": 0.19890000000000002,
+          "social": 0.0712,
+          "mail": 0.0555
+        },
+        "topKeywords": [
+          {
+            "name": "spotify mockup generator",
+            "volume": 400
+          },
+          {
+            "name": "spotify now playing image generator",
+            "volume": 50
+          },
+          {
+            "name": "tinder mockup",
+            "volume": 460
+          },
+          {
+            "name": "tinder profile maker -ai",
+            "volume": 370
+          },
+          {
+            "name": "card avaliação do google mockup",
+            "volume": 220
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Forecall",
+      "tagline": "Lint your MCP tool descriptions before AI agents call them",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/forecall?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://forecall.dev/en/",
+      "domain": "forecall.dev",
+      "registeredAt": "2026-09-29T21:54:32.938Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "BeMyLink",
+      "tagline": "Your screenshots come alive with Ai",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/bemylink?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.bemylink.ai/",
+      "domain": "bemylink.ai",
+      "registeredAt": "2025-10-08T08:56:34.156Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    }
+  ]
+}

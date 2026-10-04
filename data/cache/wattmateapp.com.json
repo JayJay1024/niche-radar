@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-10T09:50:54Z"
+    },
+    "fetchedAt": "2026-10-04T06:32:12.540Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1302,
+        "sources": {
+          "direct": 0.2976,
+          "search": 0.3173,
+          "referral": 0.20479999999999998,
+          "social": 0.0703,
+          "mail": 0.0424
+        },
+        "topKeywords": [
+          {
+            "name": "charging on hold macbook",
+            "volume": 580
+          },
+          {
+            "name": "aldente alternative",
+            "volume": 210
+          },
+          {
+            "name": "why does my mac charge on hold",
+            "volume": 210
+          },
+          {
+            "name": "app to contorl mac book battery",
+            "volume": 150
+          },
+          {
+            "name": "my mac charging is on hold",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-04T06:32:12.914Z"
+  }
+}

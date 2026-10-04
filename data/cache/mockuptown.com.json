@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-01T04:38:56Z"
+    },
+    "fetchedAt": "2026-10-04T06:36:45.865Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 728,
+        "sources": {
+          "direct": 0.3172,
+          "search": 0.2872,
+          "referral": 0.19890000000000002,
+          "social": 0.0712,
+          "mail": 0.0555
+        },
+        "topKeywords": [
+          {
+            "name": "spotify mockup generator",
+            "volume": 400
+          },
+          {
+            "name": "spotify now playing image generator",
+            "volume": 50
+          },
+          {
+            "name": "tinder mockup",
+            "volume": 460
+          },
+          {
+            "name": "tinder profile maker -ai",
+            "volume": 370
+          },
+          {
+            "name": "card avaliação do google mockup",
+            "volume": 220
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-04T06:36:46.287Z"
+  }
+}

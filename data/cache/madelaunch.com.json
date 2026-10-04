@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-28T01:58:31Z"
+    },
+    "fetchedAt": "2026-10-04T06:36:21.133Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2118,
+        "sources": {
+          "direct": 0.3829,
+          "search": 0.3594,
+          "referral": 0.12539999999999998,
+          "social": 0.0607,
+          "mail": 0.0316
+        },
+        "topKeywords": [
+          {
+            "name": "seedance 2.5",
+            "volume": 833370
+          },
+          {
+            "name": "shipfast",
+            "volume": 13140
+          },
+          {
+            "name": "interviewman",
+            "volume": 5660
+          },
+          {
+            "name": "seed audio",
+            "volume": 4320
+          },
+          {
+            "name": "paperbanana",
+            "volume": 1860
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-04T06:36:21.493Z"
+  }
+}
