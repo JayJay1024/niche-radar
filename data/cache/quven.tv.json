@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-27T15:48:40Z"
+    },
+    "fetchedAt": "2026-10-05T06:28:35.035Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "quven",
+            "volume": 460
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:28:35.571Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-20T22:42:49.816Z"
+    },
+    "fetchedAt": "2026-10-05T06:24:47.478Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5342,
+        "sources": {
+          "direct": 0.3464,
+          "search": 0.2269,
+          "referral": 0.1562,
+          "social": 0.2209,
+          "mail": 0.0209
+        },
+        "topKeywords": [
+          {
+            "name": "blume markdown",
+            "volume": 290
+          },
+          {
+            "name": "blume docs",
+            "volume": 340
+          },
+          {
+            "name": "blume documentation",
+            "volume": 110
+          },
+          {
+            "name": "blume get started",
+            "volume": 50
+          },
+          {
+            "name": "blume",
+            "volume": 31930
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:24:47.808Z"
+  }
+}

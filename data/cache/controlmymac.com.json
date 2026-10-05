@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-07T15:47:49Z"
+    },
+    "fetchedAt": "2026-10-05T06:29:35.945Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 249,
+        "sources": {
+          "direct": 0.3618,
+          "search": 0.3775,
+          "referral": 0.13440000000000002,
+          "social": 0.0683,
+          "mail": 0.0256
+        },
+        "topKeywords": [
+          {
+            "name": "link my mac",
+            "volume": 1020
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:29:36.239Z"
+  }
+}

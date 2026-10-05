@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-11T12:17:26Z"
+    },
+    "fetchedAt": "2026-10-05T06:30:50.148Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1198,
+        "sources": {
+          "direct": 0.3218,
+          "search": 0.298,
+          "referral": 0.1982,
+          "social": 0.0658,
+          "mail": 0.0435
+        },
+        "topKeywords": [
+          {
+            "name": "outlook mac app how to export",
+            "volume": 110
+          },
+          {
+            "name": "does mailstore home work on a mac",
+            "volume": 570
+          },
+          {
+            "name": "archiving emails free up space in storage",
+            "volume": 420
+          },
+          {
+            "name": "how to prevent deleting emails from the server",
+            "volume": 350
+          },
+          {
+            "name": "what happens if i delete gemail as a service",
+            "volume": 290
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:30:50.501Z"
+  }
+}

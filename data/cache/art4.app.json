@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-17T17:09:41.299Z"
+    },
+    "fetchedAt": "2026-10-05T06:27:22.656Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1518,
+        "sources": {
+          "direct": 0.3316,
+          "search": 0.2927,
+          "referral": 0.20329999999999998,
+          "social": 0.0657,
+          "mail": 0.0431
+        },
+        "topKeywords": [
+          {
+            "name": "art4",
+            "volume": 1330
+          },
+          {
+            "name": "what is the home screen and lock screen wallpaper dimensions macbook m2 chip 13 inch",
+            "volume": 620
+          },
+          {
+            "name": "how to make a new background of mac second tab",
+            "volume": 580
+          },
+          {
+            "name": "macbook 13 inch background resolution size",
+            "volume": 470
+          },
+          {
+            "name": "size wallpaper macbook air m3",
+            "volume": 340
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:27:23.005Z"
+  }
+}

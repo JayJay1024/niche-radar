@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-26T09:54:27.811Z"
+    },
+    "fetchedAt": "2026-10-05T06:26:15.554Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "sellio",
+            "volume": 750
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:26:16.121Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-27T08:30:50.892Z"
+    },
+    "fetchedAt": "2026-10-05T06:26:39.884Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.2729,
+          "search": 0.3162,
+          "referral": 0.221,
+          "social": 0.0764,
+          "mail": 0.0464
+        },
+        "topKeywords": [
+          {
+            "name": "tiny folder mac app",
+            "volume": 120
+          },
+          {
+            "name": "tiny folder",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:26:40.232Z"
+  }
+}

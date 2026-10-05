@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-26T20:56:44.000Z"
+    },
+    "fetchedAt": "2026-10-05T06:27:31.687Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2595,
+        "sources": {
+          "direct": 0.3453,
+          "search": 0.3126,
+          "referral": 0.1885,
+          "social": 0.0588,
+          "mail": 0.0311
+        },
+        "topKeywords": [
+          {
+            "name": "trockenbauwand doppelt beplankt kosten pro m2",
+            "volume": 210
+          },
+          {
+            "name": "rigips preis pro m2",
+            "volume": 540
+          },
+          {
+            "name": "handwerker hagelschaden was ist besser kostenovranschlag oder angebot des handwerkers",
+            "volume": 420
+          },
+          {
+            "name": "trockenbauwand 303 x 276 mit schiebetür kosten",
+            "volume": 1010
+          },
+          {
+            "name": "bad rechnung schjreibweise",
+            "volume": 450
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-05T06:27:32.009Z"
+  }
+}
