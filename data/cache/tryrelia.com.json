@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-26T10:08:08Z"
+    },
+    "fetchedAt": "2026-10-06T07:07:41.185Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1058,
+        "sources": {
+          "direct": 0.3812,
+          "search": 0.3797,
+          "referral": 0.1129,
+          "social": 0.0603,
+          "mail": 0.0288
+        },
+        "topKeywords": [
+          {
+            "name": "relia",
+            "volume": 1780
+          },
+          {
+            "name": "relia ]",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-06T07:07:41.541Z"
+  }
+}

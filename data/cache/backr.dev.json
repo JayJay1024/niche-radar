@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-14T18:13:33.213Z"
+    },
+    "fetchedAt": "2026-10-06T07:07:05.148Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "backr",
+            "volume": 1130
+          },
+          {
+            "name": "беклинк анализктор",
+            "volume": 300
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-06T07:07:05.446Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-02T09:17:18.81Z"
+    },
+    "fetchedAt": "2026-10-06T07:03:36.905Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "pilots 5",
+            "volume": 360
+          },
+          {
+            "name": "best model to ask for architecture decisions",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-06T07:03:37.218Z"
+  }
+}
