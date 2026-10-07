@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-28T01:30:12.604Z"
+    },
+    "fetchedAt": "2026-10-07T06:44:31.531Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2070,
+        "sources": {
+          "direct": 0.2982,
+          "search": 0.278,
+          "referral": 0.215,
+          "social": 0.0686,
+          "mail": 0.0547
+        },
+        "topKeywords": [
+          {
+            "name": "gawk",
+            "volume": 7310
+          },
+          {
+            "name": "gawkbot",
+            "volume": 1050
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:44:31.908Z"
+  }
+}

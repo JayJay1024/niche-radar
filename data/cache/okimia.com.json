@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-15T14:43:43Z"
+    },
+    "fetchedAt": "2026-10-07T06:51:09.399Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 16774,
+        "sources": {
+          "direct": 0.6049,
+          "search": 0.1957,
+          "referral": 0.0962,
+          "social": 0.0349,
+          "mail": 0.0175
+        },
+        "topKeywords": [
+          {
+            "name": "fygr",
+            "volume": 1110
+          },
+          {
+            "name": "okimia",
+            "volume": 1100
+          },
+          {
+            "name": "agicap",
+            "volume": 11330
+          },
+          {
+            "name": "les conventions visées à l'article l. 227-10 du code de commerce,",
+            "volume": 60
+          },
+          {
+            "name": "filtre aonus",
+            "volume": 110
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:51:09.912Z"
+  }
+}

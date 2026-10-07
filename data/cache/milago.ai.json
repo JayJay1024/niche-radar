@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-19T18:21:15.164Z"
+    },
+    "fetchedAt": "2026-10-07T06:52:17.008Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1040,
+        "sources": {
+          "direct": 0.3548,
+          "search": 0.3365,
+          "referral": 0.1592,
+          "social": 0.0655,
+          "mail": 0.0403
+        },
+        "topKeywords": [
+          {
+            "name": "granola alternative for window",
+            "volume": 60
+          },
+          {
+            "name": "mial.go",
+            "volume": 550
+          },
+          {
+            "name": "granola software for win 10",
+            "volume": 530
+          },
+          {
+            "name": "milogo",
+            "volume": 420
+          },
+          {
+            "name": "does granola work on pc",
+            "volume": 40
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:52:17.586Z"
+  }
+}

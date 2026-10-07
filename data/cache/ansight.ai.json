@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-28T06:15:44.663Z"
+    },
+    "fetchedAt": "2026-10-07T06:48:30.614Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 71,
+        "sources": {
+          "direct": 0.3781,
+          "search": 0.3263,
+          "referral": 0.1695,
+          "social": 0.0657,
+          "mail": 0.0316
+        },
+        "topKeywords": [
+          {
+            "name": "ansight",
+            "volume": 90
+          },
+          {
+            "name": ".net maui label setbinding layoutbounds",
+            "volume": 440
+          },
+          {
+            "name": "app_settings: 7.0.0",
+            "volume": 60
+          },
+          {
+            "name": "android_intent_plus",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:48:30.943Z"
+  }
+}

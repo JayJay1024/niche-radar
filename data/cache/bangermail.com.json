@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-25T21:04:31Z"
+    },
+    "fetchedAt": "2026-10-07T06:45:28.335Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "banger",
+            "volume": 29240
+          },
+          {
+            "name": "bingers app",
+            "volume": 2590
+          },
+          {
+            "name": "banger agence",
+            "volume": 490
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:45:28.694Z"
+  }
+}

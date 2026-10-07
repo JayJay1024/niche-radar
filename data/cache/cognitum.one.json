@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-10T01:51:25Z"
+    },
+    "fetchedAt": "2026-10-07T06:42:47.523Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 65273,
+        "sources": {
+          "direct": 0.7762,
+          "search": 0.074,
+          "referral": 0.1065,
+          "social": 0.0287,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "ruview",
+            "volume": 13800
+          },
+          {
+            "name": "ruviwe",
+            "volume": 210
+          },
+          {
+            "name": "cognitum.com",
+            "volume": 130
+          },
+          {
+            "name": "cognitum.one ruview",
+            "volume": 30
+          },
+          {
+            "name": "esp32   cognitum seed",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:42:48.063Z"
+  }
+}

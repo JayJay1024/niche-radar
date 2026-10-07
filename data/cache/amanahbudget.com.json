@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-01T03:46:44Z"
+    },
+    "fetchedAt": "2026-10-07T06:53:10.723Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 731,
+        "sources": {
+          "direct": 0.3909,
+          "search": 0.3034,
+          "referral": 0.164,
+          "social": 0.0756,
+          "mail": 0.0383
+        },
+        "topKeywords": [
+          {
+            "name": "amanahbudget",
+            "volume": 80
+          },
+          {
+            "name": "riba tracker playstore",
+            "volume": 40
+          },
+          {
+            "name": "how to calculate zakat from stocks",
+            "volume": 220
+          },
+          {
+            "name": "what is fintech and is that model halal or haram",
+            "volume": 160
+          },
+          {
+            "name": "is deenin a good investment if i want to x10 my money",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:53:11.260Z"
+  }
+}

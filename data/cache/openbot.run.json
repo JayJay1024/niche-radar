@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-18T12:13:59.825Z"
+    },
+    "fetchedAt": "2026-10-07T06:41:18.124Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5348,
+        "sources": {
+          "direct": 0.3546,
+          "search": 0.3512,
+          "referral": 0.1573,
+          "social": 0.0642,
+          "mail": 0.035
+        },
+        "topKeywords": [
+          {
+            "name": "openbot",
+            "volume": 22080
+          },
+          {
+            "name": "openbot run",
+            "volume": 60
+          },
+          {
+            "name": "openbot download",
+            "volume": 70
+          },
+          {
+            "name": "open bot",
+            "volume": 3220
+          },
+          {
+            "name": "openbot github",
+            "volume": 2480
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:41:18.650Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-24T13:13:33.000Z"
+    },
+    "fetchedAt": "2026-10-07T06:48:52.492Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3833,
+          "search": 0.3341,
+          "referral": 0.16360000000000002,
+          "social": 0.062,
+          "mail": 0.0281
+        },
+        "topKeywords": [
+          {
+            "name": "gojiberry ai",
+            "volume": 26120
+          },
+          {
+            "name": "redreach",
+            "volume": 1680
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:48:53.025Z"
+  }
+}

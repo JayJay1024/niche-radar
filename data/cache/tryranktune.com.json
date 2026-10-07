@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-13T20:08:39Z"
+    },
+    "fetchedAt": "2026-10-07T06:46:04.028Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2142,
+        "sources": {
+          "direct": 0.2988,
+          "search": 0.2783,
+          "referral": 0.2144,
+          "social": 0.0686,
+          "mail": 0.0547
+        },
+        "topKeywords": [
+          {
+            "name": "krastie ai",
+            "volume": 430
+          },
+          {
+            "name": "ranktune ai",
+            "volume": 160
+          },
+          {
+            "name": "clairon ai",
+            "volume": 50
+          },
+          {
+            "name": "ranktune",
+            "volume": 260
+          },
+          {
+            "name": "ai visibility tracker",
+            "volume": 1090
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:46:04.885Z"
+  }
+}

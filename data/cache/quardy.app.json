@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-02T13:22:56.466Z"
+    },
+    "fetchedAt": "2026-10-07T06:50:26.603Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1846,
+        "sources": {
+          "direct": 0.3566,
+          "search": 0.3263,
+          "referral": 0.1756,
+          "social": 0.0674,
+          "mail": 0.0396
+        },
+        "topKeywords": [
+          {
+            "name": "fidwallet",
+            "volume": 80
+          },
+          {
+            "name": "fidme aviles taja",
+            "volume": 510
+          },
+          {
+            "name": "favecard",
+            "volume": 410
+          },
+          {
+            "name": "fidelatoo",
+            "volume": 340
+          },
+          {
+            "name": "quardy",
+            "volume": 110
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-07T06:50:27.119Z"
+  }
+}
