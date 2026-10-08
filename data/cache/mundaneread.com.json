@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-09-17T03:43:28Z"
+    },
+    "fetchedAt": "2026-10-08T07:03:40.098Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1032,
+        "sources": {
+          "direct": 0.3469,
+          "search": 0.3559,
+          "referral": 0.1628,
+          "social": 0.0631,
+          "mail": 0.0404
+        },
+        "topKeywords": [
+          {
+            "name": "norwest shooting",
+            "volume": 6390
+          },
+          {
+            "name": "isaac bechara",
+            "volume": 4010
+          },
+          {
+            "name": "nikkie osborne carbine",
+            "volume": 440
+          },
+          {
+            "name": "kaine fisher death",
+            "volume": 60
+          },
+          {
+            "name": "shark attack sorrento",
+            "volume": 2200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T07:03:40.522Z"
+  }
+}

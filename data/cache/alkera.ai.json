@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-19T16:57:18.439Z"
+    },
+    "fetchedAt": "2026-10-08T06:48:49.300Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1291,
+        "sources": {
+          "direct": 0.3014,
+          "search": 0.2816,
+          "referral": 0.2118,
+          "social": 0.0687,
+          "mail": 0.0552
+        },
+        "topKeywords": [
+          {
+            "name": "alkera ai",
+            "volume": 480
+          },
+          {
+            "name": "alkera",
+            "volume": 700
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T06:48:49.747Z"
+  }
+}

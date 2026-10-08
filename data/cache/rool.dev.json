@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-09T08:46:04.281Z"
+    },
+    "fetchedAt": "2026-10-08T06:49:39.255Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 87237,
+        "sources": {
+          "direct": 0.5575,
+          "search": 0.2261,
+          "referral": 0.0929,
+          "social": 0.0862,
+          "mail": 0.0181
+        },
+        "topKeywords": [
+          {
+            "name": "rool",
+            "volume": 2340
+          },
+          {
+            "name": "rool ai",
+            "volume": 520
+          },
+          {
+            "name": "como coloco a tela pra mostrar onde clico",
+            "volume": 150
+          },
+          {
+            "name": "rool.dev",
+            "volume": 100
+          },
+          {
+            "name": "free ai",
+            "volume": 95950
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T06:49:39.660Z"
+  }
+}

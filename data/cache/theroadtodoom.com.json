@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-18T19:24:09Z"
+    },
+    "fetchedAt": "2026-10-08T07:03:12.015Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 48269,
+        "sources": {
+          "direct": 0.773,
+          "search": 0.1502,
+          "referral": 0.0498,
+          "social": 0.0146,
+          "mail": 0.006
+        },
+        "topKeywords": [
+          {
+            "name": "road to doomsday",
+            "volume": 11680
+          },
+          {
+            "name": "roadtodoomsday",
+            "volume": 2020
+          },
+          {
+            "name": "roadtodoom",
+            "volume": 0
+          },
+          {
+            "name": "doomsday roadmap",
+            "volume": 410
+          },
+          {
+            "name": "doomsday",
+            "volume": 680400
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T07:03:12.608Z"
+  }
+}

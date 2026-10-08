@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-08T16:51:24Z"
+    },
+    "fetchedAt": "2026-10-08T06:59:09.428Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 194,
+        "sources": {
+          "direct": 0.417,
+          "search": 0.3059,
+          "referral": 0.1488,
+          "social": 0.0687,
+          "mail": 0.0294
+        },
+        "topKeywords": [
+          {
+            "name": "if sales made to unregistered person treatment for input tax and output tax?",
+            "volume": 430
+          },
+          {
+            "name": "bra hs codes pakistan",
+            "volume": 190
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T06:59:10.001Z"
+  }
+}

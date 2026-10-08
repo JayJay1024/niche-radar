@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-14T21:15:14.943Z"
+    },
+    "fetchedAt": "2026-10-08T07:03:19.382Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1555,
+        "sources": {
+          "direct": 0.2939,
+          "search": 0.2779,
+          "referral": 0.21810000000000002,
+          "social": 0.0684,
+          "mail": 0.0547
+        },
+        "topKeywords": [
+          {
+            "name": "backengine",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T07:03:20.019Z"
+  }
+}

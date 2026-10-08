@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-24T18:50:31.769Z"
+    },
+    "fetchedAt": "2026-10-08T06:50:43.948Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2639,
+        "sources": {
+          "direct": 0.3059,
+          "search": 0.2805,
+          "referral": 0.2095,
+          "social": 0.0687,
+          "mail": 0.055
+        },
+        "topKeywords": [
+          {
+            "name": "rhem labs",
+            "volume": 50
+          },
+          {
+            "name": "rhem",
+            "volume": 620
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T06:50:44.326Z"
+  }
+}

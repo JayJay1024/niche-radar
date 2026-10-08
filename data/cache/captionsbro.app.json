@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-23T14:00:05.810Z"
+    },
+    "fetchedAt": "2026-10-08T06:56:06.520Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 795,
+        "sources": {
+          "direct": 0.3272,
+          "search": 0.3177,
+          "referral": 0.2024,
+          "social": 0.0623,
+          "mail": 0.0451
+        },
+        "topKeywords": [
+          {
+            "name": "jump cut na edição de talking head",
+            "volume": 290
+          },
+          {
+            "name": "premium captions styles",
+            "volume": 230
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T06:56:06.909Z"
+  }
+}

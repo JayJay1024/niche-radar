@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-04T17:53:30.041Z"
+    },
+    "fetchedAt": "2026-10-08T06:59:26.460Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "palavras cruzadas",
+            "volume": 98070
+          },
+          {
+            "name": "games like wordle",
+            "volume": 15710
+          },
+          {
+            "name": "iaspid",
+            "volume": 1510
+          },
+          {
+            "name": "juegos para aprender ingles",
+            "volume": 880
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-08T06:59:27.004Z"
+  }
+}
