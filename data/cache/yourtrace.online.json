@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-14T05:47:53.000Z"
+    },
+    "fetchedAt": "2026-10-09T07:12:26.080Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4131,
+        "sources": {
+          "direct": 0.3541,
+          "search": 0.3714,
+          "referral": 0.1306,
+          "social": 0.0733,
+          "mail": 0.0275
+        },
+        "topKeywords": [
+          {
+            "name": "feedly alternative",
+            "volume": 270
+          },
+          {
+            "name": "trace daily.dev alt",
+            "volume": 0
+          },
+          {
+            "name": "one peragpraphs tech news",
+            "volume": 120
+          },
+          {
+            "name": "techmeme alternative",
+            "volume": 20
+          },
+          {
+            "name": "which is the best app to get the summery of current world news",
+            "volume": 240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:12:26.736Z"
+  }
+}

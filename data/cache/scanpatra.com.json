@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-13T14:39:43Z"
+    },
+    "fetchedAt": "2026-10-09T07:07:59.171Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 367,
+        "sources": {
+          "direct": 0.3472,
+          "search": 0.2904,
+          "referral": 0.182,
+          "social": 0.0674,
+          "mail": 0.0534
+        },
+        "topKeywords": [
+          {
+            "name": "how to compress pdf",
+            "volume": 4940
+          },
+          {
+            "name": "compress pdf free",
+            "volume": 48960
+          },
+          {
+            "name": "best pdf scanner app",
+            "volume": 470
+          },
+          {
+            "name": "best android pdf scanner",
+            "volume": 350
+          },
+          {
+            "name": "best pdf scanner app for android",
+            "volume": 350
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:07:59.737Z"
+  }
+}

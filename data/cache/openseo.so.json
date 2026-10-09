@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-16T20:58:36.000Z"
+    },
+    "fetchedAt": "2026-10-09T06:56:48.694Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 433219,
+        "sources": {
+          "direct": 0.4264,
+          "search": 0.3053,
+          "referral": 0.1482,
+          "social": 0.0804,
+          "mail": 0.0199
+        },
+        "topKeywords": [
+          {
+            "name": "openseo",
+            "volume": 136050
+          },
+          {
+            "name": "open seo",
+            "volume": 39400
+          },
+          {
+            "name": "openseo github",
+            "volume": 15090
+          },
+          {
+            "name": "backlink checker",
+            "volume": 293450
+          },
+          {
+            "name": "open seo github",
+            "volume": 10630
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T06:56:49.100Z"
+  }
+}

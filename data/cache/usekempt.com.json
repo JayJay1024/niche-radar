@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-18T21:08:53Z"
+    },
+    "fetchedAt": "2026-10-09T07:04:58.354Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2339,
+        "sources": {
+          "direct": 0.2984,
+          "search": 0.2792,
+          "referral": 0.2143,
+          "social": 0.0686,
+          "mail": 0.0547
+        },
+        "topKeywords": [
+          {
+            "name": "where does the hvac filter go?",
+            "volume": 100
+          },
+          {
+            "name": "which way to point my arrow on hvac",
+            "volume": 60
+          },
+          {
+            "name": "first alert brk 3120b hardwired smoke detector light blinks every three seconds",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:04:58.716Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-17T00:57:31.043Z"
+    },
+    "fetchedAt": "2026-10-09T06:58:22.252Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1551,
+        "sources": {
+          "direct": 0.3058,
+          "search": 0.2835,
+          "referral": 0.20839999999999997,
+          "social": 0.07,
+          "mail": 0.0528
+        },
+        "topKeywords": [
+          {
+            "name": "how to get a pet on mac",
+            "volume": 90
+          },
+          {
+            "name": "how to get screen pet on mac",
+            "volume": 120
+          },
+          {
+            "name": "how to get a desktop pet on mac",
+            "volume": 100
+          },
+          {
+            "name": "pawpaw mac",
+            "volume": 20
+          },
+          {
+            "name": "steam games like bongo cat",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T06:58:23.005Z"
+  }
+}

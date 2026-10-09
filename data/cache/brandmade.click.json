@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-09T07:29:56.211Z"
+    },
+    "fetchedAt": "2026-10-09T07:07:03.411Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "brandmade consult",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:07:04.125Z"
+  }
+}

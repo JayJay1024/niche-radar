@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-10T05:42:32.439Z"
+    },
+    "fetchedAt": "2026-10-09T07:04:23.760Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 925,
+        "sources": {
+          "direct": 0.3709,
+          "search": 0.3432,
+          "referral": 0.1577,
+          "social": 0.0676,
+          "mail": 0.0296
+        },
+        "topKeywords": [
+          {
+            "name": "leanbacklite",
+            "volume": 380
+          },
+          {
+            "name": "leanback digital",
+            "volume": 50
+          },
+          {
+            "name": "leanback",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:04:24.144Z"
+  }
+}

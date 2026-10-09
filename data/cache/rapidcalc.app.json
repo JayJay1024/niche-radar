@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-20T07:01:48.844Z"
+    },
+    "fetchedAt": "2026-10-09T07:08:27.016Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2284,
+        "sources": {
+          "direct": 0.2993,
+          "search": 0.2792,
+          "referral": 0.2136,
+          "social": 0.0687,
+          "mail": 0.0547
+        },
+        "topKeywords": [
+          {
+            "name": "horoscope generator",
+            "volume": 1570
+          },
+          {
+            "name": "top calculator websites",
+            "volume": 120
+          },
+          {
+            "name": "top 10 websites on calculators",
+            "volume": 60
+          },
+          {
+            "name": "date difference calculator",
+            "volume": 16290
+          },
+          {
+            "name": "water intake calculator",
+            "volume": 6540
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:08:27.651Z"
+  }
+}

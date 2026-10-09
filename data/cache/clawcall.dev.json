@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-17T05:36:30.006Z"
+    },
+    "fetchedAt": "2026-10-09T07:00:05.980Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1352,
+        "sources": {
+          "direct": 0.2904,
+          "search": 0.2736,
+          "referral": 0.2217,
+          "social": 0.0683,
+          "mail": 0.0544
+        },
+        "topKeywords": [
+          {
+            "name": "\"i'm an ai assistant calling on behalf of\" \"schedule\"",
+            "volume": 470
+          },
+          {
+            "name": "clawcall",
+            "volume": 40
+          },
+          {
+            "name": "ai call",
+            "volume": 2290
+          },
+          {
+            "name": "bland api",
+            "volume": 2180
+          },
+          {
+            "name": "ai caller",
+            "volume": 1230
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:00:06.413Z"
+  }
+}

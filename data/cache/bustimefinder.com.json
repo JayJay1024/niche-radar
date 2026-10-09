@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-24T12:41:30Z"
+    },
+    "fetchedAt": "2026-10-09T07:07:24.020Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1719,
+        "sources": {
+          "direct": 0.3014,
+          "search": 0.3158,
+          "referral": 0.20729999999999998,
+          "social": 0.0732,
+          "mail": 0.0443
+        },
+        "topKeywords": [
+          {
+            "name": "bustimefinder.com",
+            "volume": 110
+          },
+          {
+            "name": "flexibus",
+            "volume": 39300
+          },
+          {
+            "name": "132",
+            "volume": 18090
+          },
+          {
+            "name": "239",
+            "volume": 2950
+          },
+          {
+            "name": "east yorkshire buses",
+            "volume": 1270
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-09T07:07:24.599Z"
+  }
+}
