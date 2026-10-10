@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-13T21:14:07.912Z"
+    },
+    "fetchedAt": "2026-10-10T06:34:50.841Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 581,
+        "sources": {
+          "direct": 0.3622,
+          "search": 0.3253,
+          "referral": 0.1596,
+          "social": 0.066,
+          "mail": 0.0441
+        },
+        "topKeywords": [
+          {
+            "name": "which one can is use powershepp with gemini",
+            "volume": 220
+          },
+          {
+            "name": "prompt to speak for 1 minute",
+            "volume": 200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-10T06:34:51.387Z"
+  }
+}

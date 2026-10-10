@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-23T07:24:42Z"
+    },
+    "fetchedAt": "2026-10-10T06:31:37.123Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "busabase",
+            "volume": 490
+          },
+          {
+            "name": "oh my pi",
+            "volume": 97430
+          },
+          {
+            "name": "command code",
+            "volume": 104560
+          },
+          {
+            "name": "factory droid",
+            "volume": 4420
+          },
+          {
+            "name": "pi harness",
+            "volume": 42670
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-10T06:31:37.571Z"
+  }
+}

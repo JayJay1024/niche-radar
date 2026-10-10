@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-27T14:34:43Z"
+    },
+    "fetchedAt": "2026-10-10T06:41:13.629Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4851,
+        "sources": {
+          "direct": 0.3286,
+          "search": 0.2899,
+          "referral": 0.2052,
+          "social": 0.0677,
+          "mail": 0.0445
+        },
+        "topKeywords": [
+          {
+            "name": "mlx optiq",
+            "volume": 170
+          },
+          {
+            "name": "optiq serve",
+            "volume": 150
+          },
+          {
+            "name": "optiq lab",
+            "volume": 0
+          },
+          {
+            "name": "qwen36 moe mlx",
+            "volume": 50
+          },
+          {
+            "name": "diffusion gemma",
+            "volume": 3300
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-10T06:41:14.328Z"
+  }
+}

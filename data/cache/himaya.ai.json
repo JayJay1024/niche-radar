@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-05T23:55:19.715Z"
+    },
+    "fetchedAt": "2026-10-10T06:40:04.369Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "heymaya",
+            "volume": 210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-10T06:40:04.869Z"
+  }
+}
