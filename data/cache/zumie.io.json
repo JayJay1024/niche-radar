@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-12T17:25:10.000Z"
+    },
+    "fetchedAt": "2026-10-11T06:44:32.774Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 22527,
+        "sources": {
+          "direct": 0.405,
+          "search": 0.342,
+          "referral": 0.1308,
+          "social": 0.0635,
+          "mail": 0.0284
+        },
+        "topKeywords": [
+          {
+            "name": "screenshot beautifier",
+            "volume": 430
+          },
+          {
+            "name": "сравни запись экрана obs vs sharex",
+            "volume": 60
+          },
+          {
+            "name": "auto zoom screen recorder",
+            "volume": 410
+          },
+          {
+            "name": "screencapture for demo auto zoom",
+            "volume": 80
+          },
+          {
+            "name": "loom to gif",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-11T06:44:33.173Z"
+  }
+}

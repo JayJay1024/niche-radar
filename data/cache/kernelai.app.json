@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-06T01:35:41.062Z"
+    },
+    "fetchedAt": "2026-10-11T06:41:07.126Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1138,
+        "sources": {
+          "direct": 0.3596,
+          "search": 0.3111,
+          "referral": 0.1998,
+          "social": 0.0631,
+          "mail": 0.0343
+        },
+        "topKeywords": [
+          {
+            "name": "kernelai",
+            "volume": 10
+          },
+          {
+            "name": "kernelich",
+            "volume": 990
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-11T06:41:07.774Z"
+  }
+}
