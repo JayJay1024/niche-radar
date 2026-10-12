@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-09-01T21:14:56.000Z"
+    },
+    "fetchedAt": "2026-10-12T06:47:12.333Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "licor para hugo spritz",
+            "volume": 240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-12T06:47:12.816Z"
+  }
+}

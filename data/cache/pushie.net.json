@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-29T02:16:48Z"
+    },
+    "fetchedAt": "2026-10-12T06:50:26.792Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 283,
+        "sources": {
+          "direct": 0.3852,
+          "search": 0.3138,
+          "referral": 0.1465,
+          "social": 0.0777,
+          "mail": 0.0501
+        },
+        "topKeywords": [
+          {
+            "name": "pushie",
+            "volume": 590
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-12T06:50:27.130Z"
+  }
+}

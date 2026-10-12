@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-07T21:03:31.416Z"
+    },
+    "fetchedAt": "2026-10-12T06:50:37.700Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4581,
+        "sources": {
+          "direct": 0.3899,
+          "search": 0.3379,
+          "referral": 0.134,
+          "social": 0.0617,
+          "mail": 0.0342
+        },
+        "topKeywords": [
+          {
+            "name": "wrap changelog",
+            "volume": 0
+          },
+          {
+            "name": "wrap dev",
+            "volume": 280
+          },
+          {
+            "name": "ses cost calculator",
+            "volume": 130
+          },
+          {
+            "name": "amazon ses pricing",
+            "volume": 3850
+          },
+          {
+            "name": "aws email service pricing",
+            "volume": 910
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-12T06:50:38.171Z"
+  }
+}

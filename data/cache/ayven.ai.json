@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-11T08:25:30.864Z"
+    },
+    "fetchedAt": "2026-10-12T06:46:05.134Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3469,
+        "sources": {
+          "direct": 0.3337,
+          "search": 0.3116,
+          "referral": 0.1822,
+          "social": 0.0671,
+          "mail": 0.0466
+        },
+        "topKeywords": [
+          {
+            "name": "alven ai",
+            "volume": 2100
+          },
+          {
+            "name": "ai task management",
+            "volume": 1460
+          },
+          {
+            "name": "month end close process",
+            "volume": 900
+          },
+          {
+            "name": "ai project management",
+            "volume": 540
+          },
+          {
+            "name": "asana vs. monday",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-12T06:46:05.498Z"
+  }
+}

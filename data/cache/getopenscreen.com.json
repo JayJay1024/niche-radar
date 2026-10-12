@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-24T14:54:29Z"
+    },
+    "fetchedAt": "2026-10-12T06:45:45.484Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 38383,
+        "sources": {
+          "direct": 0.367,
+          "search": 0.5237,
+          "referral": 0.0786,
+          "social": 0.0077,
+          "mail": 0.004
+        },
+        "topKeywords": [
+          {
+            "name": "openscreen",
+            "volume": 10630
+          },
+          {
+            "name": "open screen",
+            "volume": 2620
+          },
+          {
+            "name": "screen 2 录屏",
+            "volume": 0
+          },
+          {
+            "name": "openscreen.setup.1.13.0",
+            "volume": 0
+          },
+          {
+            "name": "openscreen github",
+            "volume": 2430
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-12T06:45:45.797Z"
+  }
+}

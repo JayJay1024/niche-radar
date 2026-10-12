@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-15T05:48:44Z"
+    },
+    "fetchedAt": "2026-10-12T06:50:48.779Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 982,
+        "sources": {
+          "direct": 0.2903,
+          "search": 0.2736,
+          "referral": 0.2217,
+          "social": 0.0683,
+          "mail": 0.0544
+        },
+        "topKeywords": [
+          {
+            "name": "cuanto se revalida un 1470 sat a paa aprox",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-12T06:50:49.541Z"
+  }
+}
