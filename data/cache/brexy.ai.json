@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-25T05:30:58.534Z"
+    },
+    "fetchedAt": "2026-10-13T07:16:36.292Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1609,
+        "sources": {
+          "direct": 0.3582,
+          "search": 0.3336,
+          "referral": 0.15860000000000002,
+          "social": 0.0655,
+          "mail": 0.0417
+        },
+        "topKeywords": [
+          {
+            "name": "brexy ai",
+            "volume": 160
+          },
+          {
+            "name": "ai platforms for investment banker",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-13T07:16:36.654Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-28T18:11:22.000Z"
+    },
+    "fetchedAt": "2026-10-13T07:16:54.515Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1387,
+        "sources": {
+          "direct": 0.3387,
+          "search": 0.3114,
+          "referral": 0.1811,
+          "social": 0.0672,
+          "mail": 0.0442
+        },
+        "topKeywords": [
+          {
+            "name": "is gemini cli deprecated",
+            "volume": 370
+          },
+          {
+            "name": "hrithik rastogi",
+            "volume": 110
+          },
+          {
+            "name": "parth rastogi",
+            "volume": 90
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-13T07:16:54.899Z"
+  }
+}

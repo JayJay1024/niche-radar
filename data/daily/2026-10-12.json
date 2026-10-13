@@ -1,0 +1,528 @@
+{
+  "date": "2026-10-12",
+  "funnel": {
+    "total": 31,
+    "resolved": 29,
+    "newDomains": 14,
+    "hasTraffic": 14,
+    "qualified": 0
+  },
+  "products": [
+    {
+      "name": "Google EmbeddingGemma 2",
+      "tagline": "An open, lightweight multimodal embedding model",
+      "votes": 288,
+      "phUrl": "https://www.producthunt.com/products/embeddinggemma-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "domain": "blog.google",
+      "registeredAt": "2016-08-12T19:53:55.549Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ngram 2.0",
+      "tagline": "Create explainers, screencasts, and AI avatar videos",
+      "votes": 251,
+      "phUrl": "https://www.producthunt.com/products/ngram?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.ngram.com/",
+      "domain": "ngram.com",
+      "registeredAt": "2004-04-11T19:18:11Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Base Code",
+      "tagline": "Let your whole team build on your product",
+      "votes": 193,
+      "phUrl": "https://www.producthunt.com/products/base44?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://base44.com/base-code",
+      "domain": "base44.com",
+      "registeredAt": "2024-08-26T14:10:28Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "guilds.run",
+      "tagline": "Create multi-agent workflows that you can trust",
+      "votes": 184,
+      "phUrl": "https://www.producthunt.com/products/guilds-run?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.guilds.run/",
+      "domain": "guilds.run",
+      "registeredAt": "2026-09-19T12:11:44.297Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Manifold MCP",
+      "tagline": "SEO, AI answers, social, ads and leads data for your agent",
+      "votes": 154,
+      "phUrl": "https://www.producthunt.com/products/manifold-mcp?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.manifoldmcp.com/",
+      "domain": "manifoldmcp.com",
+      "registeredAt": "2026-09-21T10:35:13Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Ancher 2.0",
+      "tagline": "Turn everything you read and save into work you can ship",
+      "votes": 147,
+      "phUrl": "https://www.producthunt.com/products/ancher-ai?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://ancher.ai/",
+      "domain": "ancher.ai",
+      "registeredAt": "2025-04-22T04:04:11.937Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Hexis Cloud",
+      "tagline": "One company brain for all your AI agents",
+      "votes": 121,
+      "phUrl": "https://www.producthunt.com/products/bevel-software?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.bevel.software/hexis",
+      "domain": "bevel.software",
+      "registeredAt": "2024-09-15T12:24:18.028Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Kudos 3.0",
+      "tagline": "The AI that finds money you're missing and gets it back",
+      "votes": 116,
+      "phUrl": "https://www.producthunt.com/products/kudos-smart-wallet?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.joinkudos.com/",
+      "domain": "joinkudos.com",
+      "registeredAt": "2021-10-04T04:15:44Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Scrape Anything by Context.dev",
+      "tagline": "Turn any website into clean data with one API call.",
+      "votes": 99,
+      "phUrl": "https://www.producthunt.com/products/context-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.context.dev/",
+      "domain": "context.dev",
+      "registeredAt": "2024-01-06T13:18:42.243Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Bearconnect 2.0",
+      "tagline": "AI-Powered LinkedIn Platform for Content and Outreach",
+      "votes": 95,
+      "phUrl": "https://www.producthunt.com/products/early-access-bearconnect-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://bearconnect.io/",
+      "domain": "bearconnect.io",
+      "registeredAt": "2024-05-18T07:49:49.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "ExcaliClaw",
+      "tagline": "Hand-drawn diagrams your AI agent can draw with you",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/excaliclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://excaliclaw.com/",
+      "domain": "excaliclaw.com",
+      "registeredAt": "2026-09-29T20:36:05Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Dropstone CLI",
+      "tagline": "The self-learning coding agent for your terminal",
+      "votes": 88,
+      "phUrl": "https://www.producthunt.com/products/dropstone-cli?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.dropstone.io/products/dropstone-cli",
+      "domain": "dropstone.io",
+      "registeredAt": "2025-01-10T10:03:33.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Invited - AI Reminder Scanner",
+      "tagline": "AI reminder scanner for bills, invites & documents",
+      "votes": 83,
+      "phUrl": "https://www.producthunt.com/products/invited-ai-reminder-scanner?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://invited.kraftostech.com/",
+      "domain": "kraftostech.com",
+      "registeredAt": "2024-10-08T07:19:08Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Understory Notes",
+      "tagline": "Notes that tell the tale",
+      "votes": 79,
+      "phUrl": "https://www.producthunt.com/products/understory-notes?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://understory.ussherpress.com/",
+      "domain": "ussherpress.com",
+      "registeredAt": "2011-04-03T01:50:04Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "SquadRoom",
+      "tagline": "AI employees that work 24/7",
+      "votes": 78,
+      "phUrl": "https://www.producthunt.com/products/squadroom?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://squadroom.app/",
+      "domain": "squadroom.app",
+      "registeredAt": "2026-06-16T02:39:07.268Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "squad room ksa",
+            "volume": 20
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Milepost",
+      "tagline": "An iOS driving journal for your car, with an MCP server",
+      "votes": 77,
+      "phUrl": "https://www.producthunt.com/products/milepost-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://milepost.club/",
+      "domain": "milepost.club",
+      "registeredAt": "2026-08-17T05:31:24Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Cube Forms",
+      "tagline": "Forms that can be filled by agents",
+      "votes": 76,
+      "phUrl": "https://www.producthunt.com/products/cube-forms?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://ui.usecube.io/",
+      "domain": "usecube.io",
+      "registeredAt": "2026-07-30T04:29:50.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "SalesRep.com",
+      "tagline": "Your AI sales rep: live prices, quotes & follow-ups 24/7",
+      "votes": 74,
+      "phUrl": "https://www.producthunt.com/products/salesrep-com?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.salesrep.com/",
+      "domain": "salesrep.com",
+      "registeredAt": "1995-09-04T04:00:00Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Codemind",
+      "tagline": "Delegate coding. Get back code that works.",
+      "votes": 71,
+      "phUrl": "https://www.producthunt.com/products/codemind-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://codemindhq.dev/",
+      "domain": "codemindhq.dev",
+      "registeredAt": "2026-05-22T13:14:15.424Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3536,
+          "search": 0.3342,
+          "referral": 0.1757,
+          "social": 0.062,
+          "mail": 0.0367
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "WPMaven",
+      "tagline": "Create and run your business with AI",
+      "votes": 22,
+      "phUrl": "https://www.producthunt.com/products/wpmaven?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://wpmaven.ai/",
+      "domain": "wpmaven.ai",
+      "registeredAt": "2025-11-22T12:58:01.333Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Momentra",
+      "tagline": "Event data infrastructure for community calendars",
+      "votes": 11,
+      "phUrl": "https://www.producthunt.com/products/momentra?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://momentra.org/",
+      "domain": "momentra.org",
+      "registeredAt": "2026-02-26T03:05:54.255Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Maya Tutor",
+      "tagline": "AI private tutor that turns homework into a magical game",
+      "votes": 11,
+      "phUrl": "https://www.producthunt.com/products/maya-tutor?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://maya-tutor.com/",
+      "domain": "maya-tutor.com",
+      "registeredAt": "2026-08-16T14:20:08Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Linkstore",
+      "tagline": "The App Store for Web",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/linkstore?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.linkstore.io/",
+      "domain": "linkstore.io",
+      "registeredAt": "2026-10-04T12:47:47.000Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "ClassQuip",
+      "tagline": "A modern, browser-native virtual classroom for K-12",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/classquip?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Shotie",
+      "tagline": "App Store screenshots, made by chatting with AI",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/shotie?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://shotie.app/",
+      "domain": "shotie.app",
+      "registeredAt": "2026-10-01T11:58:32.447Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Brexy Studio",
+      "tagline": "Give every dealmaker an AI deal team",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/brexy-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://studio.brexy.ai/",
+      "domain": "brexy.ai",
+      "registeredAt": "2026-06-25T05:30:58.534Z",
+      "traffic": {
+        "monthlyVisits": 1609,
+        "sources": {
+          "direct": 0.3582,
+          "search": 0.3336,
+          "referral": 0.15860000000000002,
+          "social": 0.0655,
+          "mail": 0.0417
+        },
+        "topKeywords": [
+          {
+            "name": "brexy ai",
+            "volume": 160
+          },
+          {
+            "name": "ai platforms for investment banker",
+            "volume": 30
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "SkillFoundry",
+      "tagline": "Your best engineer couldn't pass your own interview",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/skillfoundry?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://skillfoundry.dev/",
+      "domain": "skillfoundry.dev",
+      "registeredAt": "2025-05-12T16:42:04.784Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "carcode",
+      "tagline": "Talk to Claude Code from your car, with Siri and CarPlay",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/carcode?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.harshrastogi.tech/carcode",
+      "domain": "harshrastogi.tech",
+      "registeredAt": "2025-11-28T18:11:22.000Z",
+      "traffic": {
+        "monthlyVisits": 1387,
+        "sources": {
+          "direct": 0.3387,
+          "search": 0.3114,
+          "referral": 0.1811,
+          "social": 0.0672,
+          "mail": 0.0442
+        },
+        "topKeywords": [
+          {
+            "name": "is gemini cli deprecated",
+            "volume": 370
+          },
+          {
+            "name": "hrithik rastogi",
+            "volume": 110
+          },
+          {
+            "name": "parth rastogi",
+            "volume": 90
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "ProductOS",
+      "tagline": "From idea to shipped product, with AI agents.",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/productos-dev?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://productos.dev/",
+      "domain": "productos.dev",
+      "registeredAt": "2025-07-28T19:32:22.802Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Flagfolio",
+      "tagline": "Every country you visit. One passport to show it.",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/flagfolio-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Talentlo",
+      "tagline": "Rank every candidate against each other, not just the JD",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/talentlo?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://talentlo.com/",
+      "domain": "talentlo.com",
+      "registeredAt": "2024-11-27T05:54:50Z",
+      "eliminatedBy": "domain-age"
+    }
+  ]
+}
