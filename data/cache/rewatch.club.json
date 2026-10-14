@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-22T19:05:36Z"
+    },
+    "fetchedAt": "2026-10-14T05:52:27.265Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1654,
+        "sources": {
+          "direct": 0.2996,
+          "search": 0.2933,
+          "referral": 0.2143,
+          "social": 0.0659,
+          "mail": 0.0493
+        },
+        "topKeywords": [
+          {
+            "name": "rewatch",
+            "volume": 4370
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:52:27.833Z"
+  }
+}

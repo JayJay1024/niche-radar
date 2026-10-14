@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-01T06:46:06Z"
+    },
+    "fetchedAt": "2026-10-14T05:39:48.164Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 313,
+        "sources": {
+          "direct": 0.3922,
+          "search": 0.3252,
+          "referral": 0.133,
+          "social": 0.0645,
+          "mail": 0.0376
+        },
+        "topKeywords": [
+          {
+            "name": "lowkey lighting vs hard lighting",
+            "volume": 490
+          },
+          {
+            "name": "climonkey",
+            "volume": 190
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:39:48.537Z"
+  }
+}

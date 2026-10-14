@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-06T18:04:31Z"
+    },
+    "fetchedAt": "2026-10-14T05:48:05.277Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7097,
+        "sources": {
+          "direct": 0.3428,
+          "search": 0.3378,
+          "referral": 0.17309999999999998,
+          "social": 0.0651,
+          "mail": 0.0398
+        },
+        "topKeywords": [
+          {
+            "name": "cadabra mcp",
+            "volume": 80
+          },
+          {
+            "name": "cadabra systems",
+            "volume": 60
+          },
+          {
+            "name": "video ai",
+            "volume": 51360
+          },
+          {
+            "name": "best ai video model for hebrew lipsyncing?",
+            "volume": 350
+          },
+          {
+            "name": "מדובבים אתר",
+            "volume": 140
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:48:05.879Z"
+  }
+}

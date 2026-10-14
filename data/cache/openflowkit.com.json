@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-16T13:48:32Z"
+    },
+    "fetchedAt": "2026-10-14T05:40:41.072Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4843,
+        "sources": {
+          "direct": 0.4109,
+          "search": 0.3512,
+          "referral": 0.11979999999999999,
+          "social": 0.0717,
+          "mail": 0.0212
+        },
+        "topKeywords": [
+          {
+            "name": "open flow kit",
+            "volume": 60
+          },
+          {
+            "name": "openflowkit",
+            "volume": 360
+          },
+          {
+            "name": "openflow",
+            "volume": 7610
+          },
+          {
+            "name": "flowkit",
+            "volume": 3490
+          },
+          {
+            "name": "open flow ai",
+            "volume": 150
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:40:41.434Z"
+  }
+}

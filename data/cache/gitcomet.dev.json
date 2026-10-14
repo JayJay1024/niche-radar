@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-06T09:12:46.699Z"
+    },
+    "fetchedAt": "2026-10-14T05:45:24.166Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 352,
+        "sources": {
+          "direct": 0.323,
+          "search": 0.2966,
+          "referral": 0.1906,
+          "social": 0.0701,
+          "mail": 0.0559
+        },
+        "topKeywords": [
+          {
+            "name": "gitcomet",
+            "volume": 760
+          },
+          {
+            "name": "git diff for linux gui",
+            "volume": 0
+          },
+          {
+            "name": "git-gui linux",
+            "volume": 170
+          },
+          {
+            "name": "gitcomet vs sourcegit",
+            "volume": 120
+          },
+          {
+            "name": "comet github",
+            "volume": 960
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:45:24.743Z"
+  }
+}

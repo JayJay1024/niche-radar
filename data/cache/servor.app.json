@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-27T19:57:43.804Z"
+    },
+    "fetchedAt": "2026-10-14T05:39:39.379Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "frp tunnel",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:39:39.766Z"
+  }
+}

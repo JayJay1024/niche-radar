@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-29T12:02:39.208Z"
+    },
+    "fetchedAt": "2026-10-14T05:43:28.857Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1000,
+        "sources": {
+          "direct": 0.3617,
+          "search": 0.328,
+          "referral": 0.1594,
+          "social": 0.0654,
+          "mail": 0.0434
+        },
+        "topKeywords": [
+          {
+            "name": "ai shirt form clipping",
+            "volume": 230
+          },
+          {
+            "name": "salwar suit dupatta ai mockup bundle demo",
+            "volume": 50
+          },
+          {
+            "name": "apiway vs botika",
+            "volume": 80
+          },
+          {
+            "name": "apparelai",
+            "volume": 40
+          },
+          {
+            "name": "model photoshoot in surat saree",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:43:29.241Z"
+  }
+}

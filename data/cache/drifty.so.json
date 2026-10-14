@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-22T08:50:10.000Z"
+    },
+    "fetchedAt": "2026-10-14T05:44:45.893Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 44357,
+        "sources": {
+          "direct": 0.3946,
+          "search": 0.1836,
+          "referral": 0.2511,
+          "social": 0.1279,
+          "mail": 0.0343
+        },
+        "topKeywords": [
+          {
+            "name": "drifty",
+            "volume": 4610
+          },
+          {
+            "name": "drifty automatically close",
+            "volume": 440
+          },
+          {
+            "name": "drifty for windows",
+            "volume": 250
+          },
+          {
+            "name": "drifty pet automatically close",
+            "volume": 460
+          },
+          {
+            "name": "drifty ai",
+            "volume": 380
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:44:46.250Z"
+  }
+}

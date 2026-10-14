@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-02T15:00:18Z"
+    },
+    "fetchedAt": "2026-10-14T05:53:30.310Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 153665,
+        "sources": {
+          "direct": 0.6895,
+          "search": 0.1033,
+          "referral": 0.0968,
+          "social": 0.0811,
+          "mail": 0.0281
+        },
+        "topKeywords": [
+          {
+            "name": "cricket draft game",
+            "volume": 160
+          },
+          {
+            "name": "cric arcae draft all time",
+            "volume": 150
+          },
+          {
+            "name": "cricarcade",
+            "volume": 70
+          },
+          {
+            "name": "cricket380 :the chase",
+            "volume": 70
+          },
+          {
+            "name": "38-0 for cricket",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:53:30.864Z"
+  }
+}

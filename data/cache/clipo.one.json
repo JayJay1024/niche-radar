@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-16T09:47:16Z"
+    },
+    "fetchedAt": "2026-10-14T05:42:05.944Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7587,
+        "sources": {
+          "direct": 0.393,
+          "search": 0.2818,
+          "referral": 0.1302,
+          "social": 0.147,
+          "mail": 0.0211
+        },
+        "topKeywords": [
+          {
+            "name": "clipo",
+            "volume": 4500
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:42:06.315Z"
+  }
+}

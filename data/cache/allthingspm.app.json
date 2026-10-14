@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-09T10:11:22.516Z"
+    },
+    "fetchedAt": "2026-10-14T05:50:40.362Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 980,
+        "sources": {
+          "direct": 0.3601,
+          "search": 0.3278,
+          "referral": 0.1597,
+          "social": 0.0657,
+          "mail": 0.0435
+        },
+        "topKeywords": [
+          {
+            "name": "gsc mcp",
+            "volume": 5790
+          },
+          {
+            "name": "the team that managed itself team norms",
+            "volume": 110
+          },
+          {
+            "name": "robinhood mcp server",
+            "volume": 1230
+          },
+          {
+            "name": "pff mcp",
+            "volume": 50
+          },
+          {
+            "name": "capcut mcp",
+            "volume": 26490
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:50:40.821Z"
+  }
+}

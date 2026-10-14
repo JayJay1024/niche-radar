@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-13T12:48:39.282Z"
+    },
+    "fetchedAt": "2026-10-14T06:04:54.766Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 631,
+        "sources": {
+          "direct": 0.3426,
+          "search": 0.3077,
+          "referral": 0.2012,
+          "social": 0.0619,
+          "mail": 0.0448
+        },
+        "topKeywords": [
+          {
+            "name": "distance mesquer saint lyphard",
+            "volume": 600
+          },
+          {
+            "name": "wa.compath",
+            "volume": 190
+          },
+          {
+            "name": "langeais randos",
+            "volume": 40
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T06:04:55.409Z"
+  }
+}

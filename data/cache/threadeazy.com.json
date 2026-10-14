@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-01T02:28:56Z"
+    },
+    "fetchedAt": "2026-10-14T06:10:04.387Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 22,
+        "sources": {
+          "direct": 0.3489,
+          "search": 0.3234,
+          "referral": 0.185,
+          "social": 0.0623,
+          "mail": 0.0435
+        },
+        "topKeywords": [
+          {
+            "name": "theejazy treads",
+            "volume": 260
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T06:10:05.125Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-09-04T09:03:16Z"
+    },
+    "fetchedAt": "2026-10-14T06:09:53.108Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 792,
+        "sources": {
+          "direct": 0.3755,
+          "search": 0.3312,
+          "referral": 0.1656,
+          "social": 0.0605,
+          "mail": 0.0341
+        },
+        "topKeywords": [
+          {
+            "name": "where to get decal id of an image online",
+            "volume": 0
+          },
+          {
+            "name": "terraria character editor",
+            "volume": 2010
+          },
+          {
+            "name": "stardew valley layout planner",
+            "volume": 1080
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T06:09:53.701Z"
+  }
+}

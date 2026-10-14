@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-10T07:07:31.254Z"
+    },
+    "fetchedAt": "2026-10-14T05:45:34.381Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5235,
+        "sources": {
+          "direct": 0.3178,
+          "search": 0.2992,
+          "referral": 0.1976,
+          "social": 0.0691,
+          "mail": 0.05
+        },
+        "topKeywords": [
+          {
+            "name": "the cozy journal",
+            "volume": 850
+          },
+          {
+            "name": "journal app for mac",
+            "volume": 900
+          },
+          {
+            "name": "best diary with free syncing and no limit on entries and avialble for mac",
+            "volume": 710
+          },
+          {
+            "name": "journal app mac",
+            "volume": 660
+          },
+          {
+            "name": "best free journal app for windows shadow work",
+            "volume": 530
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:45:34.906Z"
+  }
+}

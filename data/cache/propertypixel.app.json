@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-12T10:34:43.334Z"
+    },
+    "fetchedAt": "2026-10-14T05:45:04.705Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3668,
+        "sources": {
+          "direct": 0.2942,
+          "search": 0.2914,
+          "referral": 0.2146,
+          "social": 0.0709,
+          "mail": 0.0519
+        },
+        "topKeywords": [
+          {
+            "name": "virtual staging ai",
+            "volume": 3680
+          },
+          {
+            "name": "boxbrownie",
+            "volume": 2070
+          },
+          {
+            "name": "dusk vs twilight",
+            "volume": 1000
+          },
+          {
+            "name": "how do i get ai to decorate my room for free",
+            "volume": 780
+          },
+          {
+            "name": "propertybox",
+            "volume": 710
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:45:05.112Z"
+  }
+}

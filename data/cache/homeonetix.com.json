@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-24T11:48:52Z"
+    },
+    "fetchedAt": "2026-10-14T05:47:24.246Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3515,
+          "search": 0.3457,
+          "referral": 0.1588,
+          "social": 0.0645,
+          "mail": 0.0373
+        },
+        "topKeywords": [
+          {
+            "name": "homeiont",
+            "volume": 330
+          },
+          {
+            "name": "homeopathy ai software",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:47:24.789Z"
+  }
+}

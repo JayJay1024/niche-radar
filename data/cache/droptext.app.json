@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-07T18:56:22.567Z"
+    },
+    "fetchedAt": "2026-10-14T05:49:58.871Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 11348,
+        "sources": {
+          "direct": 0.3594,
+          "search": 0.3542,
+          "referral": 0.13419999999999999,
+          "social": 0.0699,
+          "mail": 0.0401
+        },
+        "topKeywords": [
+          {
+            "name": "online notes text shared free tinyurl",
+            "volume": 0
+          },
+          {
+            "name": "droptext",
+            "volume": 210
+          },
+          {
+            "name": "how to quickly transfer texts between pc and android",
+            "volume": 180
+          },
+          {
+            "name": "realtime drop text",
+            "volume": 70
+          },
+          {
+            "name": "pastebin alternative",
+            "volume": 5470
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:49:59.422Z"
+  }
+}

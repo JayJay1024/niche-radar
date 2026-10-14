@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-10T15:28:04.617Z"
+    },
+    "fetchedAt": "2026-10-14T05:37:13.585Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 47446,
+        "sources": {
+          "direct": 0.4892,
+          "search": 0.2882,
+          "referral": 0.1207,
+          "social": 0.051,
+          "mail": 0.0303
+        },
+        "topKeywords": [
+          {
+            "name": "kai ai",
+            "volume": 13960
+          },
+          {
+            "name": "personal assistant ai tool",
+            "volume": 120
+          },
+          {
+            "name": "good planners for adhd week by week app",
+            "volume": 110
+          },
+          {
+            "name": "google calendar mcp",
+            "volume": 2310
+          },
+          {
+            "name": "kai — meeting transcription",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:37:13.978Z"
+  }
+}

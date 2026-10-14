@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-28T20:44:29.459Z"
+    },
+    "fetchedAt": "2026-10-14T05:54:19.696Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 906,
+        "sources": {
+          "direct": 0.3618,
+          "search": 0.329,
+          "referral": 0.15889999999999999,
+          "social": 0.0653,
+          "mail": 0.0428
+        },
+        "topKeywords": [
+          {
+            "name": "ucg agent",
+            "volume": 70
+          },
+          {
+            "name": "ugc agent",
+            "volume": 170
+          },
+          {
+            "name": "collabstr",
+            "volume": 31200
+          },
+          {
+            "name": "whitelist meaning",
+            "volume": 6020
+          },
+          {
+            "name": "hook rate formula in meta ads",
+            "volume": 1840
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:54:20.318Z"
+  }
+}

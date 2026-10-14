@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-06T21:21:29.046Z"
+    },
+    "fetchedAt": "2026-10-14T05:53:55.293Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 37813,
+        "sources": {
+          "direct": 0.3996,
+          "search": 0.3455,
+          "referral": 0.1487,
+          "social": 0.0551,
+          "mail": 0.0253
+        },
+        "topKeywords": [
+          {
+            "name": "free comicpages wtih daily credits ohne anmeldung",
+            "volume": 290
+          },
+          {
+            "name": "comic book maker",
+            "volume": 1020
+          },
+          {
+            "name": "ai comic maker free no sign up",
+            "volume": 220
+          },
+          {
+            "name": "church in stone cross",
+            "volume": 140
+          },
+          {
+            "name": "michel rodriguez auteur la jolie meute",
+            "volume": 130
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:53:55.904Z"
+  }
+}

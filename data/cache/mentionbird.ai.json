@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-08T07:53:27.533Z"
+    },
+    "fetchedAt": "2026-10-14T05:37:21.564Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "chat gpt tracker",
+            "volume": 720
+          },
+          {
+            "name": "chatgpt tracker",
+            "volume": 370
+          },
+          {
+            "name": "ai search visibility tool",
+            "volume": 360
+          },
+          {
+            "name": "answer engine optimization what is it",
+            "volume": 150
+          },
+          {
+            "name": "claude model usage and effort stats",
+            "volume": 140
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:37:21.921Z"
+  }
+}

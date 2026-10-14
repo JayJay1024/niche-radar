@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-30T21:42:50Z"
+    },
+    "fetchedAt": "2026-10-14T05:55:44.312Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2059,
+        "sources": {
+          "direct": 0.3387,
+          "search": 0.2972,
+          "referral": 0.2011,
+          "social": 0.0777,
+          "mail": 0.0372
+        },
+        "topKeywords": [
+          {
+            "name": "youtube rpm calculator",
+            "volume": 960
+          },
+          {
+            "name": "token to words",
+            "volume": 320
+          },
+          {
+            "name": "how many words is 125 tokens",
+            "volume": 250
+          },
+          {
+            "name": "llm vram calculator",
+            "volume": 100
+          },
+          {
+            "name": "token calculation for 500mb vram take how much token",
+            "volume": 80
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-14T05:55:44.910Z"
+  }
+}
