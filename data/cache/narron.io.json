@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-18T20:11:29.000Z"
+    },
+    "fetchedAt": "2026-10-15T05:34:49.418Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1175,
+        "sources": {
+          "direct": 0.36,
+          "search": 0.3397,
+          "referral": 0.17400000000000002,
+          "social": 0.0638,
+          "mail": 0.0352
+        },
+        "topKeywords": [
+          {
+            "name": "narron ai",
+            "volume": 80
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:34:50.020Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-02T00:12:52Z"
+    },
+    "fetchedAt": "2026-10-15T05:28:22.256Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7189,
+        "sources": {
+          "direct": 0.3439,
+          "search": 0.3071,
+          "referral": 0.1771,
+          "social": 0.0697,
+          "mail": 0.0459
+        },
+        "topKeywords": [
+          {
+            "name": "supoclip",
+            "volume": 1630
+          },
+          {
+            "name": "open source clipping",
+            "volume": 80
+          },
+          {
+            "name": "supoclips",
+            "volume": 70
+          },
+          {
+            "name": "supoclips free selfhost",
+            "volume": 70
+          },
+          {
+            "name": "ai clipperr opensource",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:28:22.586Z"
+  }
+}

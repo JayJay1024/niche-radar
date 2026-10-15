@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-23T06:30:35.325Z"
+    },
+    "fetchedAt": "2026-10-15T05:30:53.690Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "圖片翻譯",
+            "volume": 5190
+          },
+          {
+            "name": "image to text pdf converter",
+            "volume": 190
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:30:54.101Z"
+  }
+}

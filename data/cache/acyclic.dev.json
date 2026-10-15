@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-28T19:39:20.564Z"
+    },
+    "fetchedAt": "2026-10-15T05:27:59.097Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "acyclic labs",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:27:59.585Z"
+  }
+}

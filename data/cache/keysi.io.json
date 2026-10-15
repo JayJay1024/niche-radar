@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-09-09T07:12:59.000Z"
+    },
+    "fetchedAt": "2026-10-15T05:28:13.831Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "keyclu",
+            "volume": 3280
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:28:14.176Z"
+  }
+}

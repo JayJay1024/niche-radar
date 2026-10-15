@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-10-25T11:04:36Z"
+    },
+    "fetchedAt": "2026-10-15T05:30:17.638Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1244,
+        "sources": {
+          "direct": 0.4094,
+          "search": 0.2795,
+          "referral": 0.1856,
+          "social": 0.0661,
+          "mail": 0.0318
+        },
+        "topKeywords": [
+          {
+            "name": "grafico de areas",
+            "volume": 1690
+          },
+          {
+            "name": "quickchart",
+            "volume": 890
+          },
+          {
+            "name": "grafica de areas",
+            "volume": 1130
+          },
+          {
+            "name": "grafico de area",
+            "volume": 620
+          },
+          {
+            "name": "postgresql vs bigquery",
+            "volume": 330
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:30:18.055Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-16T13:23:12.000Z"
+    },
+    "fetchedAt": "2026-10-15T05:28:41.854Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2131,
+        "sources": {
+          "direct": 0.3421,
+          "search": 0.32,
+          "referral": 0.1743,
+          "social": 0.0657,
+          "mail": 0.0421
+        },
+        "topKeywords": [
+          {
+            "name": "windows local ai program",
+            "volume": 120
+          },
+          {
+            "name": "ondevice ai macbook recommended",
+            "volume": 100
+          },
+          {
+            "name": "c.suite install",
+            "volume": 30
+          },
+          {
+            "name": "csuite.so",
+            "volume": 30
+          },
+          {
+            "name": "suno latency for audio inout",
+            "volume": 370
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:28:42.192Z"
+  }
+}

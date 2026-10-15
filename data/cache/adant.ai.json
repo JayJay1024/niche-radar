@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-02T16:02:38.984Z"
+    },
+    "fetchedAt": "2026-10-15T05:24:39.654Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 6232,
+        "sources": {
+          "direct": 0.3373,
+          "search": 0.3002,
+          "referral": 0.1618,
+          "social": 0.127,
+          "mail": 0.0319
+        },
+        "topKeywords": [
+          {
+            "name": "adant ai",
+            "volume": 770
+          },
+          {
+            "name": "ad ant ai",
+            "volume": 90
+          },
+          {
+            "name": "adant",
+            "volume": 470
+          },
+          {
+            "name": "adant ai,",
+            "volume": 50
+          },
+          {
+            "name": "adant-ai",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-15T05:24:40.029Z"
+  }
+}
