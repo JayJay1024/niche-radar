@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-19T03:27:00Z"
+    },
+    "fetchedAt": "2026-10-16T05:31:50.743Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1949,
+        "sources": {
+          "direct": 0.3632,
+          "search": 0.3426,
+          "referral": 0.15639999999999998,
+          "social": 0.0681,
+          "mail": 0.0355
+        },
+        "topKeywords": [
+          {
+            "name": "scalattice",
+            "volume": 240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-16T05:31:51.301Z"
+  }
+}

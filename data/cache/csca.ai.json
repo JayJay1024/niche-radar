@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-17T04:23:43.721Z"
+    },
+    "fetchedAt": "2026-10-16T05:28:58.493Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2541,
+        "sources": {
+          "direct": 0.2988,
+          "search": 0.2796,
+          "referral": 0.214,
+          "social": 0.0686,
+          "mail": 0.055
+        },
+        "topKeywords": [
+          {
+            "name": "csca syllabus",
+            "volume": 240
+          },
+          {
+            "name": "csca ai",
+            "volume": 20
+          },
+          {
+            "name": "csca preparation platform",
+            "volume": 20
+          },
+          {
+            "name": "csca",
+            "volume": 9480
+          },
+          {
+            "name": "csca exams when are they 2027",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-16T05:28:59.073Z"
+  }
+}

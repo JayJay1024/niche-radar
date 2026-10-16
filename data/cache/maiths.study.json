@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-19T23:24:26Z"
+    },
+    "fetchedAt": "2026-10-16T05:29:17.615Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.3712,
+          "search": 0.3313,
+          "referral": 0.1751,
+          "social": 0.0705,
+          "mail": 0.0217
+        },
+        "topKeywords": [
+          {
+            "name": "higher tier and foundation tier mathematics a edexcel igcse differences",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-16T05:29:18.240Z"
+  }
+}
