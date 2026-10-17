@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-02T08:46:38.814Z"
+    },
+    "fetchedAt": "2026-10-17T05:13:20.063Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 153242,
+        "sources": {
+          "direct": 0.5851,
+          "search": 0.1555,
+          "referral": 0.1061,
+          "social": 0.0396,
+          "mail": 0.0991
+        },
+        "topKeywords": [
+          {
+            "name": "console ai",
+            "volume": 3070
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-17T05:13:20.345Z"
+  }
+}

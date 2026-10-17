@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-09T19:35:59.998Z"
+    },
+    "fetchedAt": "2026-10-17T05:20:22.967Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "weespy",
+            "volume": 1880
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-17T05:20:23.468Z"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-07T00:54:37.0Z"
+    },
+    "fetchedAt": "2026-10-17T05:12:58.544Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 984,
+        "sources": {
+          "direct": 0.348,
+          "search": 0.3392,
+          "referral": 0.1643,
+          "social": 0.0642,
+          "mail": 0.037
+        },
+        "topKeywords": [
+          {
+            "name": "conifer.build;",
+            "volume": 150
+          },
+          {
+            "name": "conifer",
+            "volume": 17050
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-17T05:12:58.820Z"
+  }
+}

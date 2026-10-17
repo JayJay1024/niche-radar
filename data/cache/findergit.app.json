@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-15T07:49:01.350Z"
+    },
+    "fetchedAt": "2026-10-17T05:14:50.843Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1734,
+        "sources": {
+          "direct": 0.3189,
+          "search": 0.303,
+          "referral": 0.19540000000000002,
+          "social": 0.0697,
+          "mail": 0.046
+        },
+        "topKeywords": [
+          {
+            "name": "mac view default github",
+            "volume": 110
+          },
+          {
+            "name": "macos filemanger github",
+            "volume": 140
+          },
+          {
+            "name": "git indir",
+            "volume": 530
+          },
+          {
+            "name": "how to add hithub repository to mac finder file",
+            "volume": 360
+          },
+          {
+            "name": "finder github",
+            "volume": 180
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-17T05:14:51.165Z"
+  }
+}

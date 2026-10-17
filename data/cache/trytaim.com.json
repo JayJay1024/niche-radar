@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-28T21:39:50Z"
+    },
+    "fetchedAt": "2026-10-17T05:13:09.290Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "taim ai brain dump",
+            "volume": 0
+          },
+          {
+            "name": "taim",
+            "volume": 3310
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-17T05:13:09.629Z"
+  }
+}

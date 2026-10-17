@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-09T15:25:32Z"
+    },
+    "fetchedAt": "2026-10-17T05:19:09.370Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2929,
+        "sources": {
+          "direct": 0.3619,
+          "search": 0.3264,
+          "referral": 0.1713,
+          "social": 0.0639,
+          "mail": 0.037
+        },
+        "topKeywords": [
+          {
+            "name": "scrieb",
+            "volume": 280
+          },
+          {
+            "name": "turboscribe",
+            "volume": 463790
+          },
+          {
+            "name": "turbo scribe",
+            "volume": 63180
+          },
+          {
+            "name": "audio to text converter",
+            "volume": 43840
+          },
+          {
+            "name": "scrib",
+            "volume": 34660
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-17T05:19:09.730Z"
+  }
+}

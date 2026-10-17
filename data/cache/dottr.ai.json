@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-24T04:07:56.195Z"
+    },
+    "fetchedAt": "2026-10-17T05:12:30.805Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "dottr",
+            "volume": 130
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-17T05:12:31.159Z"
+  }
+}
