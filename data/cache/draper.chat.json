@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-04T08:32:43.366Z"
+    },
+    "fetchedAt": "2026-10-18T05:17:18.930Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8168,
+        "sources": {
+          "direct": 0.373,
+          "search": 0.3186,
+          "referral": 0.1419,
+          "social": 0.0945,
+          "mail": 0.0335
+        },
+        "topKeywords": [
+          {
+            "name": "draper app",
+            "volume": 270
+          },
+          {
+            "name": "brand name ideas",
+            "volume": 1910
+          },
+          {
+            "name": "brand name generators",
+            "volume": 510
+          },
+          {
+            "name": "business name generator",
+            "volume": 30650
+          },
+          {
+            "name": "draper",
+            "volume": 21240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:17:19.234Z"
+  }
+}

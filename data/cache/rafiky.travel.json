@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-20T06:07:23.406Z"
+    },
+    "fetchedAt": "2026-10-18T05:20:51.018Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "rafiky",
+            "volume": 220
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:20:51.354Z"
+  }
+}

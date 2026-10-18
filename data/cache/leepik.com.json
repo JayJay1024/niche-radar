@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-14T09:39:02Z"
+    },
+    "fetchedAt": "2026-10-18T05:18:50.191Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2843,
+        "sources": {
+          "direct": 0.3543,
+          "search": 0.3402,
+          "referral": 0.1589,
+          "social": 0.065,
+          "mail": 0.0392
+        },
+        "topKeywords": [
+          {
+            "name": "leepik",
+            "volume": 530
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:18:50.512Z"
+  }
+}

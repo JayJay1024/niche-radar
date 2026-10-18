@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-24T08:11:16.000Z"
+    },
+    "fetchedAt": "2026-10-18T05:21:09.367Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "speed test",
+            "volume": 22782590
+          },
+          {
+            "name": "zerodha",
+            "volume": 194790
+          },
+          {
+            "name": "sony bravia",
+            "volume": 39930
+          },
+          {
+            "name": "20 gbp to inr",
+            "volume": 1360
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:21:09.872Z"
+  }
+}

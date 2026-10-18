@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-19T00:36:05.203Z"
+    },
+    "fetchedAt": "2026-10-18T05:15:43.678Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 13058,
+        "sources": {
+          "direct": 0.3906,
+          "search": 0.3462,
+          "referral": 0.1406,
+          "social": 0.0682,
+          "mail": 0.0289
+        },
+        "topKeywords": [
+          {
+            "name": "scholar relay",
+            "volume": 90
+          },
+          {
+            "name": "pizzaz map",
+            "volume": 80
+          },
+          {
+            "name": "ghost.org mcp",
+            "volume": 30
+          },
+          {
+            "name": "cloudflare connect 2026",
+            "volume": 2440
+          },
+          {
+            "name": "wrongstack",
+            "volume": 2390
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:15:44.014Z"
+  }
+}

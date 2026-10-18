@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-21T12:01:02Z"
+    },
+    "fetchedAt": "2026-10-18T05:18:13.043Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1726,
+        "sources": {
+          "direct": 0.2944,
+          "search": 0.2792,
+          "referral": 0.21689999999999998,
+          "social": 0.0683,
+          "mail": 0.0528
+        },
+        "topKeywords": [
+          {
+            "name": "boringnotch",
+            "volume": 5570
+          },
+          {
+            "name": "notchnook hud replacement",
+            "volume": 210
+          },
+          {
+            "name": "keyboard lock for mac",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:18:13.347Z"
+  }
+}

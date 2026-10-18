@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-02T17:54:37.702Z"
+    },
+    "fetchedAt": "2026-10-18T05:21:17.531Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 45599,
+        "sources": {
+          "direct": 0.4737,
+          "search": 0.2531,
+          "referral": 0.1963,
+          "social": 0.0453,
+          "mail": 0.0123
+        },
+        "topKeywords": [
+          {
+            "name": "builtlist sri lanka",
+            "volume": 170
+          },
+          {
+            "name": "google business",
+            "volume": 375260
+          },
+          {
+            "name": "builtlist space",
+            "volume": 50
+          },
+          {
+            "name": "built list",
+            "volume": 40
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:21:17.851Z"
+  }
+}

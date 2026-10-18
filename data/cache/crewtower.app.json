@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-25T18:08:19.389Z"
+    },
+    "fetchedAt": "2026-10-18T05:18:21.837Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "crewtower",
+            "volume": 80
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:18:22.150Z"
+  }
+}

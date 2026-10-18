@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-09T16:36:48.255Z"
+    },
+    "fetchedAt": "2026-10-18T05:18:30.749Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2713,
+        "sources": {
+          "direct": 0.3483,
+          "search": 0.3417,
+          "referral": 0.1613,
+          "social": 0.065,
+          "mail": 0.0381
+        },
+        "topKeywords": [
+          {
+            "name": "studio.optimai",
+            "volume": 40
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-18T05:18:31.101Z"
+  }
+}
