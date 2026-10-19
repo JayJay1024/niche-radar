@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-06T10:11:47.000Z"
+    },
+    "fetchedAt": "2026-10-19T05:28:24.499Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 635,
+        "sources": {
+          "direct": 0.4155,
+          "search": 0.3589,
+          "referral": 0.11080000000000001,
+          "social": 0.0694,
+          "mail": 0.0214
+        },
+        "topKeywords": [
+          {
+            "name": "is the aquistiono f langfuse seem bad or good",
+            "volume": 420
+          },
+          {
+            "name": "shim go api",
+            "volume": 200
+          },
+          {
+            "name": "claude pricing",
+            "volume": 351540
+          },
+          {
+            "name": "claude code pricing",
+            "volume": 62760
+          },
+          {
+            "name": "claude api pricing",
+            "volume": 26220
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-19T05:28:24.820Z"
+  }
+}

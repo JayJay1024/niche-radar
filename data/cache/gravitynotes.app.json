@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-02T08:16:48.835Z"
+    },
+    "fetchedAt": "2026-10-19T05:31:19.133Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "interstitial journaling",
+            "volume": 2080
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-19T05:31:19.478Z"
+  }
+}
