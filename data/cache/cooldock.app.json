@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-09-02T14:36:18.339Z"
+    },
+    "fetchedAt": "2026-10-20T05:32:49.184Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3381,
+        "sources": {
+          "direct": 0.3511,
+          "search": 0.3097,
+          "referral": 0.17820000000000003,
+          "social": 0.0631,
+          "mail": 0.0328
+        },
+        "topKeywords": [
+          {
+            "name": "cooldock",
+            "volume": 1190
+          },
+          {
+            "name": "dock cool",
+            "volume": 210
+          },
+          {
+            "name": "cool dock",
+            "volume": 170
+          },
+          {
+            "name": "cooldocks",
+            "volume": 150
+          },
+          {
+            "name": "bull statue",
+            "volume": 610
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-20T05:32:49.513Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-03T00:59:16.000Z"
+    },
+    "fetchedAt": "2026-10-20T05:36:23.310Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 7097,
+        "sources": {
+          "direct": 0.3288,
+          "search": 0.3197,
+          "referral": 0.18259999999999998,
+          "social": 0.0657,
+          "mail": 0.0468
+        },
+        "topKeywords": [
+          {
+            "name": "martech summit gurugram",
+            "volume": 50
+          },
+          {
+            "name": "india martech summit",
+            "volume": 50
+          },
+          {
+            "name": "dreamforce 2026",
+            "volume": 168890
+          },
+          {
+            "name": "dmexco",
+            "volume": 139910
+          },
+          {
+            "name": "dmexco 2026",
+            "volume": 91570
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-20T05:36:23.714Z"
+  }
+}

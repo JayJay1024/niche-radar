@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-09T13:11:40.641Z"
+    },
+    "fetchedAt": "2026-10-20T05:37:24.064Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "forma3d",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-20T05:37:24.432Z"
+  }
+}

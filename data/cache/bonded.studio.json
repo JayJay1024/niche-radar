@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-15T14:42:46.098Z"
+    },
+    "fetchedAt": "2026-10-20T05:38:49.335Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0.2869,
+          "search": 0.274,
+          "referral": 0.2249,
+          "social": 0.0681,
+          "mail": 0.0545
+        },
+        "topKeywords": [
+          {
+            "name": "questions to ask friends",
+            "volume": 3260
+          },
+          {
+            "name": "2 player board games",
+            "volume": 1660
+          },
+          {
+            "name": "queasons",
+            "volume": 470
+          },
+          {
+            "name": "best truth or dare questions to get to the point",
+            "volume": 420
+          },
+          {
+            "name": "games to play date night",
+            "volume": 390
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-20T05:38:49.761Z"
+  }
+}

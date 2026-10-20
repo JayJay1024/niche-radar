@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-18T16:15:19.975Z"
+    },
+    "fetchedAt": "2026-10-20T05:31:43.083Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8267,
+        "sources": {
+          "direct": 0.5547,
+          "search": 0.1488,
+          "referral": 0.11760000000000001,
+          "social": 0.1174,
+          "mail": 0.0526
+        },
+        "topKeywords": [
+          {
+            "name": "readywhen",
+            "volume": 360
+          },
+          {
+            "name": "readywhen/ai",
+            "volume": 60
+          },
+          {
+            "name": "granola ai",
+            "volume": 164100
+          },
+          {
+            "name": "fireflies ai",
+            "volume": 86080
+          },
+          {
+            "name": "readywhen's",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-20T05:31:43.601Z"
+  }
+}
