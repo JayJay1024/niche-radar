@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-21T12:04:23Z"
+    },
+    "fetchedAt": "2026-10-21T05:39:51.233Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 102,
+        "sources": {
+          "direct": 0.3512,
+          "search": 0.3474,
+          "referral": 0.16640000000000002,
+          "social": 0.0622,
+          "mail": 0.0376
+        },
+        "topKeywords": [
+          {
+            "name": "client glance",
+            "volume": 70
+          },
+          {
+            "name": "clickup partner program",
+            "volume": 540
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:39:51.647Z"
+  }
+}

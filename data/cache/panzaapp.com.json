@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-06T09:23:45Z"
+    },
+    "fetchedAt": "2026-10-21T05:36:29.250Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 551,
+        "sources": {
+          "direct": 0.3459,
+          "search": 0.3242,
+          "referral": 0.1697,
+          "social": 0.0919,
+          "mail": 0.0419
+        },
+        "topKeywords": [
+          {
+            "name": "panzaapp.com",
+            "volume": 210
+          },
+          {
+            "name": "panza app",
+            "volume": 210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:36:29.643Z"
+  }
+}

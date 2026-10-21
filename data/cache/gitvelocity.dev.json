@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-24T19:49:42.110Z"
+    },
+    "fetchedAt": "2026-10-21T05:41:52.197Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 261,
+        "sources": {
+          "direct": 0.3557,
+          "search": 0.3005,
+          "referral": 0.1774,
+          "social": 0.0624,
+          "mail": 0.0286
+        },
+        "topKeywords": [
+          {
+            "name": "git-velocity",
+            "volume": 20
+          },
+          {
+            "name": "metric based engineering is this a real thing",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:41:52.776Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-26T12:33:28.991815Z"
+    },
+    "fetchedAt": "2026-10-21T05:41:00.791Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1269,
+        "sources": {
+          "direct": 0.3046,
+          "search": 0.2836,
+          "referral": 0.2078,
+          "social": 0.0691,
+          "mail": 0.0544
+        },
+        "topKeywords": [
+          {
+            "name": "ghostlords 40k",
+            "volume": 820
+          },
+          {
+            "name": "what dice should i roll for action in daggerheart",
+            "volume": 460
+          },
+          {
+            "name": "20 sided die rolling a 1 probability",
+            "volume": 360
+          },
+          {
+            "name": "doppelhünd daggerheart",
+            "volume": 320
+          },
+          {
+            "name": "how many dice does attacker roll vs defender",
+            "volume": 290
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:41:01.331Z"
+  }
+}

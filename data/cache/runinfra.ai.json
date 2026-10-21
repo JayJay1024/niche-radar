@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-02T17:49:56.482Z"
+    },
+    "fetchedAt": "2026-10-21T05:33:01.454Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 23390,
+        "sources": {
+          "direct": 0.5395,
+          "search": 0.1044,
+          "referral": 0.1545,
+          "social": 0.1715,
+          "mail": 0.0184
+        },
+        "topKeywords": [
+          {
+            "name": "runinfra",
+            "volume": 570
+          },
+          {
+            "name": "runinfra ai",
+            "volume": 160
+          },
+          {
+            "name": "runinfrai",
+            "volume": 190
+          },
+          {
+            "name": "runinfra codingplan",
+            "volume": 50
+          },
+          {
+            "name": "runinfra coding plan price",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:33:01.833Z"
+  }
+}

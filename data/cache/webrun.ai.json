@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-19T02:06:08.761Z"
+    },
+    "fetchedAt": "2026-10-21T05:37:02.912Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4765,
+        "sources": {
+          "direct": 0.3276,
+          "search": 0.3053,
+          "referral": 0.187,
+          "social": 0.0674,
+          "mail": 0.0486
+        },
+        "topKeywords": [
+          {
+            "name": "corecampus ai",
+            "volume": 670
+          },
+          {
+            "name": "\"verify mc\" reviews",
+            "volume": 180
+          },
+          {
+            "name": "finquery api",
+            "volume": 180
+          },
+          {
+            "name": "ninja muckrack list",
+            "volume": 70
+          },
+          {
+            "name": "browser use",
+            "volume": 58540
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:37:03.299Z"
+  }
+}

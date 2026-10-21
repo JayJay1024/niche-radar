@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-24T18:55:35.65Z"
+    },
+    "fetchedAt": "2026-10-21T05:37:32.843Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8373,
+        "sources": {
+          "direct": 0.3973,
+          "search": 0.3259,
+          "referral": 0.14229999999999998,
+          "social": 0.0614,
+          "mail": 0.0326
+        },
+        "topKeywords": [
+          {
+            "name": "pandaos",
+            "volume": 550
+          },
+          {
+            "name": "panda os",
+            "volume": 90
+          },
+          {
+            "name": "panda os ai",
+            "volume": 0
+          },
+          {
+            "name": "cursor alternatives",
+            "volume": 3050
+          },
+          {
+            "name": "vibe code",
+            "volume": 29240
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:37:33.231Z"
+  }
+}

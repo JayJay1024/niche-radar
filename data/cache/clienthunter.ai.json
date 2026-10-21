@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-09T01:32:49.036Z"
+    },
+    "fetchedAt": "2026-10-21T05:41:11.921Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 455,
+        "sources": {
+          "direct": 0.402,
+          "search": 0.3157,
+          "referral": 0.1536,
+          "social": 0.0776,
+          "mail": 0.0232
+        },
+        "topKeywords": [
+          {
+            "name": "client hunter pro extension",
+            "volume": 150
+          },
+          {
+            "name": "clint hunting tool",
+            "volume": 40
+          },
+          {
+            "name": "client hunter pro",
+            "volume": 80
+          },
+          {
+            "name": "agenthunter",
+            "volume": 510
+          },
+          {
+            "name": "producthunt api",
+            "volume": 370
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:41:12.471Z"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-27T12:41:12.436Z"
+    },
+    "fetchedAt": "2026-10-21T05:34:47.463Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "yggy",
+            "volume": 490
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:34:47.820Z"
+  }
+}

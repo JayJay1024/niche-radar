@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-14T19:13:30.044Z"
+    },
+    "fetchedAt": "2026-10-21T05:34:56.903Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3843,
+        "sources": {
+          "direct": 0.3962,
+          "search": 0.3229,
+          "referral": 0.1404,
+          "social": 0.0616,
+          "mail": 0.0362
+        },
+        "topKeywords": [
+          {
+            "name": "stella app",
+            "volume": 5810
+          },
+          {
+            "name": "why it is so hard to wait for a message",
+            "volume": 110
+          },
+          {
+            "name": "stellalabsai",
+            "volume": 40
+          },
+          {
+            "name": "stella support",
+            "volume": 50
+          },
+          {
+            "name": "stella ai",
+            "volume": 3340
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:34:57.330Z"
+  }
+}

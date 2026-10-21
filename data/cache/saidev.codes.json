@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-14T17:50:00.601Z"
+    },
+    "fetchedAt": "2026-10-21T05:41:39.810Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1567,
+        "sources": {
+          "direct": 0.3395,
+          "search": 0.3327,
+          "referral": 0.1697,
+          "social": 0.0658,
+          "mail": 0.0402
+        },
+        "topKeywords": [
+          {
+            "name": "saidev",
+            "volume": 330
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-21T05:41:40.410Z"
+  }
+}
