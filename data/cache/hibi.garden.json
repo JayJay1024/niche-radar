@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-09-16T03:56:50Z"
+    },
+    "fetchedAt": "2026-10-22T05:38:36.960Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "hibi garden girhub",
+            "volume": 70
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-22T05:38:37.304Z"
+  }
+}

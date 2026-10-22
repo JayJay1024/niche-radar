@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-27T15:08:08.411Z"
+    },
+    "fetchedAt": "2026-10-22T05:36:22.576Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 22498,
+        "sources": {
+          "direct": 0.304,
+          "search": 0.1057,
+          "referral": 0.1918,
+          "social": 0.3607,
+          "mail": 0.0211
+        },
+        "topKeywords": [
+          {
+            "name": "muse hatch icons 6.8gb files",
+            "volume": 50
+          },
+          {
+            "name": "muse runtime export",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-22T05:36:22.960Z"
+  }
+}

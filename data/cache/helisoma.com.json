@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-20T13:36:06Z"
+    },
+    "fetchedAt": "2026-10-22T05:42:12.548Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "how can i analyze my ancestry dna trait results using chat gpt?",
+            "volume": 200
+          },
+          {
+            "name": "websites like gedmatch",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-22T05:42:12.917Z"
+  }
+}

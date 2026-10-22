@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-19T00:34:52.602Z"
+    },
+    "fetchedAt": "2026-10-22T05:42:57.138Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3185,
+        "sources": {
+          "direct": 0.2959,
+          "search": 0.2791,
+          "referral": 0.2156,
+          "social": 0.0686,
+          "mail": 0.0545
+        },
+        "topKeywords": [
+          {
+            "name": "flood maps",
+            "volume": 3200
+          },
+          {
+            "name": "harris county flood map",
+            "volume": 770
+          },
+          {
+            "name": "does katy, texas flood",
+            "volume": 320
+          },
+          {
+            "name": "texas flood edourd fema",
+            "volume": 290
+          },
+          {
+            "name": "harris county flood mao",
+            "volume": 260
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-22T05:42:57.526Z"
+  }
+}

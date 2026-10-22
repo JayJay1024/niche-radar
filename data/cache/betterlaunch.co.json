@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-21T16:08:40.000Z"
+    },
+    "fetchedAt": "2026-10-22T05:40:41.747Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 16707,
+        "sources": {
+          "direct": 0.4089,
+          "search": 0.3369,
+          "referral": 0.1311,
+          "social": 0.0637,
+          "mail": 0.0288
+        },
+        "topKeywords": [
+          {
+            "name": "betterlaunch",
+            "volume": 420
+          },
+          {
+            "name": "better launch",
+            "volume": 170
+          },
+          {
+            "name": "faceless.video jacob",
+            "volume": 220
+          },
+          {
+            "name": "nick launches",
+            "volume": 470
+          },
+          {
+            "name": "mmr saas top",
+            "volume": 100
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-22T05:40:42.154Z"
+  }
+}
