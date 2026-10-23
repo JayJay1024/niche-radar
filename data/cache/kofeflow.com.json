@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-27T00:38:38Z"
+    },
+    "fetchedAt": "2026-10-23T05:39:01.037Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 9391,
+        "sources": {
+          "direct": 0.3394,
+          "search": 0.4609,
+          "referral": 0.021400000000000002,
+          "social": 0.1651,
+          "mail": 0.0058
+        },
+        "topKeywords": [
+          {
+            "name": "kofe flow",
+            "volume": 2420
+          },
+          {
+            "name": "kofe flow web",
+            "volume": 220
+          },
+          {
+            "name": "kofeflow",
+            "volume": 390
+          },
+          {
+            "name": "kofe mac app",
+            "volume": 110
+          },
+          {
+            "name": "kofi flow pomodoro app",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:39:01.423Z"
+  }
+}

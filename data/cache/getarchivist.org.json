@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-04T18:12:06.502Z"
+    },
+    "fetchedAt": "2026-10-23T05:36:57.029Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 81,
+        "sources": {
+          "direct": 0.321,
+          "search": 0.2957,
+          "referral": 0.192,
+          "social": 0.0701,
+          "mail": 0.0568
+        },
+        "topKeywords": [
+          {
+            "name": "archivist ai",
+            "volume": 890
+          },
+          {
+            "name": "how to mass delete uploads to higgsfield",
+            "volume": 190
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:36:57.357Z"
+  }
+}

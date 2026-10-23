@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-09-08T21:20:27.000Z"
+    },
+    "fetchedAt": "2026-10-23T05:40:53.254Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "hazelchat",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:40:53.608Z"
+  }
+}

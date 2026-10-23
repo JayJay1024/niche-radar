@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-02T16:17:44.211Z"
+    },
+    "fetchedAt": "2026-10-23T05:39:55.821Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 728,
+        "sources": {
+          "direct": 0.3263,
+          "search": 0.3176,
+          "referral": 0.20390000000000003,
+          "social": 0.0612,
+          "mail": 0.0462
+        },
+        "topKeywords": [
+          {
+            "name": "specio cyme",
+            "volume": 70
+          },
+          {
+            "name": "specio",
+            "volume": 530
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:39:56.205Z"
+  }
+}

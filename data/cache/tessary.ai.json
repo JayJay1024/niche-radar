@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-01T10:42:03.81Z"
+    },
+    "fetchedAt": "2026-10-23T05:38:27.477Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 243,
+        "sources": {
+          "direct": 0.38,
+          "search": 0.3006,
+          "referral": 0.1591,
+          "social": 0.0666,
+          "mail": 0.0527
+        },
+        "topKeywords": [
+          {
+            "name": "jev as a judge",
+            "volume": 1210
+          },
+          {
+            "name": "cursor bench",
+            "volume": 18170
+          },
+          {
+            "name": "cursorbench",
+            "volume": 15030
+          },
+          {
+            "name": "bfcl",
+            "volume": 820
+          },
+          {
+            "name": "who is jev",
+            "volume": 780
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:38:27.833Z"
+  }
+}

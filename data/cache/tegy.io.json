@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-25T16:41:49.000Z"
+    },
+    "fetchedAt": "2026-10-23T05:40:25.197Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "tegy",
+            "volume": 550
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:40:25.554Z"
+  }
+}

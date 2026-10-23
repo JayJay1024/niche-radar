@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-15T09:04:19.318Z"
+    },
+    "fetchedAt": "2026-10-23T05:34:25.654Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 299540,
+        "sources": {
+          "direct": 0.4634,
+          "search": 0.2368,
+          "referral": 0.0891,
+          "social": 0.1854,
+          "mail": 0.0076
+        },
+        "topKeywords": [
+          {
+            "name": "fastlane",
+            "volume": 87150
+          },
+          {
+            "name": "fastlane ai",
+            "volume": 12730
+          },
+          {
+            "name": "usefastlane.ai",
+            "volume": 4810
+          },
+          {
+            "name": "usefastlane",
+            "volume": 4130
+          },
+          {
+            "name": "usefastlane ai",
+            "volume": 1180
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:34:26.068Z"
+  }
+}

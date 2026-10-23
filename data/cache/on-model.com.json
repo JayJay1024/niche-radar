@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-22T08:15:15Z"
+    },
+    "fetchedAt": "2026-10-23T05:39:29.315Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 9845,
+        "sources": {
+          "direct": 0.3987,
+          "search": 0.3365,
+          "referral": 0.13520000000000001,
+          "social": 0.0636,
+          "mail": 0.0304
+        },
+        "topKeywords": [
+          {
+            "name": "best ai for fashion avatars",
+            "volume": 150
+          },
+          {
+            "name": "image embedded watermark check",
+            "volume": 0
+          },
+          {
+            "name": "openai api image fashion model",
+            "volume": 90
+          },
+          {
+            "name": ".",
+            "volume": 3654130
+          },
+          {
+            "name": "ai fashion generators compare websites",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:39:29.729Z"
+  }
+}

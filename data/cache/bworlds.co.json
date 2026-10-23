@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-06T09:28:04.000Z"
+    },
+    "fetchedAt": "2026-10-23T05:41:57.106Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 23,
+        "sources": {
+          "direct": 0.3986,
+          "search": 0.3489,
+          "referral": 0.13369999999999999,
+          "social": 0.0618,
+          "mail": 0.0268
+        },
+        "topKeywords": [
+          {
+            "name": "dangers on lovable site",
+            "volume": 90
+          },
+          {
+            "name": "bworlds",
+            "volume": 80
+          },
+          {
+            "name": "emergent vs claude code vs lovable",
+            "volume": 320
+          },
+          {
+            "name": "base44 pricing",
+            "volume": 9510
+          },
+          {
+            "name": "lovable alternatives",
+            "volume": 3840
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:41:57.630Z"
+  }
+}

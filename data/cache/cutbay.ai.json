@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-01T10:18:13.208Z"
+    },
+    "fetchedAt": "2026-10-23T05:35:04.293Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2073,
+        "sources": {
+          "direct": 0.7243,
+          "search": 0.1303,
+          "referral": 0.0737,
+          "social": 0.0229,
+          "mail": 0.0182
+        },
+        "topKeywords": [
+          {
+            "name": "cutbay",
+            "volume": 780
+          },
+          {
+            "name": "cutbay ai motion graphic generator",
+            "volume": 90
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:35:04.617Z"
+  }
+}

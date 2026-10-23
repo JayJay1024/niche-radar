@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-17T21:06:20Z"
+    },
+    "fetchedAt": "2026-10-23T05:38:52.253Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4633,
+        "sources": {
+          "direct": 0.3187,
+          "search": 0.3297,
+          "referral": 0.1925,
+          "social": 0.0656,
+          "mail": 0.0398
+        },
+        "topKeywords": [
+          {
+            "name": "yuki browser",
+            "volume": 1140
+          },
+          {
+            "name": "yuki ai",
+            "volume": 200
+          },
+          {
+            "name": "yuki apple store",
+            "volume": 160
+          },
+          {
+            "name": "how do i find out when i arrived at a country by travel",
+            "volume": 30
+          },
+          {
+            "name": "percentuali di quanot ho visto nel mondo",
+            "volume": 0
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-23T05:38:52.566Z"
+  }
+}
