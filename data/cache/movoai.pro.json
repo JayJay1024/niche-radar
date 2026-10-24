@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-05T07:32:51.852Z"
+    },
+    "fetchedAt": "2026-10-24T05:12:33.968Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "movo ai",
+            "volume": 790
+          },
+          {
+            "name": "movo video",
+            "volume": 170
+          },
+          {
+            "name": "movo.video",
+            "volume": 200
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-24T05:12:35.028Z"
+  }
+}

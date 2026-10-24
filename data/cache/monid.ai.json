@@ -3,43 +3,43 @@
     "value": {
       "registeredAt": "2026-03-13T05:23:08.867Z"
     },
-    "fetchedAt": "2026-09-03T05:19:33.526Z"
+    "fetchedAt": "2026-10-24T05:12:42.054Z"
   },
   "traffic": {
     "value": {
       "traffic": {
-        "monthlyVisits": 98122,
+        "monthlyVisits": 169932,
         "sources": {
-          "direct": 0.4357,
-          "search": 0.0975,
-          "referral": 0.0164,
-          "social": 0.4311,
-          "mail": 0.0122
+          "direct": 0.4755,
+          "search": 0.1099,
+          "referral": 0.044899999999999995,
+          "social": 0.3541,
+          "mail": 0.0139
         },
         "topKeywords": [
           {
             "name": "monid",
-            "volume": 10320
+            "volume": 15860
           },
           {
             "name": "monid ai",
-            "volume": 2510
-          },
-          {
-            "name": "monid io",
-            "volume": 170
+            "volume": 5940
           },
           {
             "name": "monid api",
-            "volume": 130
+            "volume": 290
           },
           {
-            "name": "gm",
-            "volume": 9510780
+            "name": "monid trend intern",
+            "volume": 320
+          },
+          {
+            "name": "monid model api",
+            "volume": 0
           }
         ]
       }
     },
-    "fetchedAt": "2026-09-03T05:19:36.966Z"
+    "fetchedAt": "2026-10-24T05:12:42.487Z"
   }
 }

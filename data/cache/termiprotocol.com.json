@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-14T17:48:47Z"
+    },
+    "fetchedAt": "2026-10-24T05:14:56.066Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 4260,
+        "sources": {
+          "direct": 0.3325,
+          "search": 0.2956,
+          "referral": 0.1938,
+          "social": 0.0685,
+          "mail": 0.0448
+        },
+        "topKeywords": [
+          {
+            "name": "termi",
+            "volume": 1580
+          },
+          {
+            "name": "termiprotoco",
+            "volume": 30
+          },
+          {
+            "name": "equivalent of claude code terminal in chatgpt",
+            "volume": 1070
+          },
+          {
+            "name": "how to make my claude code terminal look more tuff",
+            "volume": 790
+          },
+          {
+            "name": "claude code alternative",
+            "volume": 1920
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-24T05:14:56.405Z"
+  }
+}
