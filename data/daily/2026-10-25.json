@@ -1,0 +1,478 @@
+{
+  "date": "2026-10-25",
+  "funnel": {
+    "total": 26,
+    "resolved": 21,
+    "newDomains": 12,
+    "hasTraffic": 12,
+    "qualified": 1
+  },
+  "products": [
+    {
+      "name": "AgentGrid.io",
+      "tagline": "Shared workspace for humans and agents",
+      "votes": 180,
+      "phUrl": "https://www.producthunt.com/products/agentgrid-io?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "qualified",
+      "url": "https://agentgrid.io/",
+      "domain": "agentgrid.io",
+      "registeredAt": "2026-04-29T20:03:24.000Z",
+      "traffic": {
+        "monthlyVisits": 5321,
+        "sources": {
+          "direct": 0.3351,
+          "search": 0.3078,
+          "referral": 0.1887,
+          "social": 0.0674,
+          "mail": 0.0435
+        },
+        "topKeywords": [
+          {
+            "name": "claude artifacts",
+            "volume": 39720
+          },
+          {
+            "name": "openclaw2",
+            "volume": 1650
+          },
+          {
+            "name": "how do you run packaged html files",
+            "volume": 220
+          },
+          {
+            "name": "how to make connections between items in agent grid",
+            "volume": 80
+          },
+          {
+            "name": "render_file path /workspace/artifacts/desperdicios-alcorta.html",
+            "volume": 10
+          }
+        ]
+      },
+      "detailUrl": "https://www.similarweb.com/website/agentgrid.io/"
+    },
+    {
+      "name": "Moli by Lexmount",
+      "tagline": "The fastest headless browser for agents and harnesses",
+      "votes": 268,
+      "phUrl": "https://www.producthunt.com/products/lexmount-browser?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://browser.lexmount.com/",
+      "domain": "lexmount.com",
+      "registeredAt": "2025-07-12T13:59:59Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Badgey",
+      "tagline": "Your iPhone becomes a name badge that faces the room",
+      "votes": 198,
+      "phUrl": "https://www.producthunt.com/products/badgey?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://apps.marcoluthi.com/badgey/",
+      "domain": "marcoluthi.com",
+      "registeredAt": "2017-07-12T06:05:10Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Openstatus Incident Management",
+      "tagline": "Incident management for small teams",
+      "votes": 154,
+      "phUrl": "https://www.producthunt.com/products/openstatus-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.openstatus.dev/incident-management",
+      "domain": "openstatus.dev",
+      "registeredAt": "2023-06-17T13:44:29.613Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "git-flow-next",
+      "tagline": "Your favorite Git workflow. Reimagined.",
+      "votes": 127,
+      "phUrl": "https://www.producthunt.com/products/tower?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://git-flow.sh/",
+      "domain": "git-flow.sh",
+      "registeredAt": "2025-05-07T19:37:24.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Llama Windows",
+      "tagline": "One local AI server for all your Windows apps",
+      "votes": 121,
+      "phUrl": "https://www.producthunt.com/products/llama-windows?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://llama.app/",
+      "domain": "llama.app",
+      "registeredAt": "2018-07-18T20:02:53.539Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Papermark Data Rooms",
+      "tagline": "Secure data rooms your AI agents can run. Live in < 60 sec.",
+      "votes": 104,
+      "phUrl": "https://www.producthunt.com/products/papermark-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.papermark.com/data-room",
+      "domain": "papermark.com",
+      "registeredAt": "1998-10-30T05:00:00Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "pawl",
+      "tagline": "a tiny mac focus timer you start by pulling a paw",
+      "votes": 104,
+      "phUrl": "https://www.producthunt.com/products/pawl?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.pawl.cat/",
+      "domain": "pawl.cat",
+      "registeredAt": "2026-08-12T11:51:33.671Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "MRRaudit",
+      "tagline": "Understand why your MRR differs and get a number you trust",
+      "votes": 102,
+      "phUrl": "https://www.producthunt.com/products/mrraudit?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://mrraudit.com/",
+      "domain": "mrraudit.com",
+      "registeredAt": "2026-07-22T09:18:54Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Clips by Plastic",
+      "tagline": "Lyric video ads for every part of your song, on the beat",
+      "votes": 90,
+      "phUrl": "https://www.producthunt.com/products/clips-by-plastic?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://plastic.audio/clips/",
+      "domain": "plastic.audio",
+      "registeredAt": "2026-10-06T17:28:50.0Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Yourcast 2.0",
+      "tagline": "AI summaries with tap-to-jump timestamps, right in Telegram",
+      "votes": 87,
+      "phUrl": "https://www.producthunt.com/products/yourcast?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://t.me/yourcastbot",
+      "domain": "t.me",
+      "registeredAt": "2010-05-20T18:50:32.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "How It Spread",
+      "tagline": "See how anything went viral, from the first post",
+      "votes": 87,
+      "phUrl": "https://www.producthunt.com/products/how-it-spread?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://howitspread.com/",
+      "domain": "howitspread.com",
+      "registeredAt": "2026-10-12T03:25:42Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Specsight",
+      "tagline": "Product observability for teams shipping fast with AI",
+      "votes": 78,
+      "phUrl": "https://www.producthunt.com/products/specsight?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://specsight.app/",
+      "domain": "specsight.app",
+      "registeredAt": "2026-03-08T21:14:09.331Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Sunlight Diary",
+      "tagline": "AI cheerleader based on daily sunlight target",
+      "votes": 23,
+      "phUrl": "https://www.producthunt.com/products/sunlight-diary-by-looove?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://looovehealth.com/",
+      "domain": "looovehealth.com",
+      "registeredAt": "2026-09-24T12:56:50Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Save My Prompts",
+      "tagline": "Save the prompts that work. Reuse them everywhere.",
+      "votes": 12,
+      "phUrl": "https://www.producthunt.com/products/save-my-prompts?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://savemyprompts.net/",
+      "domain": "savemyprompts.net",
+      "registeredAt": "2026-10-06T19:02:52Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "LinkedEmbed",
+      "tagline": "LinkedIn Widgets for Websites",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/linkedembed?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.linkedinembed.com/",
+      "domain": "linkedinembed.com",
+      "registeredAt": "2026-10-20T05:55:47Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "OXYGEN",
+      "tagline": "Superintelligence for GTM",
+      "votes": 9,
+      "phUrl": "https://www.producthunt.com/products/oxygen-3?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://oxygen-agent.com/",
+      "domain": "oxygen-agent.com",
+      "registeredAt": "2026-04-21T21:11:05Z",
+      "traffic": {
+        "monthlyVisits": 1675,
+        "sources": {
+          "direct": 0.3715,
+          "search": 0.3289,
+          "referral": 0.1681,
+          "social": 0.0668,
+          "mail": 0.0334
+        },
+        "topKeywords": [
+          {
+            "name": "oxygen gtm",
+            "volume": 470
+          },
+          {
+            "name": "oxygen gtm ai",
+            "volume": 130
+          },
+          {
+            "name": "ai gtm agent oxygen",
+            "volume": 110
+          },
+          {
+            "name": "oxygen agent",
+            "volume": 220
+          },
+          {
+            "name": "oxygen gtm cli for claude",
+            "volume": 50
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "TONAUT",
+      "tagline": "Synth, drums, sequencer and 8-track tape for iPhone and iPad",
+      "votes": 8,
+      "phUrl": "https://www.producthunt.com/products/tonaut?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Benchpress",
+      "tagline": "Every OCR model is #1 somewhere. Test them on your own pages",
+      "votes": 7,
+      "phUrl": "https://www.producthunt.com/products/benchpress?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://benchpress.rasyn.tech/",
+      "domain": "rasyn.tech",
+      "registeredAt": "2025-06-02T09:06:22.000Z",
+      "eliminatedBy": "domain-age"
+    },
+    {
+      "name": "Your Stressy",
+      "tagline": "One number for your energy, on iPhone and Apple Watch",
+      "votes": 6,
+      "phUrl": "https://www.producthunt.com/products/your-stressy?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Drint",
+      "tagline": "Packaging design software: dielines, 3D mockups, print files",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/drint?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Reels Flow",
+      "tagline": "Turn ideas and images into AI-powered videos",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/reels-flow?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "resolve-failed"
+    },
+    {
+      "name": "Screenodon",
+      "tagline": "Nail Your App Store Screenshots",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/screenodon?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://www.screenodon.com/",
+      "domain": "screenodon.com",
+      "registeredAt": "2026-06-26T00:10:03Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "make app store screenshots",
+            "volume": 140
+          },
+          {
+            "name": "convert iages to iphone screen shots for app store submission",
+            "volume": 80
+          },
+          {
+            "name": "app store screenshot generator",
+            "volume": 2730
+          },
+          {
+            "name": "app screen",
+            "volume": 680
+          },
+          {
+            "name": "appstore screenhsots generator",
+            "volume": 140
+          }
+        ]
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "InfiForm",
+      "tagline": "The conversational form builder without response penalties",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/infiform?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://infiform.com/",
+      "domain": "infiform.com",
+      "registeredAt": "2026-10-05T04:29:20Z",
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": []
+      },
+      "eliminatedBy": "monthly-visits"
+    },
+    {
+      "name": "Tabula",
+      "tagline": "A free native Mac database client with optional offline AI",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/tabula-7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "eliminatedBy": "platform-domain"
+    },
+    {
+      "name": "Stirred Art",
+      "tagline": "Strava for bars, Vivino for cocktails",
+      "votes": 5,
+      "phUrl": "https://www.producthunt.com/products/stirred-art?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+niche-radar+%28ID%3A+297503%29",
+      "status": "eliminated",
+      "url": "https://thestirred.art/",
+      "domain": "thestirred.art",
+      "registeredAt": "2018-12-21T22:19:17.0Z",
+      "eliminatedBy": "domain-age"
+    }
+  ]
+}

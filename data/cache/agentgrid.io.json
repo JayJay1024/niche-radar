@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-29T20:03:24.000Z"
+    },
+    "fetchedAt": "2026-10-26T05:34:42.422Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5321,
+        "sources": {
+          "direct": 0.3351,
+          "search": 0.3078,
+          "referral": 0.1887,
+          "social": 0.0674,
+          "mail": 0.0435
+        },
+        "topKeywords": [
+          {
+            "name": "claude artifacts",
+            "volume": 39720
+          },
+          {
+            "name": "openclaw2",
+            "volume": 1650
+          },
+          {
+            "name": "how do you run packaged html files",
+            "volume": 220
+          },
+          {
+            "name": "how to make connections between items in agent grid",
+            "volume": 80
+          },
+          {
+            "name": "render_file path /workspace/artifacts/desperdicios-alcorta.html",
+            "volume": 10
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-26T05:34:42.747Z"
+  }
+}

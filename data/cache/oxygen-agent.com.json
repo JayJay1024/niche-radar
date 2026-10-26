@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-21T21:11:05Z"
+    },
+    "fetchedAt": "2026-10-26T05:36:52.695Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1675,
+        "sources": {
+          "direct": 0.3715,
+          "search": 0.3289,
+          "referral": 0.1681,
+          "social": 0.0668,
+          "mail": 0.0334
+        },
+        "topKeywords": [
+          {
+            "name": "oxygen gtm",
+            "volume": 470
+          },
+          {
+            "name": "oxygen gtm ai",
+            "volume": 130
+          },
+          {
+            "name": "ai gtm agent oxygen",
+            "volume": 110
+          },
+          {
+            "name": "oxygen agent",
+            "volume": 220
+          },
+          {
+            "name": "oxygen gtm cli for claude",
+            "volume": 50
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-26T05:36:52.987Z"
+  }
+}

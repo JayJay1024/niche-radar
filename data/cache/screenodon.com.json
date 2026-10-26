@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-26T00:10:03Z"
+    },
+    "fetchedAt": "2026-10-26T05:38:12.228Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "make app store screenshots",
+            "volume": 140
+          },
+          {
+            "name": "convert iages to iphone screen shots for app store submission",
+            "volume": 80
+          },
+          {
+            "name": "app store screenshot generator",
+            "volume": 2730
+          },
+          {
+            "name": "app screen",
+            "volume": 680
+          },
+          {
+            "name": "appstore screenhsots generator",
+            "volume": 140
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-26T05:38:12.547Z"
+  }
+}
