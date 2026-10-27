@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-06T07:37:52.673Z"
+    },
+    "fetchedAt": "2026-10-27T05:47:55.833Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1311,
+        "sources": {
+          "direct": 0.4157,
+          "search": 0.2641,
+          "referral": 0.19240000000000002,
+          "social": 0.0667,
+          "mail": 0.0312
+        },
+        "topKeywords": [
+          {
+            "name": "download transparent/blur/frutiger aero/gloss theme for windows",
+            "volume": 210
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-27T05:47:56.272Z"
+  }
+}

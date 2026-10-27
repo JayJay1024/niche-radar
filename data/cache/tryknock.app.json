@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-12T10:32:27.532Z"
+    },
+    "fetchedAt": "2026-10-27T05:50:25.906Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 8033,
+        "sources": {
+          "direct": 0.4537,
+          "search": 0.3737,
+          "referral": 0.14609999999999998,
+          "social": 0.0228,
+          "mail": 0.0008
+        },
+        "topKeywords": [
+          {
+            "name": "knock for mac",
+            "volume": 450
+          },
+          {
+            "name": "tryknock app",
+            "volume": 260
+          },
+          {
+            "name": "try macbook knock app",
+            "volume": 100
+          },
+          {
+            "name": "mac os knock install",
+            "volume": 180
+          },
+          {
+            "name": "knock mac app",
+            "volume": 130
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-27T05:50:26.282Z"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-07-06T11:20:40Z"
+    },
+    "fetchedAt": "2026-10-27T05:49:44.439Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "mozy",
+            "volume": 1910
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-27T05:49:44.833Z"
+  }
+}

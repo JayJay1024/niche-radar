@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-01-20T17:47:05Z"
+    },
+    "fetchedAt": "2026-10-27T05:55:25.494Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 891,
+        "sources": {
+          "direct": 0.3579,
+          "search": 0.3363,
+          "referral": 0.1588,
+          "social": 0.0649,
+          "mail": 0.0406
+        },
+        "topKeywords": [
+          {
+            "name": "gatekeeper society",
+            "volume": 20
+          },
+          {
+            "name": "alternative to mygate app",
+            "volume": 160
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-27T05:55:25.851Z"
+  }
+}
