@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-20T15:36:15Z"
+    },
+    "fetchedAt": "2026-10-28T06:30:57.318Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "smartsub",
+            "volume": 640
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-28T06:30:57.706Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-02T15:17:29.000Z"
+    },
+    "fetchedAt": "2026-10-28T06:30:46.367Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 89,
+        "sources": {
+          "direct": 0.423,
+          "search": 0.2907,
+          "referral": 0.1504,
+          "social": 0.0811,
+          "mail": 0.0332
+        },
+        "topKeywords": [
+          {
+            "name": "asonix",
+            "volume": 190
+          },
+          {
+            "name": "asonix io",
+            "volume": 30
+          },
+          {
+            "name": "osanix",
+            "volume": 5660
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-28T06:30:46.694Z"
+  }
+}

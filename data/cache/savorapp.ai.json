@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-02-17T21:30:36.625Z"
+    },
+    "fetchedAt": "2026-10-28T06:27:05.905Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "savor",
+            "volume": 16450
+          },
+          {
+            "name": "saver savor app",
+            "volume": 430
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-28T06:27:06.306Z"
+  }
+}

@@ -3,43 +3,43 @@
     "value": {
       "registeredAt": "2026-03-15T04:23:05Z"
     },
-    "fetchedAt": "2026-09-02T05:39:05.933Z"
+    "fetchedAt": "2026-10-28T06:34:19.394Z"
   },
   "traffic": {
     "value": {
       "traffic": {
-        "monthlyVisits": 8524,
+        "monthlyVisits": 15480,
         "sources": {
-          "direct": 0,
-          "search": 0,
-          "referral": 0,
-          "social": 0,
-          "mail": 0
+          "direct": 0.3293,
+          "search": 0.3231,
+          "referral": 0.1855,
+          "social": 0.069,
+          "mail": 0.0423
         },
         "topKeywords": [
           {
-            "name": "notebooklm public notebooks list",
-            "volume": 500
-          },
-          {
-            "name": "where can i find free public gemini notebooks?",
-            "volume": 270
+            "name": "notebooklm full chats and prompts and history exporter",
+            "volume": 380
           },
           {
             "name": "sourclip",
+            "volume": 280
+          },
+          {
+            "name": "its there a way to export gemini notebook flashcards to an anki format flashcards",
             "volume": 180
           },
           {
-            "name": "obsidian vs notebooklm",
-            "volume": 730
+            "name": "notebook llm export knowledge",
+            "volume": 140
           },
           {
-            "name": "videosnap ai affiliate program",
-            "volume": 40
+            "name": "a community directory of public notebooklm notebooks",
+            "volume": 130
           }
         ]
       }
     },
-    "fetchedAt": "2026-09-02T05:39:08.601Z"
+    "fetchedAt": "2026-10-28T06:34:19.730Z"
   }
 }

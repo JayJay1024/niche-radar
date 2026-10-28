@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-12-21T09:04:15Z"
+    },
+    "fetchedAt": "2026-10-28T06:27:15.111Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 6984,
+        "sources": {
+          "direct": 0.4032,
+          "search": 0.3281,
+          "referral": 0.1395,
+          "social": 0.061,
+          "mail": 0.0323
+        },
+        "topKeywords": [
+          {
+            "name": "notra feedback.md",
+            "volume": 60
+          },
+          {
+            "name": "usenotra",
+            "volume": 40
+          },
+          {
+            "name": "notrackai",
+            "volume": 3830
+          },
+          {
+            "name": "notra",
+            "volume": 840
+          },
+          {
+            "name": "notr",
+            "volume": 7780
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-28T06:27:15.452Z"
+  }
+}
