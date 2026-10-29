@@ -1,0 +1,41 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-05-12T20:54:47.000Z"
+    },
+    "fetchedAt": "2026-10-29T06:39:10.185Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 3346,
+        "sources": {
+          "direct": 0.3058,
+          "search": 0.2826,
+          "referral": 0.2115,
+          "social": 0.0686,
+          "mail": 0.0521
+        },
+        "topKeywords": [
+          {
+            "name": "open llm",
+            "volume": 1690
+          },
+          {
+            "name": "openllm",
+            "volume": 3230
+          },
+          {
+            "name": "openallm",
+            "volume": 90
+          },
+          {
+            "name": "openllmapi",
+            "volume": 590
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:39:10.686Z"
+  }
+}

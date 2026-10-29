@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-13T06:28:21Z"
+    },
+    "fetchedAt": "2026-10-29T06:52:27.491Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 137754,
+        "sources": {
+          "direct": 0.4573,
+          "search": 0.476,
+          "referral": 0.0411,
+          "social": 0.015,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "svg icons",
+            "volume": 33940
+          },
+          {
+            "name": "icon svg",
+            "volume": 10300
+          },
+          {
+            "name": "free svg icons",
+            "volume": 16520
+          },
+          {
+            "name": "svg icon",
+            "volume": 13760
+          },
+          {
+            "name": "icons svg",
+            "volume": 5320
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:52:28.067Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-04-20T08:59:11.000Z"
+    },
+    "fetchedAt": "2026-10-29T06:46:45.767Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1224,
+        "sources": {
+          "direct": 0.3054,
+          "search": 0.3176,
+          "referral": 0.2037,
+          "social": 0.0725,
+          "mail": 0.0436
+        },
+        "topKeywords": [
+          {
+            "name": "how to read a format md on mac",
+            "volume": 0
+          },
+          {
+            "name": "column or row span in markdown",
+            "volume": 170
+          },
+          {
+            "name": "fastest md previewer",
+            "volume": 100
+          },
+          {
+            "name": ".md file extension full doc",
+            "volume": 80
+          },
+          {
+            "name": "what is the best markdown preview tool for mac",
+            "volume": 60
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:46:46.165Z"
+  }
+}

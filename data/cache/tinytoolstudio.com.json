@@ -1,0 +1,33 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-10T03:12:05Z"
+    },
+    "fetchedAt": "2026-10-29T06:47:44.362Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "text case converter",
+            "volume": 2280
+          },
+          {
+            "name": "90000 18%",
+            "volume": 20
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:47:44.780Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-06-23T20:09:58.000Z"
+    },
+    "fetchedAt": "2026-10-29T06:46:57.012Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 16821,
+        "sources": {
+          "direct": 0.6568,
+          "search": 0.02,
+          "referral": 0.051699999999999996,
+          "social": 0.2484,
+          "mail": 0.0084
+        },
+        "topKeywords": [
+          {
+            "name": "create music from text",
+            "volume": 90
+          },
+          {
+            "name": "lyrics to song generator",
+            "volume": 360
+          },
+          {
+            "name": "ai music generator",
+            "volume": 111220
+          },
+          {
+            "name": "music maker",
+            "volume": 56410
+          },
+          {
+            "name": "ai song generator",
+            "volume": 51380
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:46:57.428Z"
+  }
+}

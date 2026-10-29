@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-08-17T14:18:24Z"
+    },
+    "fetchedAt": "2026-10-29T06:37:48.326Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "tulu free trial",
+            "volume": 320
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:37:48.684Z"
+  }
+}

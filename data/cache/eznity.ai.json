@@ -1,0 +1,29 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2025-11-19T06:06:40.279Z"
+    },
+    "fetchedAt": "2026-10-29T06:48:13.413Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 0,
+        "sources": {
+          "direct": 0,
+          "search": 0,
+          "referral": 0,
+          "social": 0,
+          "mail": 0
+        },
+        "topKeywords": [
+          {
+            "name": "eznity ai",
+            "volume": 30
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:48:13.828Z"
+  }
+}

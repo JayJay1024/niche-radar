@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-02T13:06:56Z"
+    },
+    "fetchedAt": "2026-10-29T06:38:28.057Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 2348,
+        "sources": {
+          "direct": 0.3861,
+          "search": 0.3722,
+          "referral": 0.1213,
+          "social": 0.0617,
+          "mail": 0.0263
+        },
+        "topKeywords": [
+          {
+            "name": "skill app screenshot",
+            "volume": 410
+          },
+          {
+            "name": "app screenshots skill",
+            "volume": 70
+          },
+          {
+            "name": "parthjadhav",
+            "volume": 60
+          },
+          {
+            "name": "appstore screenshot skill",
+            "volume": 50
+          },
+          {
+            "name": "app screenshot generator",
+            "volume": 1410
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:38:28.469Z"
+  }
+}

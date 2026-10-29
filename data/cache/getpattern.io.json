@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-27T15:17:55.000Z"
+    },
+    "fetchedAt": "2026-10-29T06:44:21.102Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 5812,
+        "sources": {
+          "direct": 0.3497,
+          "search": 0.3448,
+          "referral": 0.1589,
+          "social": 0.0652,
+          "mail": 0.0375
+        },
+        "topKeywords": [
+          {
+            "name": "getpattern",
+            "volume": 290
+          },
+          {
+            "name": "getpattern ai",
+            "volume": 120
+          },
+          {
+            "name": "getpattern shop",
+            "volume": 60
+          },
+          {
+            "name": "mypattern",
+            "volume": 980
+          },
+          {
+            "name": "pattern",
+            "volume": 131500
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:44:21.517Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "rdap": {
+    "value": {
+      "registeredAt": "2026-03-10T21:19:49.561Z"
+    },
+    "fetchedAt": "2026-10-29T06:49:22.679Z"
+  },
+  "traffic": {
+    "value": {
+      "traffic": {
+        "monthlyVisits": 1379,
+        "sources": {
+          "direct": 0.357,
+          "search": 0.2741,
+          "referral": 0.2,
+          "social": 0.0697,
+          "mail": 0.0413
+        },
+        "topKeywords": [
+          {
+            "name": "figma",
+            "volume": 3701030
+          },
+          {
+            "name": "stripe",
+            "volume": 2896420
+          },
+          {
+            "name": "fig ma",
+            "volume": 47250
+          },
+          {
+            "name": "figma+",
+            "volume": 47010
+          },
+          {
+            "name": "figmy",
+            "volume": 43650
+          }
+        ]
+      }
+    },
+    "fetchedAt": "2026-10-29T06:49:31.416Z"
+  }
+}
